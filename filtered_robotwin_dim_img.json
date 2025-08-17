@@ -1,0 +1,2270 @@
+{
+  "00aff23a-2075-44d5-a4eb-da6d5998a409": {
+    "dimension": "1.900209*0.364783*1.251406",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\00aff23a-2075-44d5-a4eb-da6d5998a409\\base2.jpg"
+  },
+  "00bbcdaf-fd7e-42bb-b17a-48ab081971f0": {
+    "dimension": "1.371442*1.346972*1.897841",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\00bbcdaf-fd7e-42bb-b17a-48ab081971f0\\base2.jpg"
+  },
+  "00e0cb65-d493-4123-8352-042b3c890d20": {
+    "dimension": "1.13189*1.901621*0.576671",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\00e0cb65-d493-4123-8352-042b3c890d20\\base1.jpg"
+  },
+  "00f4a665-4877-4d95-ab14-5d4e6a0b1c3d": {
+    "dimension": "1.899474*0.908135*1.876961",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\00f4a665-4877-4d95-ab14-5d4e6a0b1c3d\\base1.jpg"
+  },
+  "01237be2-356a-4a66-8084-337fba056eb3": {
+    "dimension": "0.670744*0.912578*1.900157",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\01237be2-356a-4a66-8084-337fba056eb3\\base1.jpg"
+  },
+  "022d5a69-0489-4e43-8125-81bab23495d7": {
+    "dimension": "0.544933*1.901131*0.54121",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\022d5a69-0489-4e43-8125-81bab23495d7\\base1.jpg"
+  },
+  "03009e18-d171-4b19-a769-fcab6b77ef75": {
+    "dimension": "0.591459*1.901763*0.587347",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\03009e18-d171-4b19-a769-fcab6b77ef75\\base2.jpg"
+  },
+  "036ed941-bde8-4426-bcc5-61cc44b56d23": {
+    "dimension": "0.839598*1.902275*0.881191",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\036ed941-bde8-4426-bcc5-61cc44b56d23\\base4.jpg"
+  },
+  "03f1b9b7-ed45-4a7d-b4f3-92a25c0627ea": {
+    "dimension": "1.186794*1.415909*1.565162",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\03f1b9b7-ed45-4a7d-b4f3-92a25c0627ea\\base2.jpg"
+  },
+  "0600b16e-6fea-4cf8-be92-1c134834b104": {
+    "dimension": "1.460718*1.4256*0.22667",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0600b16e-6fea-4cf8-be92-1c134834b104\\base5.jpg"
+  },
+  "064fe910-a80f-4581-a8fd-4df447ff8e04": {
+    "dimension": "1.4823*1.747252*1.893524",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\064fe910-a80f-4581-a8fd-4df447ff8e04\\base5.jpg"
+  },
+  "06f7cfea-37d4-4df5-af69-8a49568632cf": {
+    "dimension": "0.842425*1.900133*1.559179",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\06f7cfea-37d4-4df5-af69-8a49568632cf\\base5.jpg"
+  },
+  "08154c4d-8177-47dc-ade4-6f1a1a8de00f": {
+    "dimension": "1.904615*0.682854*0.632351",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\08154c4d-8177-47dc-ade4-6f1a1a8de00f\\base1.jpg"
+  },
+  "0890e138-68b2-4bb6-bbcf-eb4fd45301a8": {
+    "dimension": "1.348861*1.901135*1.353422",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0890e138-68b2-4bb6-bbcf-eb4fd45301a8\\base5.jpg"
+  },
+  "08d7a42a-309a-4ff0-9b7c-6eefae1c71f3": {
+    "dimension": "1.411653*1.901806*1.410018",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\08d7a42a-309a-4ff0-9b7c-6eefae1c71f3\\base7.jpg"
+  },
+  "09d54890-6886-43ec-9c0b-fadcc587cd52": {
+    "dimension": "1.32974*1.89981*1.3326",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\09d54890-6886-43ec-9c0b-fadcc587cd52\\base1.jpg"
+  },
+  "0a625250-d9f1-4b11-b423-9cd8efba974d": {
+    "dimension": "1.093639*0.500857*1.897986",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0a625250-d9f1-4b11-b423-9cd8efba974d\\base0.jpg"
+  },
+  "0ae74b7a-1318-4ece-b44b-eb8e116d8d9c": {
+    "dimension": "1.897018*1.346469*0.910396",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0ae74b7a-1318-4ece-b44b-eb8e116d8d9c\\base2.jpg"
+  },
+  "0b4b8a67-3b2c-4956-a666-d6e72eb25049": {
+    "dimension": "0.504279*1.69003*1.899373",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0b4b8a67-3b2c-4956-a666-d6e72eb25049\\base3.jpg"
+  },
+  "0b5f4e0c-a0db-455c-8b5d-7314dd32ec52": {
+    "dimension": "1.904626*0.821926*1.408604",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0b5f4e0c-a0db-455c-8b5d-7314dd32ec52\\base10.jpg"
+  },
+  "0b715f9d-6335-40af-969a-148265f20aea": {
+    "dimension": "1.899846*0.187426*1.266474",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0b715f9d-6335-40af-969a-148265f20aea\\base1.jpg"
+  },
+  "0c28b085-43bd-4481-a46a-2173f3daa102": {
+    "dimension": "0.288966*1.894284*0.287094",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0c28b085-43bd-4481-a46a-2173f3daa102\\base0.jpg"
+  },
+  "0ce24e43-0746-4535-8fb1-5f53e7711f5e": {
+    "dimension": "1.425678*1.900413*1.432217",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0ce24e43-0746-4535-8fb1-5f53e7711f5e\\base1.jpg"
+  },
+  "0d500fea-8569-4750-a1f3-d7d6d3e7fcb6": {
+    "dimension": "0.668127*1.900688*0.401858",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0d500fea-8569-4750-a1f3-d7d6d3e7fcb6\\base2.jpg"
+  },
+  "0e59aaf0-6ef4-49c1-9a23-e0150096e0b1": {
+    "dimension": "1.904316*0.556019*0.579207",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0e59aaf0-6ef4-49c1-9a23-e0150096e0b1\\base6.jpg"
+  },
+  "0ef2521c-4184-415a-bb4c-c1ec72c02e4e": {
+    "dimension": "1.899273*1.31667*1.345065",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0ef2521c-4184-415a-bb4c-c1ec72c02e4e\\base2.jpg"
+  },
+  "0fa5b250-500c-4af1-93ed-09fc4a947d29": {
+    "dimension": "0.666379*0.825492*1.899489",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\0fa5b250-500c-4af1-93ed-09fc4a947d29\\base0.jpg"
+  },
+  "10034027-d568-48cf-a8b3-ffdded10b4c1": {
+    "dimension": "1.162981*0.154123*1.899948",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10034027-d568-48cf-a8b3-ffdded10b4c1\\base1.jpg"
+  },
+  "1036903a-a13e-43f5-a0ca-5cb876f81e8f": {
+    "dimension": "1.899715*0.76122*1.899106",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1036903a-a13e-43f5-a0ca-5cb876f81e8f\\base6.jpg"
+  },
+  "10933a30-4679-487e-90d4-5747eb3e8bc5": {
+    "dimension": "1.593057*1.660288*1.887311",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10933a30-4679-487e-90d4-5747eb3e8bc5\\base0.jpg"
+  },
+  "10a93ff5-a3c6-40a4-9f2e-d961d7a10869": {
+    "dimension": "1.900648*0.393227*0.587971",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10a93ff5-a3c6-40a4-9f2e-d961d7a10869\\base0.jpg"
+  },
+  "10baf04f-9dd8-455b-956a-60e9453ea37b": {
+    "dimension": "1.18094*1.90043*1.180494",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10baf04f-9dd8-455b-956a-60e9453ea37b\\base4.jpg"
+  },
+  "10c2f6f6-b143-4a4a-9ec8-1efb53d16377": {
+    "dimension": "1.897289*0.168899*1.261355",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10c2f6f6-b143-4a4a-9ec8-1efb53d16377\\base2.jpg"
+  },
+  "10d10bfd-3e28-4b04-84a8-878cce51acb6": {
+    "dimension": "1.995049*1.126841*1.435908",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10d10bfd-3e28-4b04-84a8-878cce51acb6\\base5.jpg"
+  },
+  "10ea2e73-6b17-430e-b10d-c43a75189a72": {
+    "dimension": "1.900653*0.148131*0.664794",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\10ea2e73-6b17-430e-b10d-c43a75189a72\\base1.jpg"
+  },
+  "112201f8-fdfd-4f1d-a06a-cb7348186a40": {
+    "dimension": "1.44576*1.901874*1.377699",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\112201f8-fdfd-4f1d-a06a-cb7348186a40\\base3.jpg"
+  },
+  "11963a85-78c1-44a4-9ec9-7df1f587662c": {
+    "dimension": "0.639715*1.897527*0.634989",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\11963a85-78c1-44a4-9ec9-7df1f587662c\\base6.jpg"
+  },
+  "11f8efd2-9160-4c32-b52e-df2ed0a677f4": {
+    "dimension": "0.547547*1.90147*0.4725",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\11f8efd2-9160-4c32-b52e-df2ed0a677f4\\base3.jpg"
+  },
+  "12f4327e-f607-4958-8ee8-696fc6e869e3": {
+    "dimension": "1.531334*1.89977*1.539405",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\12f4327e-f607-4958-8ee8-696fc6e869e3\\base4.jpg"
+  },
+  "1363ec6e-875a-4d87-98c3-00e97e049307": {
+    "dimension": "0.699998*0.800221*1.896025",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1363ec6e-875a-4d87-98c3-00e97e049307\\base9.jpg"
+  },
+  "1381294f-cf70-4d74-8074-7000662093f3": {
+    "dimension": "1.900587*0.197588*0.628752",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1381294f-cf70-4d74-8074-7000662093f3\\base0.jpg"
+  },
+  "13bc5b65-0f1f-40f3-ad21-8f15314c6950": {
+    "dimension": "0.141508*1.46881*0.483683",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\13bc5b65-0f1f-40f3-ad21-8f15314c6950\\base3.jpg"
+  },
+  "146368bb-86e9-4535-b4bf-da259b975bb4": {
+    "dimension": "0.100722*0.3*0.100502",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\146368bb-86e9-4535-b4bf-da259b975bb4\\base2.jpg"
+  },
+  "14b635e4-4b2e-4e5c-9d4a-e05265e7868e": {
+    "dimension": "1.907612*1.706189*1.78898",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\14b635e4-4b2e-4e5c-9d4a-e05265e7868e\\base1.jpg"
+  },
+  "14d90e11-79ef-493a-88ec-a4dbe52eb705": {
+    "dimension": "1.689389*1.899295*0.507075",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\14d90e11-79ef-493a-88ec-a4dbe52eb705\\base0.jpg"
+  },
+  "14f6140c-bda3-4ad0-9968-69a4df7446eb": {
+    "dimension": "1.81048*1.907413*1.806773",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\14f6140c-bda3-4ad0-9968-69a4df7446eb\\base2.jpg"
+  },
+  "151621c1-24ea-4b67-9df9-13c47e41ec05": {
+    "dimension": "1.163271*1.900601*1.462057",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\151621c1-24ea-4b67-9df9-13c47e41ec05\\base4.jpg"
+  },
+  "1541929d-1f53-4743-ad60-d6a938e875c3": {
+    "dimension": "0.641715*0.967574*1.897212",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1541929d-1f53-4743-ad60-d6a938e875c3\\base0.jpg"
+  },
+  "155a218a-c9e5-44e6-ac83-a0728d0c1107": {
+    "dimension": "0.587929*1.902689*0.595328",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\155a218a-c9e5-44e6-ac83-a0728d0c1107\\base1.jpg"
+  },
+  "15838fc5-9bd5-4138-a00e-e2f73ba6cd53": {
+    "dimension": "1.646582*1.899804*0.756605",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\15838fc5-9bd5-4138-a00e-e2f73ba6cd53\\base2.jpg"
+  },
+  "1671a6ad-0931-4f05-8b76-bc8c2addebe0": {
+    "dimension": "1.253087*1.897895*1.11802",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1671a6ad-0931-4f05-8b76-bc8c2addebe0\\base3.jpg"
+  },
+  "16e9a99d-e07e-4b2b-b0a1-a6222c21f319": {
+    "dimension": "0.930099*1.901094*0.557279",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\16e9a99d-e07e-4b2b-b0a1-a6222c21f319\\base5.jpg"
+  },
+  "176f686e-bd72-4180-a9f5-10340b408337": {
+    "dimension": "1.90048*0.39681*1.341703",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\176f686e-bd72-4180-a9f5-10340b408337\\base4.jpg"
+  },
+  "18010367-714b-4f4e-8843-e1a0537f897c": {
+    "dimension": "0.474968*0.460043*1.889063",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\18010367-714b-4f4e-8843-e1a0537f897c\\base0.jpg"
+  },
+  "1868f1c5-c849-4522-95c5-c0250785e530": {
+    "dimension": "0.913996*1.89653*0.62447",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1868f1c5-c849-4522-95c5-c0250785e530\\base4.jpg"
+  },
+  "18cf78cc-e3d0-494b-a00b-7e4d0a80048b": {
+    "dimension": "0.115213*0.1*0.11495",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\18cf78cc-e3d0-494b-a00b-7e4d0a80048b\\base2.jpg"
+  },
+  "196811db-cd1f-4f99-a06f-fb7688289718": {
+    "dimension": "0.162338*0.1*0.081385",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\196811db-cd1f-4f99-a06f-fb7688289718\\base3.jpg"
+  },
+  "1a24755f-0eed-4540-964d-0481f8c3b217": {
+    "dimension": "0.926542*0.171265*1.900047",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1a24755f-0eed-4540-964d-0481f8c3b217\\base0.jpg"
+  },
+  "1af25463-feca-40dc-934a-a356e7386d97": {
+    "dimension": "0.582013*0.652399*1.899255",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1af25463-feca-40dc-934a-a356e7386d97\\base1.jpg"
+  },
+  "1b549f92-8acd-47f0-8741-26881d89df49": {
+    "dimension": "1.899938*0.698806*1.084225",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1b549f92-8acd-47f0-8741-26881d89df49\\base3.jpg"
+  },
+  "1c8b77b3-98e9-45b9-a413-04b527202966": {
+    "dimension": "1.039797*1.90236*0.944503",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1c8b77b3-98e9-45b9-a413-04b527202966\\base3.jpg"
+  },
+  "1cfa5169-ee62-4caa-9e96-72510ae60ec2": {
+    "dimension": "1.896047*1.654575*1.796816",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1cfa5169-ee62-4caa-9e96-72510ae60ec2\\base1.jpg"
+  },
+  "1d45796a-7a0b-45e7-8929-8161c4061417": {
+    "dimension": "1.900139*0.678772*1.900598",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1d45796a-7a0b-45e7-8929-8161c4061417\\base1.jpg"
+  },
+  "1dbc08f5-d5a0-4463-bc2d-19f99f467b56": {
+    "dimension": "1.892334*1.42526*1.166057",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1dbc08f5-d5a0-4463-bc2d-19f99f467b56\\base0.jpg"
+  },
+  "1dbc90b1-1481-4ece-b9dd-49dac2f52ee7": {
+    "dimension": "1.115423*1.900393*1.116041",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1dbc90b1-1481-4ece-b9dd-49dac2f52ee7\\base2.jpg"
+  },
+  "1e15d0e7-b036-49b2-b2cf-92e6eccf3f7a": {
+    "dimension": "0.684529*1.218842*1.949162",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1e15d0e7-b036-49b2-b2cf-92e6eccf3f7a\\base4.jpg"
+  },
+  "1e1a99ab-4fe7-46b3-ade1-41e40e038d74": {
+    "dimension": "1.03859*1.899355*1.043347",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1e1a99ab-4fe7-46b3-ade1-41e40e038d74\\base4.jpg"
+  },
+  "1eb2910b-99a4-471c-9956-c85860de5bf1": {
+    "dimension": "1.889037*1.181191*1.52572",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1eb2910b-99a4-471c-9956-c85860de5bf1\\base3.jpg"
+  },
+  "1f9f6e90-2581-439d-8e29-98889deab301": {
+    "dimension": "1.899607*0.871941*0.204166",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\1f9f6e90-2581-439d-8e29-98889deab301\\base0.jpg"
+  },
+  "206466a7-bc79-46c0-ba3b-0a505476de50": {
+    "dimension": "1.899922*0.413386*0.587273",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\206466a7-bc79-46c0-ba3b-0a505476de50\\base3.jpg"
+  },
+  "20daeed6-2a54-46c1-af59-f044bdfcb7ff": {
+    "dimension": "0.100279*0.1*0.099983",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\20daeed6-2a54-46c1-af59-f044bdfcb7ff\\base1.jpg"
+  },
+  "212ce446-e01a-4ab7-ae3b-a5dcd1f683e6": {
+    "dimension": "0.64357*0.92873*1.887351",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\212ce446-e01a-4ab7-ae3b-a5dcd1f683e6\\base3.jpg"
+  },
+  "2131c7c3-e6dd-4b63-8998-cc5ce062b2b9": {
+    "dimension": "0.584636*1.891793*0.58041",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2131c7c3-e6dd-4b63-8998-cc5ce062b2b9\\base17.jpg"
+  },
+  "216dc87d-7ee1-446f-af04-932a9d610af7": {
+    "dimension": "0.705684*0.706083*1.900364",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\216dc87d-7ee1-446f-af04-932a9d610af7\\base6.jpg"
+  },
+  "21c1f3fb-3643-4e17-9f2c-e278bf32d359": {
+    "dimension": "0.896208*1.900243*0.881498",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\21c1f3fb-3643-4e17-9f2c-e278bf32d359\\base1.jpg"
+  },
+  "21e0805c-cbfa-45e9-960c-08319638e987": {
+    "dimension": "0.96028*1.899577*0.962553",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\21e0805c-cbfa-45e9-960c-08319638e987\\base2.jpg"
+  },
+  "22655f24-6e1e-4010-b2ec-c78ec21f96f7": {
+    "dimension": "0.126305*0.186942*1.897353",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\22655f24-6e1e-4010-b2ec-c78ec21f96f7\\base1.jpg"
+  },
+  "229a36c3-1383-432c-be26-7db815204c89": {
+    "dimension": "1.915739*0.984706*1.461935",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\229a36c3-1383-432c-be26-7db815204c89\\base3.jpg"
+  },
+  "23425baf-9c0b-4412-b74c-1e97dc02fe8d": {
+    "dimension": "0.496998*1.535919*0.489148",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\23425baf-9c0b-4412-b74c-1e97dc02fe8d\\base9.jpg"
+  },
+  "2381b44a-f59f-4e34-8bb1-62ea860dac12": {
+    "dimension": "1.032663*0.361686*2.088679",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2381b44a-f59f-4e34-8bb1-62ea860dac12\\base1.jpg"
+  },
+  "23bfe861-8083-492f-a9dd-5a0434b45375": {
+    "dimension": "1.900139*1.226195*1.325574",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\23bfe861-8083-492f-a9dd-5a0434b45375\\base0.jpg"
+  },
+  "23d24cf9-ee80-4219-8b09-df6ff49105de": {
+    "dimension": "1.907436*1.441148*1.233369",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\23d24cf9-ee80-4219-8b09-df6ff49105de\\base1.jpg"
+  },
+  "24c55991-b88c-43c4-b690-273128912e09": {
+    "dimension": "1.454002*1.901437*1.288286",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\24c55991-b88c-43c4-b690-273128912e09\\base0.jpg"
+  },
+  "24ded17d-28ce-42d9-8919-b52edcb16e2e": {
+    "dimension": "1.951593*1*1.954607",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\24ded17d-28ce-42d9-8919-b52edcb16e2e\\base5.jpg"
+  },
+  "25162cab-6dd0-4490-8696-24895f0a558c": {
+    "dimension": "1.900294*0.186258*0.538094",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\25162cab-6dd0-4490-8696-24895f0a558c\\base1.jpg"
+  },
+  "25bbaa4b-4899-448e-8bec-782ef6516aa6": {
+    "dimension": "0.534037*1.897404*0.53376",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\25bbaa4b-4899-448e-8bec-782ef6516aa6\\base3.jpg"
+  },
+  "25ffe8c2-9d85-43b5-8d5f-6845a82d1386": {
+    "dimension": "1.896119*0.067557*0.070144",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\25ffe8c2-9d85-43b5-8d5f-6845a82d1386\\base5.jpg"
+  },
+  "26014cf4-6544-498e-b02f-d28518482b64": {
+    "dimension": "1.652086*1.907708*1.563234",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\26014cf4-6544-498e-b02f-d28518482b64\\base0.jpg"
+  },
+  "264c5fa5-dbda-4ffe-bd90-26c5031469e0": {
+    "dimension": "1.900334*1.393282*0.504434",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\264c5fa5-dbda-4ffe-bd90-26c5031469e0\\base5.jpg"
+  },
+  "265e77ae-5ca8-41cf-a754-292a536cbd02": {
+    "dimension": "0.554063*1.896557*0.550718",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\265e77ae-5ca8-41cf-a754-292a536cbd02\\base10.jpg"
+  },
+  "26fcc9be-ab6f-4307-ba7c-2cbb29e2b00b": {
+    "dimension": "1.900823*0.209793*1.175541",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\26fcc9be-ab6f-4307-ba7c-2cbb29e2b00b\\base1.jpg"
+  },
+  "27438658-a2bc-4214-bf90-316cdf06f084": {
+    "dimension": "0.623982*1.894297*1.895115",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\27438658-a2bc-4214-bf90-316cdf06f084\\base1.jpg"
+  },
+  "283148cf-3467-4b5c-a7bf-75bf7de763c5": {
+    "dimension": "1.302945*0.953897*1.897114",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\283148cf-3467-4b5c-a7bf-75bf7de763c5\\base10.jpg"
+  },
+  "2877dfb4-bace-43eb-848a-7da3a523ec79": {
+    "dimension": "1.266562*0.967665*1.136868",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2877dfb4-bace-43eb-848a-7da3a523ec79\\base5.jpg"
+  },
+  "289df513-189f-40c0-926b-935c3fd08c04": {
+    "dimension": "0.908062*1*0.906877",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\289df513-189f-40c0-926b-935c3fd08c04\\base3.jpg"
+  },
+  "291289b6-a2dd-4d98-b4e1-e5f4fee17e1e": {
+    "dimension": "0.959212*1.897499*0.961087",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\291289b6-a2dd-4d98-b4e1-e5f4fee17e1e\\base21.jpg"
+  },
+  "299ff0ee-9bfa-4295-bc5c-3accf8c58b95": {
+    "dimension": "1.504818*1.907841*1.519364",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\299ff0ee-9bfa-4295-bc5c-3accf8c58b95\\base1.jpg"
+  },
+  "2ac3c496-a37f-4713-af6d-a7989a958c0b": {
+    "dimension": "0.68598*1.316876*1.896136",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2ac3c496-a37f-4713-af6d-a7989a958c0b\\base2.jpg"
+  },
+  "2b439d93-45e9-45ba-b7d5-a72675f8e691": {
+    "dimension": "0.658634*0.734116*1.897787",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2b439d93-45e9-45ba-b7d5-a72675f8e691\\base2.jpg"
+  },
+  "2be36f9c-ee68-4872-9b3f-a83265fdb165": {
+    "dimension": "1.695601*0.413567*1.896524",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2be36f9c-ee68-4872-9b3f-a83265fdb165\\base3.jpg"
+  },
+  "2c51014f-aac4-4961-8964-6dc292782631": {
+    "dimension": "0.573673*0.250358*1.899568",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2c51014f-aac4-4961-8964-6dc292782631\\base1.jpg"
+  },
+  "2c62657d-d424-4d9d-97b8-43a4ef841b16": {
+    "dimension": "0.619703*0.965903*1.899672",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2c62657d-d424-4d9d-97b8-43a4ef841b16\\base4.jpg"
+  },
+  "2cb18a27-6321-4db7-94c2-b34118ca589c": {
+    "dimension": "1.313169*1.892063*1.422251",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2cb18a27-6321-4db7-94c2-b34118ca589c\\base0.jpg"
+  },
+  "2dcf64d5-c90f-45d9-95ab-5bea66d32a25": {
+    "dimension": "0.507631*1.902237*0.50589",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2dcf64d5-c90f-45d9-95ab-5bea66d32a25\\base16.jpg"
+  },
+  "2e32e3c3-d974-4748-8811-ee941d6cc3bd": {
+    "dimension": "0.499404*1.845886*1.898823",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2e32e3c3-d974-4748-8811-ee941d6cc3bd\\base5.jpg"
+  },
+  "2e7ba4d4-d3d9-42df-a6d3-56eefa27ae21": {
+    "dimension": "1.898081*1.025225*0.611433",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2e7ba4d4-d3d9-42df-a6d3-56eefa27ae21\\base2.jpg"
+  },
+  "2ed1cd1e-7a63-48eb-ad5e-09a8f71849c2": {
+    "dimension": "1.907209*1.312021*1.904712",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2ed1cd1e-7a63-48eb-ad5e-09a8f71849c2\\base3.jpg"
+  },
+  "2edd5e31-be93-48e5-96d2-70f10154bc32": {
+    "dimension": "1.785233*1.732467*1.721603",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2edd5e31-be93-48e5-96d2-70f10154bc32\\base0.jpg"
+  },
+  "2f0604dc-b4ef-434f-9756-5b5046efa2b7": {
+    "dimension": "1.668318*0.47981*1.899117",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\2f0604dc-b4ef-434f-9756-5b5046efa2b7\\base0.jpg"
+  },
+  "301d355d-265b-4bdf-a0a1-1f28db7346ea": {
+    "dimension": "0.12245*0.25*0.121427",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\301d355d-265b-4bdf-a0a1-1f28db7346ea\\base0.jpg"
+  },
+  "30449f30-9ae5-427b-b57e-a0a3c23173ed": {
+    "dimension": "1.904257*1.225144*0.592767",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\30449f30-9ae5-427b-b57e-a0a3c23173ed\\base0.jpg"
+  },
+  "305c640f-0eb8-4286-b8fd-1abb0fbd9c1c": {
+    "dimension": "0.933145*1.899525*0.933324",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\305c640f-0eb8-4286-b8fd-1abb0fbd9c1c\\base4.jpg"
+  },
+  "31935d05-226f-4c00-954d-39a0ab985ba9": {
+    "dimension": "1.107252*1.346072*1.475534",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\31935d05-226f-4c00-954d-39a0ab985ba9\\base4.jpg"
+  },
+  "324df839-b73e-417b-8d4f-91dd2b58e8ef": {
+    "dimension": "0.861846*1.900399*0.743976",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\324df839-b73e-417b-8d4f-91dd2b58e8ef\\base2.jpg"
+  },
+  "327195c2-6790-4911-ad5e-5e0db6b3c6af": {
+    "dimension": "0.074858*0.25*0.05777",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\327195c2-6790-4911-ad5e-5e0db6b3c6af\\base3.jpg"
+  },
+  "32871b15-50c2-4356-b5be-83f00822aedb": {
+    "dimension": "0.578231*0.35994*1.899754",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\32871b15-50c2-4356-b5be-83f00822aedb\\base2.jpg"
+  },
+  "32e29630-400a-4138-91c5-f954838e359f": {
+    "dimension": "1.327688*0.833086*1.191066",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\32e29630-400a-4138-91c5-f954838e359f\\base9.jpg"
+  },
+  "3322d5ae-e950-42fd-bb2e-9f610b48729a": {
+    "dimension": "1.355251*1.90087*1.373876",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3322d5ae-e950-42fd-bb2e-9f610b48729a\\base2.jpg"
+  },
+  "3473b6ff-afb2-4e04-9dd4-ad9262616601": {
+    "dimension": "1.896542*1.21477*1.672536",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3473b6ff-afb2-4e04-9dd4-ad9262616601\\base2.jpg"
+  },
+  "348d1cdc-6834-4b52-8629-1b03741c99de": {
+    "dimension": "1.900367*0.129405*1.812553",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\348d1cdc-6834-4b52-8629-1b03741c99de\\base3.jpg"
+  },
+  "34a061d7-fb39-4e48-873c-04977bd4f204": {
+    "dimension": "1.898771*1.859989*0.484432",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\34a061d7-fb39-4e48-873c-04977bd4f204\\base2.jpg"
+  },
+  "34effecf-ca63-461d-a301-adbe61e40670": {
+    "dimension": "1.556767*0.930675*1.198034",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\34effecf-ca63-461d-a301-adbe61e40670\\base0.jpg"
+  },
+  "34f4868e-8620-42bc-949e-6954ff11796f": {
+    "dimension": "0.111703*0.3*0.110004",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\34f4868e-8620-42bc-949e-6954ff11796f\\base3.jpg"
+  },
+  "352e3e29-356b-484f-9523-f628cb076de9": {
+    "dimension": "1.900118*0.705135*0.715649",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\352e3e29-356b-484f-9523-f628cb076de9\\base5.jpg"
+  },
+  "358e789e-3cc7-479a-af54-46bd832243c4": {
+    "dimension": "0.097331*0.25*0.097388",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\358e789e-3cc7-479a-af54-46bd832243c4\\base4.jpg"
+  },
+  "362c493c-49b5-43b4-ab9f-7177121c2a50": {
+    "dimension": "1.89805*0.891395*0.606595",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\362c493c-49b5-43b4-ab9f-7177121c2a50\\base1.jpg"
+  },
+  "364ce918-c21f-44cb-9c84-9257a8618a82": {
+    "dimension": "1.603145*0.314135*2.083324",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\364ce918-c21f-44cb-9c84-9257a8618a82\\base3.jpg"
+  },
+  "37064508-0196-4bc9-a2ed-d02a350cfc36": {
+    "dimension": "0.718361*1.899822*1.347111",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\37064508-0196-4bc9-a2ed-d02a350cfc36\\base1.jpg"
+  },
+  "37083b46-f539-4855-ade8-88ad79a379dd": {
+    "dimension": "1.518724*1.297274*0.322889",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\37083b46-f539-4855-ade8-88ad79a379dd\\base7.jpg"
+  },
+  "3745c9b6-2bfb-4b61-94c9-13879a1c2488": {
+    "dimension": "0.074018*0.3*0.074044",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3745c9b6-2bfb-4b61-94c9-13879a1c2488\\base3.jpg"
+  },
+  "37d603e5-8ea7-40d6-a00f-fa88a1e0850b": {
+    "dimension": "1.806476*1.90129*0.702888",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\37d603e5-8ea7-40d6-a00f-fa88a1e0850b\\base3.jpg"
+  },
+  "38b9ec18-429f-44e5-8df2-c19a6df4c434": {
+    "dimension": "1.389805*1.389804*0.576672",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\38b9ec18-429f-44e5-8df2-c19a6df4c434\\base3.jpg"
+  },
+  "38bd1dfc-772e-423b-85b0-4dfae46b1fa9": {
+    "dimension": "1.339205*1.400509*1.840742",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\38bd1dfc-772e-423b-85b0-4dfae46b1fa9\\base2.jpg"
+  },
+  "39a97ff4-0872-4c89-99c3-7e775ec4f5bb": {
+    "dimension": "1.51915*1.822106*1.896947",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\39a97ff4-0872-4c89-99c3-7e775ec4f5bb\\base3.jpg"
+  },
+  "39b213e4-5f6b-4d87-a90a-7a58c626b9f6": {
+    "dimension": "1.833366*0.806479*1.888014",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\39b213e4-5f6b-4d87-a90a-7a58c626b9f6\\base1.jpg"
+  },
+  "39c86e88-c4c0-4704-9fb4-cca3755d2ed9": {
+    "dimension": "1.73664*1.90005*1.74143",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\39c86e88-c4c0-4704-9fb4-cca3755d2ed9\\base0.jpg"
+  },
+  "3a1d5570-1af7-48a4-ae26-7e494884adb9": {
+    "dimension": "1.899487*0.220147*0.215474",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3a1d5570-1af7-48a4-ae26-7e494884adb9\\base2.jpg"
+  },
+  "3a1e099e-38e2-457f-8b27-02a9a18b2604": {
+    "dimension": "1.908017*1.609307*1.728192",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3a1e099e-38e2-457f-8b27-02a9a18b2604\\base2.jpg"
+  },
+  "3a309199-b495-4d6f-a2b3-54ed7a6985a1": {
+    "dimension": "1.080031*1.9006*0.723027",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3a309199-b495-4d6f-a2b3-54ed7a6985a1\\base4.jpg"
+  },
+  "3b3b9afc-bbbb-46bf-8637-d5b6a674c74a": {
+    "dimension": "1.900071*1.027625*1.099617",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3b3b9afc-bbbb-46bf-8637-d5b6a674c74a\\base0.jpg"
+  },
+  "3b4ec10f-dfeb-4e8d-8fc9-273694c35286": {
+    "dimension": "1.42947*1.407665*1.846522",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3b4ec10f-dfeb-4e8d-8fc9-273694c35286\\base12.jpg"
+  },
+  "3be9adc6-9761-4097-9ba0-ba1bb102205e": {
+    "dimension": "1.900134*1.494724*1.12088",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3be9adc6-9761-4097-9ba0-ba1bb102205e\\base3.jpg"
+  },
+  "3bf8fef1-221d-40b1-b29d-5913805702c3": {
+    "dimension": "1.467071*0.823969*1.045554",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3bf8fef1-221d-40b1-b29d-5913805702c3\\base10.jpg"
+  },
+  "3cdf536f-a2b2-4072-b2dd-53c942e58710": {
+    "dimension": "0.893555*1.902453*0.889813",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3cdf536f-a2b2-4072-b2dd-53c942e58710\\base1.jpg"
+  },
+  "3d03c610-199e-4808-bfe6-8bb3e1cd46a2": {
+    "dimension": "1.492454*1.9007*0.828172",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3d03c610-199e-4808-bfe6-8bb3e1cd46a2\\base1.jpg"
+  },
+  "3d0407f7-d002-4d86-97eb-6c524ed0ebca": {
+    "dimension": "0.572716*1.897131*0.575798",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3d0407f7-d002-4d86-97eb-6c524ed0ebca\\base7.jpg"
+  },
+  "3d2c90fe-baf9-4fe5-b2a9-754a29415fe3": {
+    "dimension": "1.161639*1.900368*1.313809",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3d2c90fe-baf9-4fe5-b2a9-754a29415fe3\\base6.jpg"
+  },
+  "3d4637fb-d696-4cd6-a4ae-54a3d31f7340": {
+    "dimension": "0.147985*0.05*0.035208",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3d4637fb-d696-4cd6-a4ae-54a3d31f7340\\base3.jpg"
+  },
+  "3dc0e0ed-37e5-4275-bc22-d5bbf282205a": {
+    "dimension": "1.897404*1.762149*1.896178",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3dc0e0ed-37e5-4275-bc22-d5bbf282205a\\base3.jpg"
+  },
+  "3e50f415-f3b4-461c-aa3f-94bd6e3c4d16": {
+    "dimension": "0.783769*1.900831*0.840561",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3e50f415-f3b4-461c-aa3f-94bd6e3c4d16\\base1.jpg"
+  },
+  "3f66d83e-e56c-4a69-af87-a604dcf7341d": {
+    "dimension": "1.444036*1.147569*1.906239",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\3f66d83e-e56c-4a69-af87-a604dcf7341d\\base6.jpg"
+  },
+  "402fd1a7-90dd-4e0a-9271-52cf551779ec": {
+    "dimension": "1.900259*0.197123*0.96013",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\402fd1a7-90dd-4e0a-9271-52cf551779ec\\base4.jpg"
+  },
+  "40ccb914-9ffe-4632-bd25-3c92e54d34ca": {
+    "dimension": "0.431021*0.430261*1.898711",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\40ccb914-9ffe-4632-bd25-3c92e54d34ca\\base5.jpg"
+  },
+  "41c0270d-49cc-41ad-a2ab-6a8ae87c73d8": {
+    "dimension": "0.175726*1.894816*0.181525",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\41c0270d-49cc-41ad-a2ab-6a8ae87c73d8\\base1.jpg"
+  },
+  "41d7bf47-f9aa-4f43-b662-e665978491ed": {
+    "dimension": "0.526895*1.834115*0.526492",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\41d7bf47-f9aa-4f43-b662-e665978491ed\\base4.jpg"
+  },
+  "41f66a44-8dde-4d78-9148-ae1ab7a33e40": {
+    "dimension": "1.899635*0.716907*1.478526",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\41f66a44-8dde-4d78-9148-ae1ab7a33e40\\base0.jpg"
+  },
+  "424e6589-fbb0-422d-94fc-3d0568f92fe3": {
+    "dimension": "0.52482*1.410792*1.899128",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\424e6589-fbb0-422d-94fc-3d0568f92fe3\\base4.jpg"
+  },
+  "4373bcb2-0b26-4eb0-9c0f-8fb3e6d642a6": {
+    "dimension": "1.115432*1.900925*1.117345",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4373bcb2-0b26-4eb0-9c0f-8fb3e6d642a6\\base2.jpg"
+  },
+  "4442a29b-e440-419b-aa43-e8c5636c09dc": {
+    "dimension": "1.088948*1.900558*1.056563",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4442a29b-e440-419b-aa43-e8c5636c09dc\\base3.jpg"
+  },
+  "44d45c87-7a45-44d9-b00c-d3a72608d80e": {
+    "dimension": "1.788532*1.90797*1.786086",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\44d45c87-7a45-44d9-b00c-d3a72608d80e\\base1.jpg"
+  },
+  "46fd9937-393f-487f-9101-84b9b2dc0f7d": {
+    "dimension": "1.59051*1.908486*1.590716",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\46fd9937-393f-487f-9101-84b9b2dc0f7d\\base4.jpg"
+  },
+  "47f62dba-b4f1-47bf-8e45-3475446cdb94": {
+    "dimension": "1.899783*0.265018*1.603622",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\47f62dba-b4f1-47bf-8e45-3475446cdb94\\base5.jpg"
+  },
+  "47fa5a0b-7799-4edf-a0d0-24224f31bc1c": {
+    "dimension": "1.043667*1.89113*1.048155",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\47fa5a0b-7799-4edf-a0d0-24224f31bc1c\\base3.jpg"
+  },
+  "4934dcf1-8249-4af1-8bc8-9794dd860603": {
+    "dimension": "1.902348*1.193819*0.802189",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4934dcf1-8249-4af1-8bc8-9794dd860603\\base1.jpg"
+  },
+  "4959edf8-ee61-4784-8ccd-411fc4bb4cd7": {
+    "dimension": "1.328878*1.900604*1.329363",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4959edf8-ee61-4784-8ccd-411fc4bb4cd7\\base2.jpg"
+  },
+  "4ab75117-d17d-4f4b-9679-96950e42dd8d": {
+    "dimension": "2.040396*1.308096*1.536274",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4ab75117-d17d-4f4b-9679-96950e42dd8d\\base4.jpg"
+  },
+  "4bf08ba2-e6c6-4944-a37c-57f55f4b0269": {
+    "dimension": "1.8998*0.970758*0.829906",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4bf08ba2-e6c6-4944-a37c-57f55f4b0269\\base0.jpg"
+  },
+  "4c6366cb-db5a-48f5-9ab4-4eb0a09ad406": {
+    "dimension": "0.070716*0.25*0.070368",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4c6366cb-db5a-48f5-9ab4-4eb0a09ad406\\base1.jpg"
+  },
+  "4c92bc86-a4f8-4c50-943e-8ffa08781b96": {
+    "dimension": "1.809158*0.833824*1.216605",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4c92bc86-a4f8-4c50-943e-8ffa08781b96\\base0.jpg"
+  },
+  "4da02c00-6076-43d8-b2d5-a1863e514a2a": {
+    "dimension": "1.318355*1.899267*1.345298",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4da02c00-6076-43d8-b2d5-a1863e514a2a\\base3.jpg"
+  },
+  "4db38094-3303-4b8f-80d0-d51099710d66": {
+    "dimension": "2.668085*1*2.664515",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4db38094-3303-4b8f-80d0-d51099710d66\\base3.jpg"
+  },
+  "4e0f8532-f526-46da-8959-51a92f340ba9": {
+    "dimension": "0.119045*0.15*0.118927",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4e0f8532-f526-46da-8959-51a92f340ba9\\base4.jpg"
+  },
+  "4eaaeba3-e169-4c21-b35e-4819713d7e17": {
+    "dimension": "1.559777*1.901169*1.554932",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4eaaeba3-e169-4c21-b35e-4819713d7e17\\base5.jpg"
+  },
+  "4ec1a7df-33b4-4379-928c-0d30024260a9": {
+    "dimension": "0.61639*1.899032*0.61605",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4ec1a7df-33b4-4379-928c-0d30024260a9\\base1.jpg"
+  },
+  "4ef259aa-64bf-470d-91d4-777e185515cf": {
+    "dimension": "1.191522*1.255735*1.899868",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4ef259aa-64bf-470d-91d4-777e185515cf\\base3.jpg"
+  },
+  "4f362785-778e-4105-ab12-9fa580065f32": {
+    "dimension": "1.167127*1.897171*0.959786",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4f362785-778e-4105-ab12-9fa580065f32\\base4.jpg"
+  },
+  "4f5e4237-4139-44a3-9ccf-83ba9c239970": {
+    "dimension": "1.17041*0.599853*1.900213",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\4f5e4237-4139-44a3-9ccf-83ba9c239970\\base5.jpg"
+  },
+  "502747d8-a443-4335-946d-8800cc41042f": {
+    "dimension": "0.47022*1.648031*0.462855",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\502747d8-a443-4335-946d-8800cc41042f\\base11.jpg"
+  },
+  "50fa7d87-7967-4c5e-aa7c-9232aba630bd": {
+    "dimension": "0.962597*0.516535*1.896891",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\50fa7d87-7967-4c5e-aa7c-9232aba630bd\\base7.jpg"
+  },
+  "51a535d1-7f85-44d4-970e-fa759f55b321": {
+    "dimension": "0.075448*0.074871*0.071889",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\51a535d1-7f85-44d4-970e-fa759f55b321\\base1.jpg"
+  },
+  "51b69a7e-7958-4413-b268-7cb4a59babf3": {
+    "dimension": "1.900471*1.23809*1.085554",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\51b69a7e-7958-4413-b268-7cb4a59babf3\\base1.jpg"
+  },
+  "5203f556-23d0-47eb-903c-688af7df35b3": {
+    "dimension": "1.044252*0.493652*1.89855",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5203f556-23d0-47eb-903c-688af7df35b3\\base6.jpg"
+  },
+  "52b1a695-7027-46a9-9482-66ee7268820b": {
+    "dimension": "1.905912*1.69972*1.905153",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\52b1a695-7027-46a9-9482-66ee7268820b\\base1.jpg"
+  },
+  "530629e8-53fc-48c0-92bb-acff01198f0c": {
+    "dimension": "1.90074*0.55865*0.55376",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\530629e8-53fc-48c0-92bb-acff01198f0c\\base0.jpg"
+  },
+  "53356b06-2f35-4b0a-89bd-a0d1420a8bb7": {
+    "dimension": "3.014255*0.3*2.015402",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\53356b06-2f35-4b0a-89bd-a0d1420a8bb7\\base1.jpg"
+  },
+  "53b47d94-205a-4162-a03f-aa07662e0efa": {
+    "dimension": "1.661164*1.898394*0.730864",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\53b47d94-205a-4162-a03f-aa07662e0efa\\base3.jpg"
+  },
+  "53ece91a-9d1b-4e76-a6fc-47ff78e50d60": {
+    "dimension": "0.451657*1.571533*0.445694",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\53ece91a-9d1b-4e76-a6fc-47ff78e50d60\\base2.jpg"
+  },
+  "56114f36-82e6-4d33-bab8-3949017df91c": {
+    "dimension": "0.954415*1.896439*0.926222",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\56114f36-82e6-4d33-bab8-3949017df91c\\base2.jpg"
+  },
+  "5679f864-1909-4a41-8e1d-d1362999d26f": {
+    "dimension": "1.678906*1.900242*1.078564",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5679f864-1909-4a41-8e1d-d1362999d26f\\base5.jpg"
+  },
+  "56e0a501-d379-44f5-9a91-2a4999236ca8": {
+    "dimension": "1.844029*1.90012*0.556225",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\56e0a501-d379-44f5-9a91-2a4999236ca8\\base5.jpg"
+  },
+  "58c700c8-9c04-4666-a754-812f61cfc233": {
+    "dimension": "1.897907*1.140856*0.668456",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\58c700c8-9c04-4666-a754-812f61cfc233\\base1.jpg"
+  },
+  "59f53bf1-8598-4893-bfd9-e65f4c22a69a": {
+    "dimension": "1.896262*1.273284*0.67199",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\59f53bf1-8598-4893-bfd9-e65f4c22a69a\\base2.jpg"
+  },
+  "5aaf90c4-330e-48b6-ad96-13558e1346be": {
+    "dimension": "1.333732*1.562313*1.90585",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5aaf90c4-330e-48b6-ad96-13558e1346be\\base12.jpg"
+  },
+  "5b410724-a0c2-4650-871e-5ada96bc4e9d": {
+    "dimension": "1.072722*1.607332*1.691174",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5b410724-a0c2-4650-871e-5ada96bc4e9d\\base0.jpg"
+  },
+  "5babea6b-4833-43d4-9b5b-6d86ef7fa026": {
+    "dimension": "0.118605*0.1*0.394195",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5babea6b-4833-43d4-9b5b-6d86ef7fa026\\base3.jpg"
+  },
+  "5c65238d-10b0-40d4-91dc-b242f3cdbe33": {
+    "dimension": "0.050502*0.1*0.050868",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5c65238d-10b0-40d4-91dc-b242f3cdbe33\\base1.jpg"
+  },
+  "5c6abb78-b62f-4cb3-8e3d-a73fc52e5335": {
+    "dimension": "0.202825*1.900716*0.220879",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5c6abb78-b62f-4cb3-8e3d-a73fc52e5335\\base4.jpg"
+  },
+  "5c7377b2-c700-4939-be6e-74c30bba74e6": {
+    "dimension": "0.655541*1.901746*0.647407",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5c7377b2-c700-4939-be6e-74c30bba74e6\\base1.jpg"
+  },
+  "5cd624f0-e80d-4a59-9599-509776df7c74": {
+    "dimension": "0.647283*0.856195*1.89767",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5cd624f0-e80d-4a59-9599-509776df7c74\\base2.jpg"
+  },
+  "5d132a45-2620-4f1a-88f5-756b7e5c262b": {
+    "dimension": "0.191071*1.458666*0.124053",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5d132a45-2620-4f1a-88f5-756b7e5c262b\\base0.jpg"
+  },
+  "5eed2915-f13e-4a40-afa2-de1c578cb71f": {
+    "dimension": "1.057615*0.319593*1.89903",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5eed2915-f13e-4a40-afa2-de1c578cb71f\\base1.jpg"
+  },
+  "5ef8dfdf-56ee-49cd-8c8b-438c02e0be0f": {
+    "dimension": "1.69978*1.90332*0.655732",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5ef8dfdf-56ee-49cd-8c8b-438c02e0be0f\\base2.jpg"
+  },
+  "5f5b7ff9-738b-4c90-a0c6-ca73f02467e0": {
+    "dimension": "0.898783*0.92693*1.900316",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5f5b7ff9-738b-4c90-a0c6-ca73f02467e0\\base0.jpg"
+  },
+  "5f639499-5145-4bb8-9108-3cdbd424f49f": {
+    "dimension": "0.93465*1.900927*0.808524",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5f639499-5145-4bb8-9108-3cdbd424f49f\\base6.jpg"
+  },
+  "5fdf9842-246b-4b7e-bcb9-644c980d3873": {
+    "dimension": "0.545443*1.799411*0.545443",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\5fdf9842-246b-4b7e-bcb9-644c980d3873\\base1.jpg"
+  },
+  "606ecb5c-fcbe-49c5-af6e-ef06fa8c9a76": {
+    "dimension": "0.836508*1.900102*0.873516",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\606ecb5c-fcbe-49c5-af6e-ef06fa8c9a76\\base3.jpg"
+  },
+  "60858cf9-5862-4a0b-a9c2-2c703ce429d1": {
+    "dimension": "1.900218*1.365403*0.625026",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\60858cf9-5862-4a0b-a9c2-2c703ce429d1\\base1.jpg"
+  },
+  "61b2f1fe-8526-4b65-9d6c-4fc23afb175a": {
+    "dimension": "0.08036*0.25*0.080688",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\61b2f1fe-8526-4b65-9d6c-4fc23afb175a\\base2.jpg"
+  },
+  "62b9f593-42ad-4fa2-b802-01bd342d0c7d": {
+    "dimension": "1.261237*1.589632*0.199646",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\62b9f593-42ad-4fa2-b802-01bd342d0c7d\\base1.jpg"
+  },
+  "638598b7-e011-4c1b-b884-c3aa5f709e06": {
+    "dimension": "1.893107*1.321127*1.902479",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\638598b7-e011-4c1b-b884-c3aa5f709e06\\base0.jpg"
+  },
+  "63bebf54-6d65-4c69-90f9-c9c3a14cea81": {
+    "dimension": "1.907171*1.258873*1.476886",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\63bebf54-6d65-4c69-90f9-c9c3a14cea81\\base8.jpg"
+  },
+  "64a251f3-8202-4cee-b622-e67d574a9021": {
+    "dimension": "0.90784*1.900331*0.906636",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\64a251f3-8202-4cee-b622-e67d574a9021\\base3.jpg"
+  },
+  "64af2dd2-ed7c-4dea-8137-5663fb8c5f2c": {
+    "dimension": "1.230846*1.894124*1.233282",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\64af2dd2-ed7c-4dea-8137-5663fb8c5f2c\\base0.jpg"
+  },
+  "64cf4161-4fd9-4063-819f-75844dc64b9e": {
+    "dimension": "0.600004*1.896048*0.592521",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\64cf4161-4fd9-4063-819f-75844dc64b9e\\base5.jpg"
+  },
+  "64e9cf6f-5f86-4b78-8f1a-107d2423f653": {
+    "dimension": "1.899232*0.890904*0.586118",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\64e9cf6f-5f86-4b78-8f1a-107d2423f653\\base2.jpg"
+  },
+  "658a840e-50d7-48fd-afae-8da35165fcef": {
+    "dimension": "0.632392*0.735181*1.896838",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\658a840e-50d7-48fd-afae-8da35165fcef\\base8.jpg"
+  },
+  "65a00983-6341-4343-988d-81bfb64678cb": {
+    "dimension": "0.604501*1.896815*0.604288",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\65a00983-6341-4343-988d-81bfb64678cb\\base12.jpg"
+  },
+  "6603c452-2199-41a7-9656-c34ed8f7029c": {
+    "dimension": "1.354499*1.443174*0.193746",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6603c452-2199-41a7-9656-c34ed8f7029c\\base6.jpg"
+  },
+  "66a941d7-5a9a-4771-ab30-a94c97fd1989": {
+    "dimension": "1.268553*0.665073*1.439813",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\66a941d7-5a9a-4771-ab30-a94c97fd1989\\base6.jpg"
+  },
+  "670bc83e-3a33-47b4-898f-82a00cca377b": {
+    "dimension": "1.900386*0.966986*1.053693",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\670bc83e-3a33-47b4-898f-82a00cca377b\\base2.jpg"
+  },
+  "6795515e-03f3-4b4e-a29c-a5dffd7106da": {
+    "dimension": "0.922008*0.88854*1.897922",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6795515e-03f3-4b4e-a29c-a5dffd7106da\\base2.jpg"
+  },
+  "67d1936e-e52f-4566-a7b7-4b4f6b3fced0": {
+    "dimension": "1.900394*0.203869*1.362395",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\67d1936e-e52f-4566-a7b7-4b4f6b3fced0\\base2.jpg"
+  },
+  "67e76ce5-bf9c-48c9-b806-5ffb400f86bd": {
+    "dimension": "1.899057*1.322191*1.894084",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\67e76ce5-bf9c-48c9-b806-5ffb400f86bd\\base0.jpg"
+  },
+  "680cb6b6-c89b-4de7-a13a-65ec92f709e1": {
+    "dimension": "0.642126*1.89952*0.637746",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\680cb6b6-c89b-4de7-a13a-65ec92f709e1\\base14.jpg"
+  },
+  "6958ce70-e2e2-4944-968c-5f2875f2a83a": {
+    "dimension": "0.573582*0.567241*1.90012",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6958ce70-e2e2-4944-968c-5f2875f2a83a\\base4.jpg"
+  },
+  "698dfdb7-1de9-4612-9da7-bed8ce5cdb17": {
+    "dimension": "0.429848*0.80071*1.892612",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\698dfdb7-1de9-4612-9da7-bed8ce5cdb17\\base2.jpg"
+  },
+  "69ed29ce-1e23-4406-8fc7-c37b6922c529": {
+    "dimension": "0.747208*1.901629*0.459541",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\69ed29ce-1e23-4406-8fc7-c37b6922c529\\base1.jpg"
+  },
+  "6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e": {
+    "dimension": "1.20798*1.900834*1.309417",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e\\base3.jpg"
+  },
+  "6b0f2618-0497-4a42-a5dc-a97247ffac28": {
+    "dimension": "1.900248*0.166834*0.920986",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6b0f2618-0497-4a42-a5dc-a97247ffac28\\base2.jpg"
+  },
+  "6b5eca07-f589-4087-8d1f-8d229b1d99d1": {
+    "dimension": "0.664863*1.826356*0.65562",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6b5eca07-f589-4087-8d1f-8d229b1d99d1\\base8.jpg"
+  },
+  "6baaffd4-592f-44b1-89ef-570eb4a751e6": {
+    "dimension": "1.907341*1.908186*1.906193",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6baaffd4-592f-44b1-89ef-570eb4a751e6\\base2.jpg"
+  },
+  "6bd2a2c4-7692-4831-a17c-4df3893501aa": {
+    "dimension": "1.78183*1.083507*1.906766",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6bd2a2c4-7692-4831-a17c-4df3893501aa\\base2.jpg"
+  },
+  "6c7c1200-bf68-42ab-8c6b-1c798015beee": {
+    "dimension": "0.833325*1.900807*0.596744",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6c7c1200-bf68-42ab-8c6b-1c798015beee\\base4.jpg"
+  },
+  "6dc46b28-7335-48a3-beeb-eed13394d315": {
+    "dimension": "0.87126*0.515227*1.890689",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6dc46b28-7335-48a3-beeb-eed13394d315\\base1.jpg"
+  },
+  "6ea25e85-6fa8-4387-8565-1de4065d628b": {
+    "dimension": "1.90068*0.705976*0.978876",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6ea25e85-6fa8-4387-8565-1de4065d628b\\base0.jpg"
+  },
+  "6ea35f98-e6ec-4fb4-bc4a-130ac9fd7db6": {
+    "dimension": "1.904994*0.76483*1.904241",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6ea35f98-e6ec-4fb4-bc4a-130ac9fd7db6\\base0.jpg"
+  },
+  "6f85c453-d80c-4a93-833a-58280acfd1b6": {
+    "dimension": "0.084075*0.05*0.172055",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6f85c453-d80c-4a93-833a-58280acfd1b6\\base0.jpg"
+  },
+  "6fc6d47f-3c92-4c32-aeb6-bd0d403b9099": {
+    "dimension": "1.398055*1.900015*1.394572",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6fc6d47f-3c92-4c32-aeb6-bd0d403b9099\\base0.jpg"
+  },
+  "6fcfc758-44f8-4577-95ef-c8a64994f92e": {
+    "dimension": "1.899139*0.68834*0.684989",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\6fcfc758-44f8-4577-95ef-c8a64994f92e\\base5.jpg"
+  },
+  "706fd1a1-11dd-432b-896d-902606ff9315": {
+    "dimension": "0.175814*1.899423*0.182735",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\706fd1a1-11dd-432b-896d-902606ff9315\\base0.jpg"
+  },
+  "70802ab6-3c01-48f8-a446-b6ffb262cf9e": {
+    "dimension": "1.32625*1.646295*1.893647",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\70802ab6-3c01-48f8-a446-b6ffb262cf9e\\base6.jpg"
+  },
+  "70a8e2f9-9b8d-45f2-aae6-59dad6c94045": {
+    "dimension": "0.515058*1.895369*0.515058",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\70a8e2f9-9b8d-45f2-aae6-59dad6c94045\\base2.jpg"
+  },
+  "70d29151-b912-4ef5-9d6e-b9f8e85970ee": {
+    "dimension": "0.114431*0.3*0.131708",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\70d29151-b912-4ef5-9d6e-b9f8e85970ee\\base0.jpg"
+  },
+  "71007a46-9826-457e-a6f7-b9269fa9d8e1": {
+    "dimension": "1.712525*1.724457*1.888068",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\71007a46-9826-457e-a6f7-b9269fa9d8e1\\base5.jpg"
+  },
+  "7165de2f-ef71-48bb-ba49-222deb20a1ab": {
+    "dimension": "1.104483*0.962421*1.242066",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7165de2f-ef71-48bb-ba49-222deb20a1ab\\base1.jpg"
+  },
+  "719932a8-092a-4608-b944-f2c5d545d960": {
+    "dimension": "1.39897*0.47034*1.899767",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\719932a8-092a-4608-b944-f2c5d545d960\\base0.jpg"
+  },
+  "72873ffe-eeb5-4ea3-a114-40111a7b2ac2": {
+    "dimension": "0.085042*0.06*0.153161",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\72873ffe-eeb5-4ea3-a114-40111a7b2ac2\\base1.jpg"
+  },
+  "73140bc2-17c8-4f2b-b3bc-b7d19e788f5b": {
+    "dimension": "1.598634*1.342696*1.900461",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\73140bc2-17c8-4f2b-b3bc-b7d19e788f5b\\base1.jpg"
+  },
+  "73d7ad92-72f8-4f13-948c-f043724ec1d6": {
+    "dimension": "0.5671*0.621547*1.625755",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\73d7ad92-72f8-4f13-948c-f043724ec1d6\\base7.jpg"
+  },
+  "74346391-01bb-41ff-81b3-2e958bb91b07": {
+    "dimension": "0.903106*1.899244*0.904462",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\74346391-01bb-41ff-81b3-2e958bb91b07\\base5.jpg"
+  },
+  "76a8e470-8071-44f3-bc29-084fdd0fb8e5": {
+    "dimension": "0.489092*1.847389*0.481216",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\76a8e470-8071-44f3-bc29-084fdd0fb8e5\\base13.jpg"
+  },
+  "76b433a0-90ac-4f80-81f4-9dd1303e9d8c": {
+    "dimension": "0.071152*1.462514*0.358361",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\76b433a0-90ac-4f80-81f4-9dd1303e9d8c\\base0.jpg"
+  },
+  "77cceef0-cbb1-4848-bf1f-8935a44f2969": {
+    "dimension": "0.103331*0.15*0.103515",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\77cceef0-cbb1-4848-bf1f-8935a44f2969\\base0.jpg"
+  },
+  "7847a89e-c0cb-4f6c-ba4d-bf2c687b31f1": {
+    "dimension": "0.058097*0.05*0.274191",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7847a89e-c0cb-4f6c-ba4d-bf2c687b31f1\\base2.jpg"
+  },
+  "78e7721c-0aa2-428f-a1bd-9855e61e66d7": {
+    "dimension": "1.171998*0.157172*1.8977",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\78e7721c-0aa2-428f-a1bd-9855e61e66d7\\base2.jpg"
+  },
+  "7959b3a5-7b6a-4a93-b493-eefd929afbb1": {
+    "dimension": "1.225671*1.900317*1.236737",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7959b3a5-7b6a-4a93-b493-eefd929afbb1\\base1.jpg"
+  },
+  "7b084ecb-0834-46ce-9ba1-118912c7fa59": {
+    "dimension": "1.907647*1.706645*1.841241",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7b084ecb-0834-46ce-9ba1-118912c7fa59\\base3.jpg"
+  },
+  "7c09cc4e-5a47-4b36-9246-6a5c065b3ee6": {
+    "dimension": "1.047177*1.900754*1.043563",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7c09cc4e-5a47-4b36-9246-6a5c065b3ee6\\base6.jpg"
+  },
+  "7cbb03b1-c320-437d-8b5d-6aa83e58e0fe": {
+    "dimension": "0.838166*1.900291*0.833938",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7cbb03b1-c320-437d-8b5d-6aa83e58e0fe\\base0.jpg"
+  },
+  "7d1e77e2-e8a8-43b5-9157-81b5ef43753b": {
+    "dimension": "0.371454*0.672609*1.898845",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7d1e77e2-e8a8-43b5-9157-81b5ef43753b\\base5.jpg"
+  },
+  "7d31ef75-83f0-44c1-bb73-31cabb82416f": {
+    "dimension": "0.592217*1.900689*0.363474",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7d31ef75-83f0-44c1-bb73-31cabb82416f\\base0.jpg"
+  },
+  "7d4cbbbd-f5fc-4b95-a628-f86e15affda5": {
+    "dimension": "0.96464*1.900754*1.35202",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7d4cbbbd-f5fc-4b95-a628-f86e15affda5\\base5.jpg"
+  },
+  "7e588891-15cd-4a36-a17b-a246fbce6b1e": {
+    "dimension": "1.895578*0.401415*0.935799",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\7e588891-15cd-4a36-a17b-a246fbce6b1e\\base1.jpg"
+  },
+  "80857190-d4af-4112-9465-4d5c141f118e": {
+    "dimension": "0.318911*0.311998*1.897565",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\80857190-d4af-4112-9465-4d5c141f118e\\base0.jpg"
+  },
+  "81867975-0cf0-4e0f-8ba0-4a2323cf8ee9": {
+    "dimension": "0.108902*0.3*0.116195",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\81867975-0cf0-4e0f-8ba0-4a2323cf8ee9\\base3.jpg"
+  },
+  "8190badd-bf67-43cd-9e2e-b579125b2c79": {
+    "dimension": "0.097213*0.2*0.098098",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8190badd-bf67-43cd-9e2e-b579125b2c79\\base3.jpg"
+  },
+  "822b6b8c-fb5f-4d80-8eaf-c97c5457b982": {
+    "dimension": "0.073533*0.15*0.073689",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\822b6b8c-fb5f-4d80-8eaf-c97c5457b982\\base4.jpg"
+  },
+  "82747666-28df-40d9-86dd-8e409478510a": {
+    "dimension": "1.900029*1.42653*1.197446",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\82747666-28df-40d9-86dd-8e409478510a\\base2.jpg"
+  },
+  "8404fd1f-dce0-4271-afb7-f4ba80515c17": {
+    "dimension": "0.91059*1.778693*0.909031",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8404fd1f-dce0-4271-afb7-f4ba80515c17\\base5.jpg"
+  },
+  "84450536-e5a3-4a64-87f1-4c1b5b48b606": {
+    "dimension": "1.227427*1.249006*1.897072",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\84450536-e5a3-4a64-87f1-4c1b5b48b606\\base3.jpg"
+  },
+  "84a70c02-79cb-4adf-9929-e2b160f24c97": {
+    "dimension": "1.131158*0.383468*1.899361",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\84a70c02-79cb-4adf-9929-e2b160f24c97\\base2.jpg"
+  },
+  "84df6a36-5261-4185-b1f6-d5410aeddfcc": {
+    "dimension": "0.93906*1.901727*0.938958",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\84df6a36-5261-4185-b1f6-d5410aeddfcc\\base3.jpg"
+  },
+  "8575112e-7511-42db-9076-0644fe01bcc5": {
+    "dimension": "1.898952*0.714447*1.77953",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8575112e-7511-42db-9076-0644fe01bcc5\\base6.jpg"
+  },
+  "85949925-fb22-4307-aa92-f0c2e485dfa6": {
+    "dimension": "1.899322*0.608109*1.326977",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\85949925-fb22-4307-aa92-f0c2e485dfa6\\base0.jpg"
+  },
+  "860a6e16-fd48-498e-b8c3-2b5268b6bb1f": {
+    "dimension": "1.900635*1.254208*0.375933",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\860a6e16-fd48-498e-b8c3-2b5268b6bb1f\\base3.jpg"
+  },
+  "866f1a15-62bf-40dd-8803-dbc0e81945a6": {
+    "dimension": "1.312378*1.901901*0.530491",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\866f1a15-62bf-40dd-8803-dbc0e81945a6\\base0.jpg"
+  },
+  "8705e6eb-e8c7-4bc4-942f-1c9c685e93ab": {
+    "dimension": "1.509558*1.839809*1.080421",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8705e6eb-e8c7-4bc4-942f-1c9c685e93ab\\base4.jpg"
+  },
+  "87315c78-824b-4a58-b4a3-183bc323a931": {
+    "dimension": "0.37202*0.235835*0.639549",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\87315c78-824b-4a58-b4a3-183bc323a931\\base0.jpg"
+  },
+  "8734fd2c-7126-4300-84cc-4574556768c7": {
+    "dimension": "1.737896*1.898758*1.827731",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8734fd2c-7126-4300-84cc-4574556768c7\\base0.jpg"
+  },
+  "886aea23-7ad0-4e70-9d79-3ccb47a14876": {
+    "dimension": "1.17631*1.900936*1.186972",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\886aea23-7ad0-4e70-9d79-3ccb47a14876\\base0.jpg"
+  },
+  "888b3bb4-d320-4df6-9c87-09002c9ab036": {
+    "dimension": "1.899406*0.683095*0.936106",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\888b3bb4-d320-4df6-9c87-09002c9ab036\\base4.jpg"
+  },
+  "895e505e-56a4-4841-b8e5-a5435764d951": {
+    "dimension": "0.949777*1.901047*0.945517",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\895e505e-56a4-4841-b8e5-a5435764d951\\base4.jpg"
+  },
+  "89b68efa-1e44-47c4-b1c0-f5fb00e89025": {
+    "dimension": "1.390131*0.447045*1.496377",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\89b68efa-1e44-47c4-b1c0-f5fb00e89025\\base0.jpg"
+  },
+  "89cd4f7a-d5f0-43cf-b2e7-dd6a54b140dc": {
+    "dimension": "1.900191*1.722727*1.287393",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\89cd4f7a-d5f0-43cf-b2e7-dd6a54b140dc\\base3.jpg"
+  },
+  "8a4bb75d-0fe1-42bc-9552-34d13ab6b171": {
+    "dimension": "0.827571*1.899486*0.836947",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8a4bb75d-0fe1-42bc-9552-34d13ab6b171\\base3.jpg"
+  },
+  "8a77d86d-4cf5-40dc-b1e9-a2dd4c61e559": {
+    "dimension": "0.919324*1.900275*0.91934",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8a77d86d-4cf5-40dc-b1e9-a2dd4c61e559\\base2.jpg"
+  },
+  "8c8d5355-0fca-4490-8174-b5c53f2ef575": {
+    "dimension": "1.898669*1.289342*1.897301",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8c8d5355-0fca-4490-8174-b5c53f2ef575\\base1.jpg"
+  },
+  "8cd42d30-5172-47cf-9018-6468d3703052": {
+    "dimension": "1.899429*0.671258*1.744035",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8cd42d30-5172-47cf-9018-6468d3703052\\base0.jpg"
+  },
+  "8d83e29d-53eb-42a6-bb93-f79c4ac11125": {
+    "dimension": "1.713819*1.743228*1.092151",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8d83e29d-53eb-42a6-bb93-f79c4ac11125\\base6.jpg"
+  },
+  "8e2582e5-6b55-425f-957b-9b2c4544324c": {
+    "dimension": "1.317968*1.829208*1.874863",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8e2582e5-6b55-425f-957b-9b2c4544324c\\base1.jpg"
+  },
+  "8e5b27f8-b8b4-41a1-9457-58d1fa2be9ea": {
+    "dimension": "0.81816*0.514088*1.89774",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8e5b27f8-b8b4-41a1-9457-58d1fa2be9ea\\base4.jpg"
+  },
+  "8eda1b14-49d7-403e-8977-45d335569354": {
+    "dimension": "0.634196*0.831898*1.896446",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8eda1b14-49d7-403e-8977-45d335569354\\base5.jpg"
+  },
+  "8efd63c7-6408-4829-907a-47a3479daead": {
+    "dimension": "1.333732*1.562313*1.90585",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8efd63c7-6408-4829-907a-47a3479daead\\base11.jpg"
+  },
+  "8f1ef121-51b1-4428-aaad-58c618839b03": {
+    "dimension": "0.981968*1.903296*0.982701",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8f1ef121-51b1-4428-aaad-58c618839b03\\base0.jpg"
+  },
+  "8f74ae21-6806-44cd-9e75-7f218b9896cc": {
+    "dimension": "0.959246*0.516157*1.898161",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\8f74ae21-6806-44cd-9e75-7f218b9896cc\\base2.jpg"
+  },
+  "915258ab-0936-4631-b45b-fe54ec538f0e": {
+    "dimension": "0.615695*1.899161*0.625485",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\915258ab-0936-4631-b45b-fe54ec538f0e\\base22.jpg"
+  },
+  "91704eba-b6e1-4165-8417-00509ce7d98b": {
+    "dimension": "1.239555*1.897629*1.226586",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\91704eba-b6e1-4165-8417-00509ce7d98b\\base1.jpg"
+  },
+  "9181c2b6-39a8-4d26-b23c-2e3bb5a4dd04": {
+    "dimension": "0.121206*0.25*0.082191",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9181c2b6-39a8-4d26-b23c-2e3bb5a4dd04\\base1.jpg"
+  },
+  "92c37c6d-b7a1-43c9-9514-420255257198": {
+    "dimension": "0.983178*1.900327*1.109512",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\92c37c6d-b7a1-43c9-9514-420255257198\\base6.jpg"
+  },
+  "92f5d896-13db-4af0-80c5-eb3f0b6a01fc": {
+    "dimension": "1.063796*1.901231*1.412646",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\92f5d896-13db-4af0-80c5-eb3f0b6a01fc\\base6.jpg"
+  },
+  "939e2468-9a24-464c-bf42-85df9fb51570": {
+    "dimension": "1.818023*1.665205*1.906564",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\939e2468-9a24-464c-bf42-85df9fb51570\\base4.jpg"
+  },
+  "93e3f79c-7398-4e41-a98b-977eb3355fb6": {
+    "dimension": "1.900378*0.721962*1.358689",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\93e3f79c-7398-4e41-a98b-977eb3355fb6\\base5.jpg"
+  },
+  "9472821d-6a35-40c4-be11-e7f2761796b7": {
+    "dimension": "1.894144*1.532375*1.145292",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9472821d-6a35-40c4-be11-e7f2761796b7\\base5.jpg"
+  },
+  "95537141-df25-4fa0-9eff-8d171722c4fd": {
+    "dimension": "1.900696*0.684571*1.282208",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\95537141-df25-4fa0-9eff-8d171722c4fd\\base2.jpg"
+  },
+  "955bf165-b447-4c1c-9ee0-e0ee88935867": {
+    "dimension": "1.00423*0.81766*1.898025",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\955bf165-b447-4c1c-9ee0-e0ee88935867\\base5.jpg"
+  },
+  "9563ceb1-d7ef-4500-8e55-786dc6e5f9ac": {
+    "dimension": "0.60303*0.356778*1.899395",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9563ceb1-d7ef-4500-8e55-786dc6e5f9ac\\base6.jpg"
+  },
+  "95829804-5334-4e5e-8b92-6751f0e77e25": {
+    "dimension": "1.331378*0.744736*1.280169",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\95829804-5334-4e5e-8b92-6751f0e77e25\\base0.jpg"
+  },
+  "963ee828-19ce-4b1e-959d-373888d30af5": {
+    "dimension": "0.396662*1.897824*1.708604",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\963ee828-19ce-4b1e-959d-373888d30af5\\base2.jpg"
+  },
+  "973725a9-1523-4314-b9b1-a61e2ea9f704": {
+    "dimension": "0.639415*0.854119*1.896914",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\973725a9-1523-4314-b9b1-a61e2ea9f704\\base4.jpg"
+  },
+  "97650d46-2d33-4dc8-915d-28f4297f648d": {
+    "dimension": "0.650039*0.224688*1.899853",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\97650d46-2d33-4dc8-915d-28f4297f648d\\base4.jpg"
+  },
+  "97776e60-5084-449e-b161-37ec7bf910f9": {
+    "dimension": "0.116119*0.146477*1.89166",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\97776e60-5084-449e-b161-37ec7bf910f9\\base2.jpg"
+  },
+  "97a6b9f6-202f-488d-ab99-b24f4c4d7915": {
+    "dimension": "1.257202*1.254186*1.900565",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\97a6b9f6-202f-488d-ab99-b24f4c4d7915\\base7.jpg"
+  },
+  "985a8564-a977-493e-a928-543d4fa81b65": {
+    "dimension": "1.89232*0.830771*1.418659",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\985a8564-a977-493e-a928-543d4fa81b65\\base2.jpg"
+  },
+  "98babef5-75d9-4244-b021-0f18cea9a1cc": {
+    "dimension": "1.888077*0.488182*1.370448",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\98babef5-75d9-4244-b021-0f18cea9a1cc\\base1.jpg"
+  },
+  "9a274802-8c2e-4b75-acc3-4d8d789d262a": {
+    "dimension": "0.602066*1.899088*0.596357",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9a274802-8c2e-4b75-acc3-4d8d789d262a\\base15.jpg"
+  },
+  "9a29dc58-71ae-4ef0-9024-3609050c9b8d": {
+    "dimension": "1.900418*0.22275*1.447461",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9a29dc58-71ae-4ef0-9024-3609050c9b8d\\base3.jpg"
+  },
+  "9a41ef6e-e1b0-49b0-88f3-08bc1bd2e5ba": {
+    "dimension": "0.686464*1.900404*0.461512",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9a41ef6e-e1b0-49b0-88f3-08bc1bd2e5ba\\base5.jpg"
+  },
+  "9a5dcdc3-823a-4d5c-90e2-1e968b099cf6": {
+    "dimension": "1.446694*0.704486*1.897874",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9a5dcdc3-823a-4d5c-90e2-1e968b099cf6\\base2.jpg"
+  },
+  "9a90481b-9b64-47ce-b352-40615cd65da2": {
+    "dimension": "1.72834*0.547374*1.898574",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9a90481b-9b64-47ce-b352-40615cd65da2\\base1.jpg"
+  },
+  "9ae18707-dd56-4d46-b11a-2284df9c4df7": {
+    "dimension": "1.897251*0.139614*0.599697",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9ae18707-dd56-4d46-b11a-2284df9c4df7\\base2.jpg"
+  },
+  "9b4c819a-4798-4491-8ba2-0c4451029eea": {
+    "dimension": "0.699777*1.326467*1.911252",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9b4c819a-4798-4491-8ba2-0c4451029eea\\base4.jpg"
+  },
+  "9bf6b4ef-2844-4663-9f4c-980f25065e1a": {
+    "dimension": "0.59562*0.993995*2.02107",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9bf6b4ef-2844-4663-9f4c-980f25065e1a\\base4.jpg"
+  },
+  "9c8cd5b3-2c1e-42ff-8497-2bad90ab50e6": {
+    "dimension": "1.900912*0.161135*1.15125",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9c8cd5b3-2c1e-42ff-8497-2bad90ab50e6\\base0.jpg"
+  },
+  "9cb67709-0190-49db-8d1a-980ac42042fe": {
+    "dimension": "1.351883*1.589942*1.898451",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9cb67709-0190-49db-8d1a-980ac42042fe\\base7.jpg"
+  },
+  "9ccc5a88-6f11-4b1b-817b-84c0842b82b0": {
+    "dimension": "0.075448*0.074871*0.071889",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9ccc5a88-6f11-4b1b-817b-84c0842b82b0\\base0.jpg"
+  },
+  "9dcb5103-8eca-4280-95ed-c3fddf712f95": {
+    "dimension": "1.343843*1.448044*1.897597",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9dcb5103-8eca-4280-95ed-c3fddf712f95\\base6.jpg"
+  },
+  "9e1715bc-07b7-4e7d-9c67-f7c8d6105ba5": {
+    "dimension": "0.614378*1.028533*1.939223",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9e1715bc-07b7-4e7d-9c67-f7c8d6105ba5\\base3.jpg"
+  },
+  "9e83aa5d-0a1d-43d3-ba43-62c5bd575922": {
+    "dimension": "0.170812*1.899852*0.18578",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9e83aa5d-0a1d-43d3-ba43-62c5bd575922\\base3.jpg"
+  },
+  "9ec93162-0033-458d-b055-921b40defe5d": {
+    "dimension": "1.863623*1*1.865111",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9ec93162-0033-458d-b055-921b40defe5d\\base4.jpg"
+  },
+  "9fad6922-f48d-4a1b-8aeb-1a1c510c612b": {
+    "dimension": "0.800736*1.897932*0.774822",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9fad6922-f48d-4a1b-8aeb-1a1c510c612b\\base18.jpg"
+  },
+  "9fc31291-41fe-468a-be23-26fbb6a9877b": {
+    "dimension": "0.595013*1.900879*0.593157",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9fc31291-41fe-468a-be23-26fbb6a9877b\\base5.jpg"
+  },
+  "9fd296fc-3e6b-40ae-9f8b-ed3cfced0dcc": {
+    "dimension": "1.197265*0.499525*1.616141",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\9fd296fc-3e6b-40ae-9f8b-ed3cfced0dcc\\base3.jpg"
+  },
+  "a005af9f-7f42-4dc0-b14c-786ba2427b80": {
+    "dimension": "0.656529*0.969533*1.896147",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a005af9f-7f42-4dc0-b14c-786ba2427b80\\base1.jpg"
+  },
+  "a0b4a7b1-38ff-4664-ba4b-8bfae05d5145": {
+    "dimension": "0.569193*1.898155*0.709887",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a0b4a7b1-38ff-4664-ba4b-8bfae05d5145\\base20.jpg"
+  },
+  "a0c6a447-78c0-48f3-8f44-7dce86ba80f0": {
+    "dimension": "1.86146*1.759183*1.883437",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a0c6a447-78c0-48f3-8f44-7dce86ba80f0\\base1.jpg"
+  },
+  "a12b4c01-ddf3-42af-a2b7-abf6f2faeb82": {
+    "dimension": "1.062922*1.901103*1.062361",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a12b4c01-ddf3-42af-a2b7-abf6f2faeb82\\base0.jpg"
+  },
+  "a24552ed-5649-4f48-a0da-96ef7f34184d": {
+    "dimension": "1.522109*1.900501*1.529814",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a24552ed-5649-4f48-a0da-96ef7f34184d\\base4.jpg"
+  },
+  "a25c3b24-4e1a-45ed-926b-56e5529862ac": {
+    "dimension": "1.899725*0.717786*0.6071",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a25c3b24-4e1a-45ed-926b-56e5529862ac\\base1.jpg"
+  },
+  "a28c5dec-e109-4a6d-88c1-7b351ec3fb0c": {
+    "dimension": "1.359178*0.867993*0.970959",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a28c5dec-e109-4a6d-88c1-7b351ec3fb0c\\base7.jpg"
+  },
+  "a28e20a8-c92e-4fc5-a09a-abcda683cbaf": {
+    "dimension": "1.338556*0.139016*1.899732",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a28e20a8-c92e-4fc5-a09a-abcda683cbaf\\base4.jpg"
+  },
+  "a2d178b1-4464-44b6-9906-e0713eef7e34": {
+    "dimension": "0.938114*1*0.931569",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a2d178b1-4464-44b6-9906-e0713eef7e34\\base0.jpg"
+  },
+  "a3164674-0a5a-4671-8df7-b1fdb1e753ec": {
+    "dimension": "1.900585*1.579754*0.7095",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a3164674-0a5a-4671-8df7-b1fdb1e753ec\\base3.jpg"
+  },
+  "a31a731f-1d98-4177-af89-41cca9f41d00": {
+    "dimension": "0.485198*1.797064*0.475913",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a31a731f-1d98-4177-af89-41cca9f41d00\\base4.jpg"
+  },
+  "a34b9ec5-3798-4103-b19e-6e9d436203a5": {
+    "dimension": "0.586707*0.264402*1.899474",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a34b9ec5-3798-4103-b19e-6e9d436203a5\\base5.jpg"
+  },
+  "a352d70c-fdeb-4b06-bafb-99e12cdcd5d6": {
+    "dimension": "0.076368*0.3*0.076324",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a352d70c-fdeb-4b06-bafb-99e12cdcd5d6\\base4.jpg"
+  },
+  "a36ed149-7072-4d16-965f-9e440a084084": {
+    "dimension": "0.186*0.12*0.327924",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a36ed149-7072-4d16-965f-9e440a084084\\base2.jpg"
+  },
+  "a375c8ce-78a4-427a-8da7-8e7778e7e3a2": {
+    "dimension": "1.431683*1.749915*1.895033",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a375c8ce-78a4-427a-8da7-8e7778e7e3a2\\base2.jpg"
+  },
+  "a3f168ee-3f1c-4a3c-820d-a73bd39be057": {
+    "dimension": "0.809833*1.899821*0.578824",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a3f168ee-3f1c-4a3c-820d-a73bd39be057\\base7.jpg"
+  },
+  "a4081f15-09a1-45c0-9095-7cc34abcffec": {
+    "dimension": "0.10397*0.25*0.103769",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a4081f15-09a1-45c0-9095-7cc34abcffec\\base1.jpg"
+  },
+  "a513c2c5-6c5c-40a2-82f5-4257dde8f943": {
+    "dimension": "1.900669*1.381076*0.66996",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a513c2c5-6c5c-40a2-82f5-4257dde8f943\\base0.jpg"
+  },
+  "a5769ed9-76fb-4919-94a0-1dad0d75b594": {
+    "dimension": "0.073383*0.25*0.073343",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a5769ed9-76fb-4919-94a0-1dad0d75b594\\base2.jpg"
+  },
+  "a62c9c32-5489-4698-adc4-c7621bc1d52e": {
+    "dimension": "1.89918*0.880077*1.296789",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a62c9c32-5489-4698-adc4-c7621bc1d52e\\base9.jpg"
+  },
+  "a659599e-23b9-45e2-b589-3b8872c19b78": {
+    "dimension": "1.019149*1.901071*1.018594",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a659599e-23b9-45e2-b589-3b8872c19b78\\base5.jpg"
+  },
+  "a68132dd-b99e-41aa-8dc3-f13e793f4aa6": {
+    "dimension": "1.011699*1.900869*1.011788",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a68132dd-b99e-41aa-8dc3-f13e793f4aa6\\base3.jpg"
+  },
+  "a6e9ab42-6702-487b-b5c8-419b5d5225ef": {
+    "dimension": "0.75098*1.303717*1.897966",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a6e9ab42-6702-487b-b5c8-419b5d5225ef\\base5.jpg"
+  },
+  "a7606945-acb7-4dfa-a7d2-28a7b22feb67": {
+    "dimension": "1.901022*0.900208*1.427748",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a7606945-acb7-4dfa-a7d2-28a7b22feb67\\base4.jpg"
+  },
+  "a7843de2-00cb-4eb4-a837-1fcf6d892f7c": {
+    "dimension": "1.151457*1.901423*1.276168",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a7843de2-00cb-4eb4-a837-1fcf6d892f7c\\base0.jpg"
+  },
+  "a82dc5d4-c97d-4dd4-b938-488fb61b8848": {
+    "dimension": "0.592852*1.900178*0.594214",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a82dc5d4-c97d-4dd4-b938-488fb61b8848\\base0.jpg"
+  },
+  "a8f8d28a-cb64-4839-9394-a9bcf1e35b52": {
+    "dimension": "1.431658*1.90048*1.258288",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a8f8d28a-cb64-4839-9394-a9bcf1e35b52\\base2.jpg"
+  },
+  "a9dbab7b-e734-4565-b627-d0677ded7c42": {
+    "dimension": "1.662857*1.906695*1.412586",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a9dbab7b-e734-4565-b627-d0677ded7c42\\base2.jpg"
+  },
+  "a9ee903c-59c9-4bd4-b073-2e10ea3af1b7": {
+    "dimension": "1.163754*0.949259*1.210333",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\a9ee903c-59c9-4bd4-b073-2e10ea3af1b7\\base2.jpg"
+  },
+  "aa01bcfc-2436-4d01-a8c2-e6cbeb126ff0": {
+    "dimension": "1.765688*1.900485*0.852373",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aa01bcfc-2436-4d01-a8c2-e6cbeb126ff0\\base4.jpg"
+  },
+  "aa42c739-e868-4f6c-b71d-f75bf3ee0a28": {
+    "dimension": "1.90199*0.375043*1.30235",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aa42c739-e868-4f6c-b71d-f75bf3ee0a28\\base1.jpg"
+  },
+  "aa59cd4b-fb57-4bcd-95b3-23a05de76ae5": {
+    "dimension": "1.192757*0.499855*2.418072",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aa59cd4b-fb57-4bcd-95b3-23a05de76ae5\\base4.jpg"
+  },
+  "aaad4924-3506-4f62-8c9c-9c195e354fad": {
+    "dimension": "0.932073*1.451321*1.315845",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aaad4924-3506-4f62-8c9c-9c195e354fad\\base1.jpg"
+  },
+  "aabb376a-ece7-4d53-ba25-6fb5cd66cef4": {
+    "dimension": "0.100762*0.1*0.101149",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aabb376a-ece7-4d53-ba25-6fb5cd66cef4\\base0.jpg"
+  },
+  "aaf981e8-94a9-4cae-80bf-738dc169b190": {
+    "dimension": "1.174564*1.900105*0.951997",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aaf981e8-94a9-4cae-80bf-738dc169b190\\base4.jpg"
+  },
+  "ab962f95-41db-40fd-a8de-12871dc8f6e7": {
+    "dimension": "1.17415*0.266892*1.898979",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ab962f95-41db-40fd-a8de-12871dc8f6e7\\base3.jpg"
+  },
+  "abf80de6-c37e-4c81-bb4c-3ee9ea331c34": {
+    "dimension": "1.907089*1.907655*1.907086",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\abf80de6-c37e-4c81-bb4c-3ee9ea331c34\\base1.jpg"
+  },
+  "aca170f0-5d81-45c5-aab3-a4fc6cc7d1d7": {
+    "dimension": "1.904301*1.489573*0.58235",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aca170f0-5d81-45c5-aab3-a4fc6cc7d1d7\\base4.jpg"
+  },
+  "acaa193f-5c10-4840-936a-7b0b9bb8f59a": {
+    "dimension": "1.349331*1.385029*1.901482",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\acaa193f-5c10-4840-936a-7b0b9bb8f59a\\base0.jpg"
+  },
+  "acd820b8-ff7d-4607-b4f4-7034af264fb1": {
+    "dimension": "0.836285*0.836916*1.890929",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\acd820b8-ff7d-4607-b4f4-7034af264fb1\\base3.jpg"
+  },
+  "ad7c8a38-86f8-4993-9f9b-14cdd0f679ec": {
+    "dimension": "1.042932*1.901246*1.029954",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ad7c8a38-86f8-4993-9f9b-14cdd0f679ec\\base5.jpg"
+  },
+  "adffb7e6-ef19-475e-9acf-6994ae99dc9c": {
+    "dimension": "1.074078*1*1.074996",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\adffb7e6-ef19-475e-9acf-6994ae99dc9c\\base4.jpg"
+  },
+  "ae4adda3-7659-4047-81e3-8df0ef36db30": {
+    "dimension": "1.454284*1.900481*0.998804",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ae4adda3-7659-4047-81e3-8df0ef36db30\\base2.jpg"
+  },
+  "aea1ec1d-a6a1-449d-bc6a-12fc742ed241": {
+    "dimension": "1.185299*1.90798*1.185176",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aea1ec1d-a6a1-449d-bc6a-12fc742ed241\\base10.jpg"
+  },
+  "aec26e96-fac4-4963-9389-98a02837605f": {
+    "dimension": "0.733816*1.900459*0.736791",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\aec26e96-fac4-4963-9389-98a02837605f\\base5.jpg"
+  },
+  "af649d44-54cb-4327-a9d3-20f16c5aa920": {
+    "dimension": "1.899317*1.888396*1.835652",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\af649d44-54cb-4327-a9d3-20f16c5aa920\\base1.jpg"
+  },
+  "b01a4724-2023-4cfc-af06-eee9046e5108": {
+    "dimension": "0.948421*1.899995*0.87219",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b01a4724-2023-4cfc-af06-eee9046e5108\\base1.jpg"
+  },
+  "b161caa6-2ce4-43ef-9822-b60a458cc611": {
+    "dimension": "1.900896*1.347478*0.726045",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b161caa6-2ce4-43ef-9822-b60a458cc611\\base2.jpg"
+  },
+  "b1da6739-f5dc-41f5-abc5-b2b3146f8a75": {
+    "dimension": "1.285505*0.877424*1.21733",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b1da6739-f5dc-41f5-abc5-b2b3146f8a75\\base4.jpg"
+  },
+  "b1e2332f-29a0-41a4-a1a5-5acd63a48ed9": {
+    "dimension": "1.90035*1.084703*1.899861",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b1e2332f-29a0-41a4-a1a5-5acd63a48ed9\\base2.jpg"
+  },
+  "b29ff15c-c05c-4f37-a7ec-6219f1105978": {
+    "dimension": "1.528585*1.893731*0.901877",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b29ff15c-c05c-4f37-a7ec-6219f1105978\\base0.jpg"
+  },
+  "b31afc99-5ad7-4756-a4a4-492a4bc8342b": {
+    "dimension": "0.755395*1.459931*1.885208",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b31afc99-5ad7-4756-a4a4-492a4bc8342b\\base6.jpg"
+  },
+  "b470fe6f-43e1-4414-91e7-3b3fdf9e9f8e": {
+    "dimension": "1.637608*1.899838*0.781456",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b470fe6f-43e1-4414-91e7-3b3fdf9e9f8e\\base1.jpg"
+  },
+  "b5017a03-f2f5-46e5-919c-24f09e6048a6": {
+    "dimension": "1.899307*0.189934*1.046761",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b5017a03-f2f5-46e5-919c-24f09e6048a6\\base5.jpg"
+  },
+  "b552e1f6-3e4f-494c-8b63-772ef0a88d79": {
+    "dimension": "1.898344*1.409094*1.411437",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b552e1f6-3e4f-494c-8b63-772ef0a88d79\\base0.jpg"
+  },
+  "b6770f36-afd1-41ba-8bc6-d69423c8a832": {
+    "dimension": "0.695629*1.548356*0.89912",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b6770f36-afd1-41ba-8bc6-d69423c8a832\\base19.jpg"
+  },
+  "b7e6e104-3a08-4928-b803-bc6315807947": {
+    "dimension": "1.656704*1.906939*1.177181",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b7e6e104-3a08-4928-b803-bc6315807947\\base5.jpg"
+  },
+  "b88b1803-1075-432f-9b3b-4ef19e7cb9e8": {
+    "dimension": "1.899968*0.82037*1.897538",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b88b1803-1075-432f-9b3b-4ef19e7cb9e8\\base2.jpg"
+  },
+  "b899162c-41d7-4c15-9fcf-45ce73862f38": {
+    "dimension": "0.572784*1.896522*0.569507",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b899162c-41d7-4c15-9fcf-45ce73862f38\\base1.jpg"
+  },
+  "b8bb8aab-5e75-4c9f-9d4c-d38a824a41ad": {
+    "dimension": "0.46706*0.48767*1.895448",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b8bb8aab-5e75-4c9f-9d4c-d38a824a41ad\\base1.jpg"
+  },
+  "b8c91dfa-09ff-423d-84d3-ba5fc5f86323": {
+    "dimension": "1.839852*1.369711*1.66932",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b8c91dfa-09ff-423d-84d3-ba5fc5f86323\\base6.jpg"
+  },
+  "b93bcee0-b3dd-4468-a990-12f0aa2420a8": {
+    "dimension": "1.893908*1.359247*1.34699",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\b93bcee0-b3dd-4468-a990-12f0aa2420a8\\base0.jpg"
+  },
+  "ba419892-f7eb-4a3f-8c60-a9de05456709": {
+    "dimension": "0.419489*1.900533*0.424972",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ba419892-f7eb-4a3f-8c60-a9de05456709\\base3.jpg"
+  },
+  "bab52fe6-c663-4931-ba05-2797c95d9141": {
+    "dimension": "1.254104*1.580641*0.198517",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bab52fe6-c663-4931-ba05-2797c95d9141\\base2.jpg"
+  },
+  "bab81def-9f13-499d-9591-8b5b919f8d61": {
+    "dimension": "1.907549*1.070997*1.407401",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bab81def-9f13-499d-9591-8b5b919f8d61\\base2.jpg"
+  },
+  "bb02c27b-a9ab-4a28-ae4d-7689675f4231": {
+    "dimension": "0.221292*1.897844*0.242842",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bb02c27b-a9ab-4a28-ae4d-7689675f4231\\base2.jpg"
+  },
+  "bb16d0ec-c350-40ba-be61-3aeaabbe76b2": {
+    "dimension": "1.349674*1.907675*1.349654",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bb16d0ec-c350-40ba-be61-3aeaabbe76b2\\base8.jpg"
+  },
+  "bb33262a-7938-48ff-a4b8-6e45ee609ecd": {
+    "dimension": "1.115508*0.237561*1.89884",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bb33262a-7938-48ff-a4b8-6e45ee609ecd\\base0.jpg"
+  },
+  "bb42145c-9c63-4a36-93e8-612e26d41e17": {
+    "dimension": "1.110858*1.899925*0.58265",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bb42145c-9c63-4a36-93e8-612e26d41e17\\base2.jpg"
+  },
+  "bbb7f81e-809f-4f86-85d1-5e6b2ed8f010": {
+    "dimension": "1.157878*1.901281*1.137776",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bbb7f81e-809f-4f86-85d1-5e6b2ed8f010\\base0.jpg"
+  },
+  "bbc7af39-c9a5-411c-bffb-11740f46c3e8": {
+    "dimension": "0.679016*0.690721*1.924821",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bbc7af39-c9a5-411c-bffb-11740f46c3e8\\base1.jpg"
+  },
+  "bc108c0d-d286-432f-b33d-184acc6608d0": {
+    "dimension": "1.905523*1.243183*1.231487",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bc108c0d-d286-432f-b33d-184acc6608d0\\base0.jpg"
+  },
+  "bc3772c7-a57c-4ce3-a2b8-4f1711b257af": {
+    "dimension": "1.905819*0.809559*0.733083",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bc3772c7-a57c-4ce3-a2b8-4f1711b257af\\base4.jpg"
+  },
+  "bc5d2a2b-2e09-44ab-802f-4add25984f81": {
+    "dimension": "1.183395*1.900375*1.185485",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bc5d2a2b-2e09-44ab-802f-4add25984f81\\base3.jpg"
+  },
+  "bcf8a3cb-484e-444a-bf93-e78c2dd196aa": {
+    "dimension": "1.689869*0.375978*1.87866",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bcf8a3cb-484e-444a-bf93-e78c2dd196aa\\base2.jpg"
+  },
+  "bcfaf93d-5388-4f91-a81c-25c58c08f70d": {
+    "dimension": "0.489092*1.847389*0.481216",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bcfaf93d-5388-4f91-a81c-25c58c08f70d\\base3.jpg"
+  },
+  "bd0c5b4c-f173-4c07-8fee-d30586f0ac29": {
+    "dimension": "1.143225*1.902618*1.13308",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bd0c5b4c-f173-4c07-8fee-d30586f0ac29\\base3.jpg"
+  },
+  "bea82e2a-170b-4be8-80ab-4134038e9ed2": {
+    "dimension": "0.201364*0.15954*0.1977",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bea82e2a-170b-4be8-80ab-4134038e9ed2\\base1.jpg"
+  },
+  "bfaecde8-3211-402c-ab96-549006078ded": {
+    "dimension": "1.115915*0.711948*1.891575",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bfaecde8-3211-402c-ab96-549006078ded\\base1.jpg"
+  },
+  "bfb6999e-8d78-47c1-8a1b-8d9a9a922ea1": {
+    "dimension": "1.379191*1.899517*0.618937",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\bfb6999e-8d78-47c1-8a1b-8d9a9a922ea1\\base0.jpg"
+  },
+  "c00cd1d5-b6ce-4d7f-a1dc-49f200b386e5": {
+    "dimension": "2.365714*1*2.359697",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c00cd1d5-b6ce-4d7f-a1dc-49f200b386e5\\base1.jpg"
+  },
+  "c090cb68-7cf8-4972-b132-240017b33d2c": {
+    "dimension": "0.828458*1*0.829307",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c090cb68-7cf8-4972-b132-240017b33d2c\\base1.jpg"
+  },
+  "c0caf4b8-b6a9-44bb-a56a-35c87073c003": {
+    "dimension": "1.569678*1.21272*1.898774",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c0caf4b8-b6a9-44bb-a56a-35c87073c003\\base2.jpg"
+  },
+  "c1dc09fc-e5b8-4b2c-a1ee-adb7fe68e6be": {
+    "dimension": "0.088071*0.25*0.084805",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c1dc09fc-e5b8-4b2c-a1ee-adb7fe68e6be\\base1.jpg"
+  },
+  "c233e28d-badc-4dea-9918-4db7ca99c418": {
+    "dimension": "0.125577*0.212185*0.1",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c233e28d-badc-4dea-9918-4db7ca99c418\\base0.jpg"
+  },
+  "c2cd9821-74d6-4095-b34f-eb2b81dd975d": {
+    "dimension": "1.837493*1.865014*1.884202",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c2cd9821-74d6-4095-b34f-eb2b81dd975d\\base0.jpg"
+  },
+  "c35fb3e6-2042-4f34-84b4-f2390b4427ea": {
+    "dimension": "1.89209*1.730257*0.688056",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c35fb3e6-2042-4f34-84b4-f2390b4427ea\\base4.jpg"
+  },
+  "c391985b-ac52-497b-b89d-00971e76c7e5": {
+    "dimension": "0.81173*1.296164*1.886711",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c391985b-ac52-497b-b89d-00971e76c7e5\\base4.jpg"
+  },
+  "c39455d5-61cd-429b-bd27-3db830020d48": {
+    "dimension": "1.90091*0.779222*1.89926",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c39455d5-61cd-429b-bd27-3db830020d48\\base7.jpg"
+  },
+  "c3abd5d4-fa7a-4fb3-acf8-a87da1c450ad": {
+    "dimension": "1.675924*1.906866*1.66502",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c3abd5d4-fa7a-4fb3-acf8-a87da1c450ad\\base1.jpg"
+  },
+  "c42859b0-9e06-4c3c-97c5-8d1cfa31d32e": {
+    "dimension": "1.900391*0.169408*1.247439",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c42859b0-9e06-4c3c-97c5-8d1cfa31d32e\\base0.jpg"
+  },
+  "c43c002d-946a-41ce-ab9b-2348be533eb2": {
+    "dimension": "1.592963*1.898148*1.307066",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c43c002d-946a-41ce-ab9b-2348be533eb2\\base3.jpg"
+  },
+  "c4818850-fb9b-4197-885f-cb96500ce9e7": {
+    "dimension": "0.624589*1.900858*0.624978",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c4818850-fb9b-4197-885f-cb96500ce9e7\\base3.jpg"
+  },
+  "c5469a45-8e48-4538-8f7a-818c8a4814f5": {
+    "dimension": "1.161212*0.83583*1.260307",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c5469a45-8e48-4538-8f7a-818c8a4814f5\\base8.jpg"
+  },
+  "c755aa15-67eb-404c-b576-770c83c6bf46": {
+    "dimension": "0.089097*0.1*0.132887",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c755aa15-67eb-404c-b576-770c83c6bf46\\base10.jpg"
+  },
+  "c7bfc0e8-cb8d-4906-bdf0-0215a06b52b5": {
+    "dimension": "1.376519*1.35422*1.90693",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c7bfc0e8-cb8d-4906-bdf0-0215a06b52b5\\base8.jpg"
+  },
+  "c7ec4c10-8642-44a5-9d51-d59511ded902": {
+    "dimension": "0.928149*0.931124*1.90225",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c7ec4c10-8642-44a5-9d51-d59511ded902\\base3.jpg"
+  },
+  "c8958c3b-2c90-452d-bdea-fc1c797a79ce": {
+    "dimension": "0.10298*0.097181*1.892121",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c8958c3b-2c90-452d-bdea-fc1c797a79ce\\base0.jpg"
+  },
+  "c8a48ed4-ef9e-4e17-bccb-30a9e04261d2": {
+    "dimension": "0.997946*0.57434*1.897149",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c8a48ed4-ef9e-4e17-bccb-30a9e04261d2\\base3.jpg"
+  },
+  "c8be82f8-b321-4690-8593-88e04c3d62ad": {
+    "dimension": "1.428962*1.901783*0.607673",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c8be82f8-b321-4690-8593-88e04c3d62ad\\base0.jpg"
+  },
+  "c934a87b-817d-4472-a0aa-228f1f4ecf98": {
+    "dimension": "1.197225*1.899761*1.175624",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c934a87b-817d-4472-a0aa-228f1f4ecf98\\base6.jpg"
+  },
+  "c9dd303c-91fc-4bc6-8fd4-737d3ee8a018": {
+    "dimension": "0.634348*1.901163*0.632484",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\c9dd303c-91fc-4bc6-8fd4-737d3ee8a018\\base0.jpg"
+  },
+  "ca08ef54-b1d8-4bc6-83c4-cb68bba6bbb7": {
+    "dimension": "1.163129*1.900434*0.976985",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ca08ef54-b1d8-4bc6-83c4-cb68bba6bbb7\\base5.jpg"
+  },
+  "ca75d88c-3efa-4690-b38b-08260de50d04": {
+    "dimension": "1.380366*1.758224*1.896883",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ca75d88c-3efa-4690-b38b-08260de50d04\\base0.jpg"
+  },
+  "ca8ee5aa-0fdf-4ea8-bd2f-728e399959a8": {
+    "dimension": "0.062916*0.25*0.062921",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ca8ee5aa-0fdf-4ea8-bd2f-728e399959a8\\base0.jpg"
+  },
+  "caecdaf3-fca1-49ca-b034-f5168cd5821a": {
+    "dimension": "0.664638*0.20308*1.899715",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\caecdaf3-fca1-49ca-b034-f5168cd5821a\\base3.jpg"
+  },
+  "cb202b31-a27d-49fe-91df-3830b1751803": {
+    "dimension": "1.25064*1.899444*1.091471",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cb202b31-a27d-49fe-91df-3830b1751803\\base0.jpg"
+  },
+  "cb5212e5-9e84-4daf-bf03-1f9c308734bd": {
+    "dimension": "1.005484*1.90076*1.005724",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cb5212e5-9e84-4daf-bf03-1f9c308734bd\\base0.jpg"
+  },
+  "cb562d1b-b308-471a-9f78-1932fbb2fc07": {
+    "dimension": "0.925638*0.969586*1.898171",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cb562d1b-b308-471a-9f78-1932fbb2fc07\\base0.jpg"
+  },
+  "cb6ef469-6ef1-4a29-87c9-83659a5f2705": {
+    "dimension": "0.676392*1.022303*1.899609",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cb6ef469-6ef1-4a29-87c9-83659a5f2705\\base3.jpg"
+  },
+  "cbace341-2b85-4a3a-95e8-f141af51e0ca": {
+    "dimension": "0.103097*0.3*0.078953",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cbace341-2b85-4a3a-95e8-f141af51e0ca\\base2.jpg"
+  },
+  "cc1e6630-4ef4-4e21-8bdc-8da2ff7a1380": {
+    "dimension": "1.899714*0.157133*1.240941",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cc1e6630-4ef4-4e21-8bdc-8da2ff7a1380\\base0.jpg"
+  },
+  "cc2089af-7057-480a-8576-1580355cfb68": {
+    "dimension": "1.772786*1.896096*1.77886",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cc2089af-7057-480a-8576-1580355cfb68\\base0.jpg"
+  },
+  "ccae8ade-5a7c-4728-9272-dc94fc66bb7c": {
+    "dimension": "1.893453*1.697704*1.614066",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ccae8ade-5a7c-4728-9272-dc94fc66bb7c\\base5.jpg"
+  },
+  "cce961d0-3edb-4e44-aaf1-b17dc0eefac2": {
+    "dimension": "0.332265*1.896452*1.382381",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cce961d0-3edb-4e44-aaf1-b17dc0eefac2\\base0.jpg"
+  },
+  "cd600c16-44f3-47e5-adcf-3e5e55b6d9c4": {
+    "dimension": "0.071487*0.25*0.071781",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cd600c16-44f3-47e5-adcf-3e5e55b6d9c4\\base2.jpg"
+  },
+  "cd6034a9-9a02-49e1-9736-1f1c3d4d5cfb": {
+    "dimension": "0.886117*1.902202*0.882898",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cd6034a9-9a02-49e1-9736-1f1c3d4d5cfb\\base6.jpg"
+  },
+  "cdbfc486-7b75-45ba-ae7d-fa7d62f1199b": {
+    "dimension": "0.976336*1*0.97419",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cdbfc486-7b75-45ba-ae7d-fa7d62f1199b\\base5.jpg"
+  },
+  "cdc4345a-0cf1-4819-80a3-cd4f45f162bc": {
+    "dimension": "7.587392*1*7.613204",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cdc4345a-0cf1-4819-80a3-cd4f45f162bc\\base0.jpg"
+  },
+  "cde9ff95-a4f5-46f2-9c58-08193efafde8": {
+    "dimension": "1.901492*0.147108*0.788814",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cde9ff95-a4f5-46f2-9c58-08193efafde8\\base1.jpg"
+  },
+  "cf79afe6-61f6-47ff-ab00-17d788dba34b": {
+    "dimension": "1.906403*1.615936*1.892318",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cf79afe6-61f6-47ff-ab00-17d788dba34b\\base0.jpg"
+  },
+  "cfa44384-7d16-466f-b647-c8929191ab80": {
+    "dimension": "1.197209*0.75747*1.899601",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cfa44384-7d16-466f-b647-c8929191ab80\\base6.jpg"
+  },
+  "cfefa6ed-5ff9-48d8-8fe5-ff357918ca0e": {
+    "dimension": "0.558276*0.804727*1.89499",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\cfefa6ed-5ff9-48d8-8fe5-ff357918ca0e\\base1.jpg"
+  },
+  "d0ce8a6c-5007-4574-add2-7f96eaed4db2": {
+    "dimension": "1.039791*0.959508*1.892483",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d0ce8a6c-5007-4574-add2-7f96eaed4db2\\base4.jpg"
+  },
+  "d11e57cf-54d1-479e-b6c7-ce5f2b74eb52": {
+    "dimension": "0.381415*0.323109*1.898267",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d11e57cf-54d1-479e-b6c7-ce5f2b74eb52\\base1.jpg"
+  },
+  "d1a1a32c-104c-41ee-b542-af68703f6eb7": {
+    "dimension": "3.183427*3.644405*2.126471",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d1a1a32c-104c-41ee-b542-af68703f6eb7\\base0.jpg"
+  },
+  "d23c4089-42c9-4621-8bdf-d08f13e70be1": {
+    "dimension": "0.53727*0.538561*1.898448",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d23c4089-42c9-4621-8bdf-d08f13e70be1\\base0.jpg"
+  },
+  "d255ae5d-69d4-4391-90c0-ac1406d777b5": {
+    "dimension": "0.078553*0.25*0.0788",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d255ae5d-69d4-4391-90c0-ac1406d777b5\\base1.jpg"
+  },
+  "d2b81fbf-6a94-4751-be8d-eee2dec91220": {
+    "dimension": "0.100509*0.1*0.05005",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d2b81fbf-6a94-4751-be8d-eee2dec91220\\base2.jpg"
+  },
+  "d3682ed9-84af-435c-9a1e-2615a3baf831": {
+    "dimension": "1.899275*0.685864*0.587462",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d3682ed9-84af-435c-9a1e-2615a3baf831\\base1.jpg"
+  },
+  "d4e09171-41f8-4e4b-9ccd-7ca57654773e": {
+    "dimension": "1.116243*1.29076*1.89547",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d4e09171-41f8-4e4b-9ccd-7ca57654773e\\base3.jpg"
+  },
+  "d5471cf4-9b47-4c39-a391-7e874369bf2a": {
+    "dimension": "1.210694*0.949094*1.080466",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d5471cf4-9b47-4c39-a391-7e874369bf2a\\base3.jpg"
+  },
+  "d5661b08-d211-4916-bb14-57513f3cb00f": {
+    "dimension": "1.015196*1.900124*0.830377",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d5661b08-d211-4916-bb14-57513f3cb00f\\base2.jpg"
+  },
+  "d59e8adb-6f09-4d32-ba6d-681717c4b313": {
+    "dimension": "0.866716*1.900947*0.864837",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d59e8adb-6f09-4d32-ba6d-681717c4b313\\base1.jpg"
+  },
+  "d64dbf1c-1834-4b0f-9041-f338b38d9767": {
+    "dimension": "1.905541*1.812546*1.905919",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d64dbf1c-1834-4b0f-9041-f338b38d9767\\base3.jpg"
+  },
+  "d697e0fa-a5d5-46f5-8ad4-782c5e7573fe": {
+    "dimension": "1.276495*1.901159*1.280089",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d697e0fa-a5d5-46f5-8ad4-782c5e7573fe\\base4.jpg"
+  },
+  "d780ce6a-b242-4605-b9b5-85baac9322d0": {
+    "dimension": "1.878474*0.799636*1.896353",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d780ce6a-b242-4605-b9b5-85baac9322d0\\base0.jpg"
+  },
+  "d7f6e15d-edb9-490b-8d22-a87546e7a6bf": {
+    "dimension": "0.802456*1.319622*1.894658",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d7f6e15d-edb9-490b-8d22-a87546e7a6bf\\base7.jpg"
+  },
+  "d8bda831-e6af-4b92-8e86-4530352f2399": {
+    "dimension": "1.895316*0.117004*1.898955",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d8bda831-e6af-4b92-8e86-4530352f2399\\base0.jpg"
+  },
+  "d8f7277a-0301-4884-bcb1-40e6f15b01fc": {
+    "dimension": "1.64045*1.897311*1.642744",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d8f7277a-0301-4884-bcb1-40e6f15b01fc\\base1.jpg"
+  },
+  "d8fd7cf0-400e-407f-9799-68592de85db3": {
+    "dimension": "0.854337*1.614495*0.898833",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\d8fd7cf0-400e-407f-9799-68592de85db3\\base0.jpg"
+  },
+  "da07d463-a45c-438d-9f95-cdc6f381da87": {
+    "dimension": "1.898298*0.745316*1.277829",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\da07d463-a45c-438d-9f95-cdc6f381da87\\base2.jpg"
+  },
+  "da8f6630-7f1f-46b8-9285-2a9b106d34c1": {
+    "dimension": "0.535126*1.896047*1.57153",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\da8f6630-7f1f-46b8-9285-2a9b106d34c1\\base6.jpg"
+  },
+  "da8fcbdf-49b8-44c9-afbe-a7e5dd39c72a": {
+    "dimension": "0.834089*1.894581*0.834415",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\da8fcbdf-49b8-44c9-afbe-a7e5dd39c72a\\base2.jpg"
+  },
+  "dbac2613-2280-47da-a810-55d149eb48da": {
+    "dimension": "0.530322*1.50884*1.899893",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dbac2613-2280-47da-a810-55d149eb48da\\base0.jpg"
+  },
+  "dbba391c-f77a-40de-81d1-eeae7a6c9544": {
+    "dimension": "1.618526*1.905401*1.481225",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dbba391c-f77a-40de-81d1-eeae7a6c9544\\base1.jpg"
+  },
+  "dbd50f81-9aa0-4c90-9a44-59fd85d3872c": {
+    "dimension": "1.424005*0.509751*1.897704",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dbd50f81-9aa0-4c90-9a44-59fd85d3872c\\base2.jpg"
+  },
+  "dd0c5807-e8d4-4866-a4ae-718fa666d090": {
+    "dimension": "0.422448*0.655633*1.898746",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dd0c5807-e8d4-4866-a4ae-718fa666d090\\base3.jpg"
+  },
+  "dd10bdd9-7d1b-4224-9967-c02e2197f576": {
+    "dimension": "1.872796*1.191218*0.953263",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dd10bdd9-7d1b-4224-9967-c02e2197f576\\base4.jpg"
+  },
+  "dd566187-0df8-482f-a3d7-541b6eb6cd1b": {
+    "dimension": "0.549742*0.676994*1.895124",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dd566187-0df8-482f-a3d7-541b6eb6cd1b\\base6.jpg"
+  },
+  "dd9a5591-3bdf-40f6-8624-6c5ae31d1200": {
+    "dimension": "0.544813*1.896339*0.539351",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dd9a5591-3bdf-40f6-8624-6c5ae31d1200\\base0.jpg"
+  },
+  "dda7e515-dae3-4d63-966e-9f5226ab768e": {
+    "dimension": "1.898858*1.817942*1.279715",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dda7e515-dae3-4d63-966e-9f5226ab768e\\base2.jpg"
+  },
+  "ddd509fd-b7cc-4135-91a6-981b7c50ab75": {
+    "dimension": "1.907815*1.694313*1.418025",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ddd509fd-b7cc-4135-91a6-981b7c50ab75\\base4.jpg"
+  },
+  "de4e6c10-729a-4d7a-8033-1bac871f8e48": {
+    "dimension": "1.243113*1.900609*1.362584",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\de4e6c10-729a-4d7a-8033-1bac871f8e48\\base2.jpg"
+  },
+  "df142a62-589b-4304-839f-b31508886554": {
+    "dimension": "0.886171*0.479657*1.892979",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\df142a62-589b-4304-839f-b31508886554\\base3.jpg"
+  },
+  "df190a8c-16c2-4f91-bb24-0b784c41215d": {
+    "dimension": "0.631872*0.704998*1.895871",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\df190a8c-16c2-4f91-bb24-0b784c41215d\\base6.jpg"
+  },
+  "df2008af-a787-4fe4-bc14-cb6b98779d17": {
+    "dimension": "1.900109*0.200343*0.952702",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\df2008af-a787-4fe4-bc14-cb6b98779d17\\base3.jpg"
+  },
+  "dfd83e85-ff38-4837-befa-5006ad9c04a2": {
+    "dimension": "0.825615*1.900208*0.838903",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\dfd83e85-ff38-4837-befa-5006ad9c04a2\\base4.jpg"
+  },
+  "e0dddf95-df4b-4949-88d1-6e72e9de6923": {
+    "dimension": "0.680861*1*0.674707",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e0dddf95-df4b-4949-88d1-6e72e9de6923\\base2.jpg"
+  },
+  "e100a9ae-74cd-47b7-9551-c683e0b97e12": {
+    "dimension": "1.899161*0.444941*1.369978",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e100a9ae-74cd-47b7-9551-c683e0b97e12\\base3.jpg"
+  },
+  "e17590aa-e0fe-4332-838a-cd9e527bf7b0": {
+    "dimension": "1.268573*1.900791*1.271939",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e17590aa-e0fe-4332-838a-cd9e527bf7b0\\base1.jpg"
+  },
+  "e1a2438d-af89-422f-aed5-0bdc73d17a9e": {
+    "dimension": "1.837493*1.865014*1.884202",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e1a2438d-af89-422f-aed5-0bdc73d17a9e\\base1.jpg"
+  },
+  "e1be82b1-6bfb-4109-a2d5-792177703d6c": {
+    "dimension": "0.881549*1.90169*0.856842",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e1be82b1-6bfb-4109-a2d5-792177703d6c\\base2.jpg"
+  },
+  "e2862e42-2e1d-4ef4-b924-92ccce94a365": {
+    "dimension": "1.497552*1.520883*1.896946",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e2862e42-2e1d-4ef4-b924-92ccce94a365\\base5.jpg"
+  },
+  "e31dadc6-9d91-477a-b08d-30f6c1fd9804": {
+    "dimension": "0.583121*0.781996*1.9389",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e31dadc6-9d91-477a-b08d-30f6c1fd9804\\base2.jpg"
+  },
+  "e3f65160-6017-44f3-8962-6d217f01fd82": {
+    "dimension": "1.106366*0.722824*1.898427",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e3f65160-6017-44f3-8962-6d217f01fd82\\base0.jpg"
+  },
+  "e3fd79e3-fe8b-4444-8f2c-0f94e29f4788": {
+    "dimension": "0.928142*1.9012*0.638832",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e3fd79e3-fe8b-4444-8f2c-0f94e29f4788\\base3.jpg"
+  },
+  "e4753080-7b92-433d-8e9e-ceb80fe1c4a1": {
+    "dimension": "1.024018*1.900405*1.489222",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e4753080-7b92-433d-8e9e-ceb80fe1c4a1\\base2.jpg"
+  },
+  "e4b71acc-7255-401c-b511-a5c7f77c5d2d": {
+    "dimension": "0.599409*0.680549*1.901058",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e4b71acc-7255-401c-b511-a5c7f77c5d2d\\base2.jpg"
+  },
+  "e4ea0103-177b-4136-8edd-f828a9748d00": {
+    "dimension": "2.37799*1*1.750944",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e4ea0103-177b-4136-8edd-f828a9748d00\\base0.jpg"
+  },
+  "e51311eb-db3e-4b2d-9326-bb0205f5439c": {
+    "dimension": "1.527067*1.901846*0.654648",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e51311eb-db3e-4b2d-9326-bb0205f5439c\\base0.jpg"
+  },
+  "e5657980-0387-4a0d-9a12-619eed91217d": {
+    "dimension": "1.854006*1.145351*1.455134",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e5657980-0387-4a0d-9a12-619eed91217d\\base6.jpg"
+  },
+  "e58046a2-86b9-4103-af37-0c7cc5a88643": {
+    "dimension": "1.369425*1.899868*1.019945",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e58046a2-86b9-4103-af37-0c7cc5a88643\\base4.jpg"
+  },
+  "e58f2fde-ed7e-461e-978c-850915f4c65d": {
+    "dimension": "0.423581*0.914008*1.891968",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e58f2fde-ed7e-461e-978c-850915f4c65d\\base0.jpg"
+  },
+  "e692e6bd-2e95-40d7-8979-c64c3825b7bd": {
+    "dimension": "1.900744*0.219483*0.910734",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e692e6bd-2e95-40d7-8979-c64c3825b7bd\\base3.jpg"
+  },
+  "e7f3b550-5040-4567-ae61-a2c2c92ce2c7": {
+    "dimension": "0.965908*1.848714*0.963904",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e7f3b550-5040-4567-ae61-a2c2c92ce2c7\\base0.jpg"
+  },
+  "e81e0b55-7e42-4e5c-9e76-d83ddfaccab7": {
+    "dimension": "1.732812*1.900607*1.739945",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e81e0b55-7e42-4e5c-9e76-d83ddfaccab7\\base3.jpg"
+  },
+  "e84b038e-0cde-4bb6-b640-b9a3737b1207": {
+    "dimension": "1.306538*1.341631*1.897191",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e84b038e-0cde-4bb6-b640-b9a3737b1207\\base4.jpg"
+  },
+  "e899b38d-c725-432d-a805-09673409d0d1": {
+    "dimension": "1.197748*1.478489*1.901508",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e899b38d-c725-432d-a805-09673409d0d1\\base9.jpg"
+  },
+  "e8a0216b-4769-41d5-93ed-3a0a2157a936": {
+    "dimension": "1.902303*0.845742*1.877465",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e8a0216b-4769-41d5-93ed-3a0a2157a936\\base4.jpg"
+  },
+  "e9624bd7-3b56-4c7f-87bd-bf48387f91a0": {
+    "dimension": "1.900049*0.686494*1.191348",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\e9624bd7-3b56-4c7f-87bd-bf48387f91a0\\base1.jpg"
+  },
+  "eb14d4ff-b21d-4637-8423-67bc326ff67f": {
+    "dimension": "1.617772*1.544251*1.894907",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\eb14d4ff-b21d-4637-8423-67bc326ff67f\\base3.jpg"
+  },
+  "eb75d6c1-5f93-410f-bfc8-09d90c71757a": {
+    "dimension": "0.071536*0.3*0.072232",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\eb75d6c1-5f93-410f-bfc8-09d90c71757a\\base1.jpg"
+  },
+  "ec1e9043-d1bb-4435-b0a9-c85b8260f7a0": {
+    "dimension": "1.615955*1.898009*1.612725",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ec1e9043-d1bb-4435-b0a9-c85b8260f7a0\\base3.jpg"
+  },
+  "ecc36605-f00b-488a-b7d8-dfc0f407b5e2": {
+    "dimension": "1.899485*0.7178*1.070012",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ecc36605-f00b-488a-b7d8-dfc0f407b5e2\\base7.jpg"
+  },
+  "ed304498-00db-4a04-adf6-65b04b7c583e": {
+    "dimension": "1.161525*1.026093*1.899138",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ed304498-00db-4a04-adf6-65b04b7c583e\\base0.jpg"
+  },
+  "ed96a666-4682-4336-b6b7-276361fa8c29": {
+    "dimension": "1.343956*0.638707*1.896938",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ed96a666-4682-4336-b6b7-276361fa8c29\\base1.jpg"
+  },
+  "edc5644c-49b0-47f1-8558-8c43105c5949": {
+    "dimension": "1.900323*0.697442*1.205226",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\edc5644c-49b0-47f1-8558-8c43105c5949\\base1.jpg"
+  },
+  "ee3c8661-073f-4fa9-a9e2-1f1b8509932e": {
+    "dimension": "0.867721*1.900236*0.866407",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ee3c8661-073f-4fa9-a9e2-1f1b8509932e\\base3.jpg"
+  },
+  "eeca9dd1-d09b-4e7b-8b84-17abbcd16bc4": {
+    "dimension": "0.845426*0.871395*2.075282",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\eeca9dd1-d09b-4e7b-8b84-17abbcd16bc4\\base0.jpg"
+  },
+  "ef0a89e6-3a1c-4726-9691-d1f65df96f39": {
+    "dimension": "1.305099*1.217288*1.893449",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ef0a89e6-3a1c-4726-9691-d1f65df96f39\\base9.jpg"
+  },
+  "ef6de1e3-b357-454b-aaa5-9a80949b9a8a": {
+    "dimension": "1.170457*1.898965*0.654788",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ef6de1e3-b357-454b-aaa5-9a80949b9a8a\\base4.jpg"
+  },
+  "f0536850-eafd-49dc-9dc3-063f993421ac": {
+    "dimension": "0.876854*1.885587*1.246966",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f0536850-eafd-49dc-9dc3-063f993421ac\\base6.jpg"
+  },
+  "f087e762-26e6-4622-a583-68929a2e5cc4": {
+    "dimension": "0.201882*1.90004*0.234198",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f087e762-26e6-4622-a583-68929a2e5cc4\\base5.jpg"
+  },
+  "f17dee28-f994-41d6-af9e-a2887bb09806": {
+    "dimension": "0.116741*0.3*0.117863",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f17dee28-f994-41d6-af9e-a2887bb09806\\base0.jpg"
+  },
+  "f1805bd5-750b-4e3b-84c4-fe096351f56a": {
+    "dimension": "1.901707*0.715484*1.537782",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f1805bd5-750b-4e3b-84c4-fe096351f56a\\base3.jpg"
+  },
+  "f189ec6b-31b3-4749-9a11-12ba108258b5": {
+    "dimension": "1.235007*1.130962*1.895484",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f189ec6b-31b3-4749-9a11-12ba108258b5\\base8.jpg"
+  },
+  "f1cd5758-fff7-47c2-8d5e-c321671dd4ba": {
+    "dimension": "0.545872*0.500805*1.891268",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f1cd5758-fff7-47c2-8d5e-c321671dd4ba\\base5.jpg"
+  },
+  "f1fa87ca-4f8c-402f-a598-36cbdce41f5c": {
+    "dimension": "0.444232*1.900956*0.443567",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f1fa87ca-4f8c-402f-a598-36cbdce41f5c\\base6.jpg"
+  },
+  "f2b00344-5f2c-49d1-9b99-c8fae4a781dc": {
+    "dimension": "1.163585*1.500127*0.927924",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f2b00344-5f2c-49d1-9b99-c8fae4a781dc\\base2.jpg"
+  },
+  "f3bcb801-8c17-40e7-a922-dd5802c3af7f": {
+    "dimension": "0.305564*0.887633*1.895319",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f3bcb801-8c17-40e7-a922-dd5802c3af7f\\base3.jpg"
+  },
+  "f43bae46-f6fc-4841-9aa4-01297a7ebfaf": {
+    "dimension": "0.219095*0.222404*2.168436",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f43bae46-f6fc-4841-9aa4-01297a7ebfaf\\base3.jpg"
+  },
+  "f4ace86a-b64d-4471-9d0f-2cc38447f00f": {
+    "dimension": "1.013429*0.706393*1.89316",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f4ace86a-b64d-4471-9d0f-2cc38447f00f\\base5.jpg"
+  },
+  "f4c78267-9fba-4674-80dc-62b78e2c4d7f": {
+    "dimension": "1.168559*0.400173*1.89991",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f4c78267-9fba-4674-80dc-62b78e2c4d7f\\base0.jpg"
+  },
+  "f4f214a1-5117-4bd8-914b-c217abae5df3": {
+    "dimension": "1.570158*1.900472*0.772566",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f4f214a1-5117-4bd8-914b-c217abae5df3\\base3.jpg"
+  },
+  "f50cd09e-c56a-4617-8792-d4548909ceb9": {
+    "dimension": "1.005846*1.901492*0.998421",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f50cd09e-c56a-4617-8792-d4548909ceb9\\base2.jpg"
+  },
+  "f52c4d04-17a4-45dc-9351-162b5359b21c": {
+    "dimension": "0.066442*0.12*0.063124",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f52c4d04-17a4-45dc-9351-162b5359b21c\\base0.jpg"
+  },
+  "f57427eb-50ea-4d5c-aef9-205032842371": {
+    "dimension": "1.900161*0.706964*1.029902",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f57427eb-50ea-4d5c-aef9-205032842371\\base0.jpg"
+  },
+  "f5744215-1576-4f9c-b8ce-26361523e4ce": {
+    "dimension": "1.554797*1.908461*1.555472",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f5744215-1576-4f9c-b8ce-26361523e4ce\\base9.jpg"
+  },
+  "f5905fb4-f917-4d1e-b140-5c5e6bf0436e": {
+    "dimension": "0.803376*1.899848*0.799887",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f5905fb4-f917-4d1e-b140-5c5e6bf0436e\\base1.jpg"
+  },
+  "f64c272c-d78c-4f01-bb76-12a140f59f5d": {
+    "dimension": "1.964862*0.957161*1.462126",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f64c272c-d78c-4f01-bb76-12a140f59f5d\\base1.jpg"
+  },
+  "f7264e47-8452-4ae7-a0c4-dd4e509d1b32": {
+    "dimension": "1.378758*1.356831*1.535575",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f7264e47-8452-4ae7-a0c4-dd4e509d1b32\\base0.jpg"
+  },
+  "f7df6e6a-6db9-41ae-9dfc-5813ec6f6bf0": {
+    "dimension": "1.893315*0.745752*1.868441",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f7df6e6a-6db9-41ae-9dfc-5813ec6f6bf0\\base4.jpg"
+  },
+  "f839150a-7969-4c10-a074-7593a4291e92": {
+    "dimension": "2.443762*1*2.446486",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f839150a-7969-4c10-a074-7593a4291e92\\base2.jpg"
+  },
+  "f85770c2-abbf-4c93-9dd6-a152c1b9d27e": {
+    "dimension": "1.887958*0.939295*1.273049",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f85770c2-abbf-4c93-9dd6-a152c1b9d27e\\base6.jpg"
+  },
+  "f97f8c2d-1a8c-4e87-b1b6-3d0a673d3d1a": {
+    "dimension": "1.899332*0.82824*0.16205",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f97f8c2d-1a8c-4e87-b1b6-3d0a673d3d1a\\base2.jpg"
+  },
+  "f98dba85-7b17-4c1e-b748-467c406b0297": {
+    "dimension": "1.31787*0.889609*1.332783",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f98dba85-7b17-4c1e-b748-467c406b0297\\base1.jpg"
+  },
+  "f9d3016e-ac2a-4afd-935c-4da18d30ebf3": {
+    "dimension": "1.905071*1.84969*1.905688",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f9d3016e-ac2a-4afd-935c-4da18d30ebf3\\base5.jpg"
+  },
+  "f9ed1031-8152-4576-b8c3-04100b85dba6": {
+    "dimension": "0.105361*0.25*0.117875",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\f9ed1031-8152-4576-b8c3-04100b85dba6\\base2.jpg"
+  },
+  "fa48ccbc-ccfc-4ed3-83e6-a1d45260988e": {
+    "dimension": "1.154773*1.900648*1.148711",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fa48ccbc-ccfc-4ed3-83e6-a1d45260988e\\base0.jpg"
+  },
+  "faa35475-ba5e-4a14-95a6-3197808d6c49": {
+    "dimension": "1.897559*0.80647*0.995329",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\faa35475-ba5e-4a14-95a6-3197808d6c49\\base4.jpg"
+  },
+  "fb237651-e353-4431-acd3-d22ab2f48d9a": {
+    "dimension": "1.084909*1.882552*1.072464",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fb237651-e353-4431-acd3-d22ab2f48d9a\\base6.jpg"
+  },
+  "fbde4bdb-544c-4795-a5b3-56256abd9801": {
+    "dimension": "1.128957*1.897483*1.122065",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fbde4bdb-544c-4795-a5b3-56256abd9801\\base0.jpg"
+  },
+  "fc2e8eae-4b4a-473d-aabe-ed57c957c31a": {
+    "dimension": "1.903787*0.090026*0.092055",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fc2e8eae-4b4a-473d-aabe-ed57c957c31a\\base4.jpg"
+  },
+  "fc4e47ed-d4c2-4c25-aea2-424d5b7fd0ea": {
+    "dimension": "0.848192*0.870813*1.898403",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fc4e47ed-d4c2-4c25-aea2-424d5b7fd0ea\\base1.jpg"
+  },
+  "fc7caeed-3e72-4156-9fbc-86d9557fbf39": {
+    "dimension": "0.201364*0.15954*0.1977",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fc7caeed-3e72-4156-9fbc-86d9557fbf39\\base0.jpg"
+  },
+  "fc9ee43c-f933-4ce5-aa29-5ba4ab527510": {
+    "dimension": "1.899537*0.79073*1.288692",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fc9ee43c-f933-4ce5-aa29-5ba4ab527510\\base6.jpg"
+  },
+  "fd1100f9-6871-40aa-90dd-0a89b31c5535": {
+    "dimension": "1.899038*1.438968*1.293733",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fd1100f9-6871-40aa-90dd-0a89b31c5535\\base2.jpg"
+  },
+  "fdac0cc5-3326-4e1e-b21c-7dc641c0b310": {
+    "dimension": "1.901068*0.175723*0.445178",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fdac0cc5-3326-4e1e-b21c-7dc641c0b310\\base0.jpg"
+  },
+  "fdd253d2-befc-421d-b3a0-751b97569537": {
+    "dimension": "1.096522*1.90102*1.096382",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fdd253d2-befc-421d-b3a0-751b97569537\\base5.jpg"
+  },
+  "fdfa1a4c-7270-416d-b483-2847c7f37259": {
+    "dimension": "1.349331*1.385029*1.901482",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fdfa1a4c-7270-416d-b483-2847c7f37259\\base1.jpg"
+  },
+  "fe256e82-206b-4031-a3f8-4c74349f07df": {
+    "dimension": "0.577518*1.900363*0.579001",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\fe256e82-206b-4031-a3f8-4c74349f07df\\base2.jpg"
+  },
+  "ff18047a-6f25-42ab-9988-d592dc1db04d": {
+    "dimension": "0.11572*0.1*0.15798",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ff18047a-6f25-42ab-9988-d592dc1db04d\\base11.jpg"
+  },
+  "ff4062d3-7dd5-48db-a232-a2bf12da549d": {
+    "dimension": "1.905915*1.402689*0.669658",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ff4062d3-7dd5-48db-a232-a2bf12da549d\\base2.jpg"
+  },
+  "ff7e5a1f-13f2-4841-a163-d3f2404ec9f5": {
+    "dimension": "0.157903*0.05*0.213061",
+    "image": "F:\\Data\\uuid_robotwin_objects_imgs\\ff7e5a1f-13f2-4841-a163-d3f2404ec9f5\\base0.jpg"
+  }
+}

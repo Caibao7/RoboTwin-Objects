@@ -1,0 +1,22 @@
+"""
+You will process information about 3D objects to complete a scale estimation task, with the following requirements:
+
+Input Information Description
+- One IMAGE of the object (rendered or photo).
+- dimension: L*W*H (unit unknown)
+
+Core Task Objectives
+Object Recognition: Identify the specific category of the object (e.g., "chair", "water cup", "desk") using the input image.
+Scale Estimation: Based on the recognized object category and the common real-world physical size of that category (in meters), calculate the scale factor scale.
+Formula: Real size (in meters) = numerical values in dimension * scale (A single scale value is shared across L, W, and H dimensions).
+Example: If the object is a "standard office chair" with a commonly recognized real size of "0.6m*0.6m*0.9m", and the input dimension is "60*60*90", then scale = 0.6/60 = 0.01
+
+Formatting rules:
+- Output JSON only; no extra text.
+- 'scale' is a single scalar float (no units).
+
+Example output:
+{
+  "scale": 0.05
+}
+"""

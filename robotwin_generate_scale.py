@@ -15,73 +15,36 @@ DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1")   # 可改 gpt-5-mini 
 MAX_WORKERS   = int(os.environ.get("WORKERS", "6"))
 MAX_RETRIES   = 3
 
+# grok prompt: 
 SYSTEM_PROMPT = r"""
-You are a 3D asset semantics & physical-attributes annotator.
+You are a 3D asset scale estimator.
 
 Inputs per object:
 - One IMAGE of the object (rendered or photo).
 - dimension: L*W*H (unit unknown)
 
-Output: return a strict JSON with exactly these fields:
-- object_name (1–4 words, connected by underscores, all lowercase)
-- category (one simple word)
+Output: return a strict JSON with exactly this field:
 - scale (float; real dimensions in m = input dimension * scale)
-- material (dominant visible material)
-- density (float, g/cm^3)
-- friction (static μ, float)
-- Basic_description (one concise sentence)
-- Functional_description (one concise sentence)
-- Movement_description (one concise sentence)
-- tags ("StructuralEntities" or "DynamicEntities")
 
 Grounding:
-- Base on the physical 3D object in the real world to analyze the properties and movement of the object.
-- Estimate typical real longest side (m) from the recognized category.
+- Base on the physical 3D object in the real world to estimate the typical scale.
+- Estimate typical real longest side (m) from the recognized object.
 - Use longest-side alignment: scale = typical_longest_m / model_longest_in_input_units.
-- If it looks like a toy/miniature, prefer to analyze the object as a real 3D object rather than a toy model.
-- Tagging: large & rarely moved objects are StructuralEntities; else DynamicEntities.
-
-Reference (typical ranges; pick a reasonable number):
-- Static friction μ (dry, clean contact on WOOD tabletop/floor; static only):   
-  wood on wood: 0.25–0.50 (typ. ~0.40)
-  hard plastic (e.g., ABS/PS) on wood: ~0.40
-  soft plastic on wood: ~0.70
-  hard rubber on wood: ~0.70; soft rubber on wood: ~0.95
-  clean metal on wood: 0.20–0.60 (typ. ~0.40)
-  leather on wood: 0.30–0.40
-  brick on wood: ~0.60
-
-- Common densities (g/cm^3; representative values):
-  paper: ~0.49–0.78 (typ. ~0.60)
-  plastics (examples): HDPE ~0.94; ABS ~1.06; Nylon ~1.14; PET ~1.38; PVC ~1.35–1.45; PTFE ~2.2
-  wood (species-dependent): ~0.11–1.16 (typ. hardwood ~0.60–0.75; use ~0.65 if unsure)
-  soda-lime glass: ~2.5
-  ceramics (varies by type): ~2.5–6 (alumina ≈3.9)
-  steel: ~7.8–7.9
-  rubber: natural rubber ≈0.92; silicone rubber ≈1.1–1.5
+- If the image looks like a toy or miniature, prefer to infer the scale as if it were the corresponding real-world object, not the toy itself.
+- Aim for conservative estimates to avoid over-scaling; use common real-world sizes for everyday objects (e.g., chair ~0.5-1m height, table ~0.7-1m height, car ~4-5m length).
+- If uncertain, make an estimate based on the closest common object category.
+- Never output null, NaN, or non-numeric values.
+- Ensure the resulting real dimensions (dimension * scale) are plausible and not excessively large.
 
 Formatting rules:
 - Output JSON only; no extra text.
-- Numbers must be plain floats (no units in strings).
-- 'scale' is a single scalar; 'tags' is one of the two exact strings.
-- 'object_name' must be 1–4 words, joined with underscores, all lowercase (e.g., "dining_table", "metal_toolbox").
-- Keep descriptions short and specific.
+- 'scale' is a single scalar float (no units).
 
 Example output:
 {
-  "object_name": "dining_table",
-  "category": "table",
-  "scale": 0.1,
-  "material": "wood",
-  "density": 0.65,
-  "friction": 0.40,
-  "Basic_description": "A wooden dining bottle with a smooth surface.",
-  "Functional_description": "Used for placing items, dining, or working.",
-  "Movement_description": "It is a static object, fixed in place.",
-  "tags": "StructuralEntities"
+  "scale": 0.05
 }
 """
-
 
 
 client = OpenAI()  # 依赖 OPENAI_API_KEY
@@ -300,7 +263,7 @@ def call_gpt(dim: str, image_ref: str, model: str, timeout: int = 120) -> dict:
                 model, messages,
                 json_mode=not is_gpt5(model),
                 timeout=timeout,
-                max_tokens=400,
+                max_tokens=100,  # 简化输出，减少tokens
             )
             return json.loads(text)
         except Exception as e_first:
@@ -312,7 +275,7 @@ def call_gpt(dim: str, image_ref: str, model: str, timeout: int = 120) -> dict:
                     model, messages,
                     json_mode=False,
                     timeout=timeout,
-                    max_tokens=400,
+                    max_tokens=100,
                 )
                 try:
                     return json.loads(text)
@@ -342,36 +305,7 @@ def postprocess(record: dict) -> dict:
         return record
     if "scale" in record:
         record["scale"] = clamp_num(record["scale"], 1e-8, 1e3, 1.0)
-    if "density" in record:
-        record["density"] = clamp_num(record["density"], 0.05, 25.0, 1.0)
-    if "friction" in record:
-        record["friction"] = clamp_num(record["friction"], 0.0, 2.0, 0.5)
-    if "tags" in record:
-        t = str(record["tags"]).strip()
-        if "Struct" in t or "struct" in t:
-            record["tags"] = "StructuralEntities"
-        elif "Dynamic" in t or "dynamic" in t:
-            record["tags"] = "DynamicEntities"
-        else:
-            record["tags"] = "DynamicEntities"
-    if "category" in record and isinstance(record["category"], str):
-        record["category"] = record["category"].strip().lower()
-    if "material" in record and isinstance(record["material"], str):
-        record["material"] = record["material"].strip().lower()
         
-    # 新增：object_name 兜底 & 清洗
-    if "object_name" not in record or not str(record.get("object_name", "")).strip():
-        # 用 category 兜底
-        cat = str(record.get("category", "")).strip()
-        record["object_name"] = cat if cat else "object"
-
-    # 规范化 object_name：去首尾空格，保持原大小写（人类可读）
-    if isinstance(record.get("object_name"), str):
-        record["object_name"] = record["object_name"].strip()
-
-    if "Basic_description" not in record or not str(record.get("Basic_description", "")).strip():
-        record["Basic_description"] = ""
-
     return record
 
 
@@ -429,16 +363,10 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
     if dry_run:
         print("[Dry-run] Running the first 3 objects synchronously...")
         for obj_id, obj in items[:3]:
-            # cap3d = obj.get("Cap3d_caption", "")
-            # robo  = obj.get("robogen_caption", "")
             dim   = obj.get("dimension", "")
             img   = obj.get("image", "")
-            # try:
-            #     data = call_gpt(cap3d, robo, dim, img, model=model)
-            #     data = postprocess(data)
-            #     print(obj_id, "=>", json.dumps(data, ensure_ascii=False))
             try:
-                data = call_gpt(dim, img, model=model)  # 改为只传 dim, img
+                data = call_gpt(dim, img, model=model)
                 data = postprocess(data)
                 print(obj_id, "=>", json.dumps(data, ensure_ascii=False))
             except Exception as e:
@@ -447,15 +375,6 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
 
     bar = tqdm(total=len(items), desc="GPT-5 annotating", unit="obj") if tqdm else None
 
-    # def work(kv: Tuple[str, Dict[str, Any]]):
-    #     obj_id, obj = kv
-    #     cap3d = obj.get("Cap3d_caption", "")
-    #     robo  = obj.get("robogen_caption", "")
-    #     dim   = obj.get("dimension", "")
-    #     img   = obj.get("image", "")
-    #     data = call_gpt(cap3d, robo, dim, img, model=model)
-    #     data = postprocess(data)
-    #     return obj_id, data
     def work(kv: Tuple[str, Dict[str, Any]]):
         obj_id, obj = kv
         dim = obj.get("dimension", "")
@@ -496,8 +415,8 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
 # ----------------------------- 入口 -----------------------------
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("-i", "--input",  type=str, default="Objaverse_intersection_id_caption_dim.json", help="input JSON file")
-    ap.add_argument("-o", "--output", type=str, default="robogen_info_generated_by_gpt5.json", help="output JSON file")
+    ap.add_argument("-i", "--input",  type=str, default="filtered_robotwin_dim_img.json", help="input JSON file")
+    ap.add_argument("-o", "--output", type=str, default="robotwin_scale_generated_by_gpt41.json", help="output JSON file")
     ap.add_argument("-m", "--model",  type=str, default=DEFAULT_MODEL, help="model name, e.g., gpt-5 / gpt-5-mini / gpt-4o")
     ap.add_argument("-w", "--workers", type=int, default=MAX_WORKERS, help="max concurrent workers")
     ap.add_argument("-n", "--limit",  type=int, default=None, help="only process first N objects")

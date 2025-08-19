@@ -1,0 +1,14 @@
+{
+    "object_name": "Table",
+    "category": "Furniture",
+    "dimension": "150*75*75",
+    "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+    "quat": [1, 0, 0, 0],
+    "label": 0,
+    "material": "Wood",
+    "density": "7.85 g/cm^3",
+    "friction": 0.5,
+    "Basic_description": "A wooden table with a smooth surface.",
+    "Functional_description": "Used for placing items, dining, or working.",
+    "Movement_description": "It is a static object, fixed in place."
+}

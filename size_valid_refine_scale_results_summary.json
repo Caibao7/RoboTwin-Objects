@@ -1,0 +1,9 @@
+{
+  "total_processed": 567,
+  "total_errors": 0,
+  "proper_sizes": 235,
+  "improper_sizes": 332,
+  "too_big": 190,
+  "too_small": 142,
+  "percentage_proper": 41.45
+}

@@ -11,40 +11,66 @@ except ImportError:
     tqdm = None
 
 # ----------------------------- 配置 -----------------------------
-DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1")   # 可改 gpt-5-mini / gpt-4.1 / gpt-4o / gpt-4o-mini
-MAX_WORKERS   = int(os.environ.get("WORKERS", "2"))
+DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1")  # 可改 gpt-5-mini / gpt-4.1 / gpt-4o / gpt-4o-mini
+MAX_WORKERS   = int(os.environ.get("WORKERS", "1"))
 MAX_RETRIES   = 3
 
-# ----------------------------- 新系统提示词 -----------------------------
-# 任务：估计“实物三维包围盒的最长边（单位：米）”，仅输出 JSON: {"longest_m": <float>}
 SYSTEM_PROMPT = r"""
-You are a 3D asset longest-side estimator.
+You are a 3D asset semantics & physical-attributes annotator.
 
 Inputs per object:
-- One IMAGE of the object (rendered or photo).
+- One IMAGE: a single composite image that shows the same object from six viewpoints (front/back/left/right/top/bottom).
+- A string robotwin_name like "039_mug_2" or "081_playingcards_2".
 
-Your single task:
-- Predict the real-world longest side length of the depicted object's 3D bounding box, in meters.
+Task:
+Infer the object semantics and basic physical attributes by **combining visual evidence from the six-view image** and **the hint from robotwin_name** (the base noun in robotwin_name is highly indicative, e.g., "mug", "playingcards", "french-fries").
 
-Output:
-Return a strict JSON with exactly this field:
-- longest_m (float; meters)
+Output: return a strict JSON with **exactly** the following fields (no extras):
+- object_name (1–4 words, natural but joined by underscores, all lowercase; refine robotwin_name into a human-friendly name, e.g., "ceramic_mug", "deck_of_cards")
+- category (one simple word, lowercase; e.g., "mug", "cards", "box")
+- real_size (array of 3 floats [x, y, z] in meters; the object's axis-aligned bounding box in the real world: x=width (left-right), y=depth (front-back), z=height (bottom-top))
+- density (float, g/cm^3; dominant material estimate)
+- static_friction (float, coefficient μ_s on a dry clean WOOD tabletop)
+- dynamic_friction (float, coefficient μ_k on a dry clean WOOD tabletop; usually ~0.75 of μ_s for similar contact)
+- restitution (float, 0–1; effective normal COR when dropped on wood from small height)
+- Basic_description (one concise sentence)
+- Functional_description (a **list of concise functions**, sorted from most to least likely for this exact object; each item is a short phrase like "holds hot beverages")
 
 Grounding & rules:
-- Base your estimate on the physical real-world object the image depicts.
-- Estimate using **typical, conservative real-world sizes**.
-- When uncertain, choose the **lower end** of the common size range (around 10–20% below a rough midpoint), not the upper end.
-- Avoid overestimation from close-up shots: an object filling the frame is **not** necessarily large.
-- Never output null, NaN, or non-numeric values.
-- Ensure the result is plausible (not excessively large or tiny for the recognized object).
+- Use both robotwin_name and image cues; when they disagree, favor the **image** but keep robotwin_name as a strong prior.
+- **real_size estimation policy:**
+  - Output [x, y, z] in **meters** for the axis-aligned 3D bounding box, with x=width (left-right), y=depth (front-back), z=height (bottom-top).
+  - Base the estimate on **typical, real-world sizes** for the recognized category.
+  - Use the six views to infer proportions.
+- Keep numbers as plain floats (no units in strings). Output JSON only.
+- One sentence for each description; be specific to the object seen.
 
-Formatting:
-- Output JSON only; no extra text.
-- Exactly one key: "longest_m" (float).
+Reference ranges (pick a reasonable single value, not a range):
+- Common densities (g/cm^3): paper/cardboard ~0.60; plastics: HDPE 0.94, ABS 1.06, Nylon 1.14, PET 1.38, PVC 1.40; wood ~0.65 (typ.); soda-lime glass 2.50; ceramic 2.5–3.9 (use ~2.8 if unsure); steel 7.8; rubber (natural) 0.92; silicone 1.2.
+- Static friction μ_s on WOOD (dry/clean): hard plastic ~0.40; soft plastic ~0.55; rubber ~0.70–0.95; paper/cardboard ~0.45; ceramic/glass on wood ~0.40; metal on wood ~0.35–0.50.
+- Dynamic friction μ_k ≈ 0.7–0.85 * μ_s (choose a consistent reasonable value).
+- Restitution (on wood): ceramic/glass 0.5–0.7; hard plastic 0.4–0.6; rubber 0.7–0.9; paper/cardboard 0.2–0.4; metal 0.4–0.6.
 
-Example output:
+Few-shot exemplars (for style/scale only; DO NOT copy blindly—use the **current** image + name):
+Example (robotwin_name="039_mug_2"):
 {
-  "longest_m": 1.2
+  "object_name": "ceramic_mug",
+  "category": "mug",
+  "real_size": [0.085, 0.085, 0.11],
+  "density": 2.8,
+  "static_friction": 0.40,
+  "dynamic_friction": 0.30,
+  "restitution": 0.55,
+  "Basic_description": "A cylindrical mug with a handle and smooth surface.",
+  "Functional_description": [
+    "drink container",
+    "food holder",
+    "heating vessel",
+    "storage container",
+    "measuring tool",
+    "decorative item",
+    "improvised use"
+  ]
 }
 """
 
@@ -54,49 +80,31 @@ client = OpenAI()  # 依赖 OPENAI_API_KEY
 def is_gpt5(model: str) -> bool:
     return (model or "").lower().startswith("gpt-5")
 
+def is_responses_model(model: str) -> bool:
+    m = (model or "").lower()
+    return m.startswith(("o4", "gpt-5"))
 
 def out_tok_kw(model: str, n: int):
-    """
-    对 gpt-5（Responses API）使用 max_output_tokens；保证至少 16。
-    其它模型不走这里（见 token_kw）。
-    """
     if is_gpt5(model):
         return {"max_output_tokens": max(n, 16)}
     return token_kw(model, n)
 
-
 def temp_kw(model: str, t: float):
     m = (model or "").lower()
-    # gpt-5 系列不传或固定 1
     if m.startswith("gpt-5"):
-        return {}  # 或者 return {"temperature": 1}
+        return {}
     return {"temperature": t}
 
-
 def token_kw(model: str, n: int):
-    """
-    为不同模型返回正确的 token 上限参数：
-    - GPT-5 系列（Responses API）在 out_tok_kw 中统一处理
-    - 其它（如 gpt-4.1 / gpt-4o / gpt-4o-mini）：使用 max_tokens
-    """
     m = (model or "").lower()
     if m.startswith("gpt-5"):
-        # 不在 chat.completions 使用
         return {"max_completion_tokens": n}
     return {"max_tokens": n}
 
-
 def extract_text_from_response(resp) -> str:
-    """
-    兼容多版本/多模型的 Responses API 返回。
-    优先 output_text；再扫 output[*].content[*].text(.value)；再兜底 message/choices。
-    """
-    # 1) 官方聚合文本
     txt = getattr(resp, "output_text", None)
     if isinstance(txt, str) and txt.strip():
         return txt.strip()
-
-    # 2) 明细结构（Responses API）
     try:
         out = getattr(resp, "output", None) or []
         parts = []
@@ -114,8 +122,6 @@ def extract_text_from_response(resp) -> str:
             return "".join(parts).strip()
     except Exception:
         pass
-
-    # 3) 极端兜底
     try:
         msg = getattr(resp, "message", None)
         if msg:
@@ -128,73 +134,9 @@ def extract_text_from_response(resp) -> str:
                     return s.strip()
     except Exception:
         pass
-
     return ""
-
-
-def parse_longest(dim_str: str):
-    if not dim_str:
-        return None
-    parts = re.split(r"\s*\*\s*", dim_str.strip())
-    vals = []
-    for p in parts:
-        try:
-            vals.append(float(p))
-        except:
-            pass
-    return max(vals) if vals else None
-
-
-def strip_code_fences(s: str) -> str:
-    if not s:
-        return s
-    s = s.strip()
-    if s.startswith("```") and s.endswith("```"):
-        s = s.split("\n", 1)[-1]
-        s = s.rsplit("\n", 1)[0]
-    return s.strip()
-
-
-def extract_json_block(s: str) -> str:
-    """
-    从任意文本中提取首个平衡的 {...} JSON 块。
-    不使用递归正则，兼容 Python 标准库。
-    """
-    if not s:
-        return ""
-    s = strip_code_fences(s)
-    start = s.find("{")
-    if start == -1:
-        return ""
-    depth = 0
-    in_str = False
-    esc = False
-    for i in range(start, len(s)):
-        ch = s[i]
-        if in_str:
-            if esc:
-                esc = False
-            elif ch == "\\":
-                esc = True
-            elif ch == '"':
-                in_str = False
-        else:
-            if ch == '"':
-                in_str = True
-            elif ch == "{":
-                depth += 1
-            elif ch == "}":
-                depth -= 1
-                if depth == 0:
-                    return s[start:i+1]
-    return ""
-
 
 def encode_image_to_data_url(path: str) -> str:
-    """
-    将本地图片转为 data URL，便于直接走多模态输入。
-    支持常见格式（png/jpg/webp等）。
-    """
     if not path:
         return ""
     mime, _ = mimetypes.guess_type(path)
@@ -203,21 +145,16 @@ def encode_image_to_data_url(path: str) -> str:
         b64 = base64.b64encode(f.read()).decode("ascii")
     return f"data:{mime};base64,{b64}"
 
-
-def build_user_message(dim: str, image_ref: str) -> List[Dict[str, Any]]:
+def build_user_message(robotwin_name: str, image_ref: str) -> List[Dict[str, Any]]:
     """
-    仅使用 dimension 与图片构造多模态消息（Responses API 风格）
+    使用 robotwin_name 与六视角拼接图片构造多模态消息（Responses API 风格）
     """
-    longest = parse_longest(dim) if dim else None
-    longest_txt = f"(model_longest={longest})" if longest is not None else "(model_longest=unknown)"
-
     text = (
-        f'dimension: "{dim or ""}" {longest_txt}\n\n'
-        "Goal: predict the real-world longest bounding-box side length of the depicted object, in meters (m).\n"
-        "Do NOT compute or output any 'scale'. Return JSON only."
+        f'robotwin_name: "{robotwin_name or ""}"\n'
+        "The image is a 6-view composite of the same object (front/back/left/right/top/bottom).\n"
+        "Return JSON only."
     )
 
-    # 处理图片
     image_url = ""
     if image_ref:
         if image_ref.startswith(("http://", "https://", "data:")):
@@ -237,13 +174,7 @@ def build_user_message(dim: str, image_ref: str) -> List[Dict[str, Any]]:
         {"role": "user",   "content": user_content},
     ]
 
-
 def to_chat_messages(messages: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """
-    将 Responses API 风格的多模态 messages 转为 Chat Completions 可接受的格式：
-    - input_text -> {"type": "text", "text": "..."}
-    - input_image -> {"type": "image_url", "image_url": {"url": "..."}}
-    """
     out = []
     for m in messages:
         role = m.get("role", "user")
@@ -265,17 +196,12 @@ def to_chat_messages(messages: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         out.append({"role": role, "content": new_content})
     return out
 
-
 # ----------------------------- 核心调用 -----------------------------
 def request_text(model: str, messages, *, json_mode: bool, timeout: int, max_tokens: int) -> str:
-    """
-    对 gpt-5 走 Responses API（支持多模态 input），对其它模型走 chat.completions（多模态转换）。
-    返回纯文本（可能是 JSON 字符串）。
-    """
     if is_gpt5(model):
         resp = client.responses.create(
             model=model,
-            input=messages,             # Responses API 风格
+            input=messages,
             **out_tok_kw(model, max_tokens),
             timeout=timeout,
         )
@@ -292,78 +218,164 @@ def request_text(model: str, messages, *, json_mode: bool, timeout: int, max_tok
         )
         return (resp.choices[0].message.content or "").strip()
 
-
-def call_gpt(dim: str, image_ref: str, model: str, timeout: int = 120) -> dict:
+def call_gpt(robotwin_name: str, image_ref: str, model: str, timeout: int = 120) -> dict:
     last_err = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            messages = build_user_message(dim, image_ref)
+            messages = build_user_message(robotwin_name, image_ref)
             text = request_text(
                 model, messages,
                 json_mode=not is_gpt5(model),
                 timeout=timeout,
-                max_tokens=100,  # 简化输出，减少tokens
+                max_tokens=600,
             )
             return json.loads(text)
         except Exception as e_first:
             last_err = e_first
             time.sleep((2 ** (attempt - 1)) + random.random())
             try:
-                messages = build_user_message(dim, image_ref)
+                messages = build_user_message(robotwin_name, image_ref)
                 text = request_text(
                     model, messages,
                     json_mode=False,
                     timeout=timeout,
-                    max_tokens=100,
+                    max_tokens=600,
                 )
-                # JSON 兜底：截取首个完整 {...} 块
                 try:
                     return json.loads(text)
                 except Exception:
-                    block = extract_json_block(text)
-                    if block:
-                        return json.loads(block)
+                    m = re.search(r"\{(?:[^{}]|(?R))*\}", text, flags=re.S)
+                    if m:
+                        return json.loads(m.group(0))
                     raise
             except Exception as e_second:
                 last_err = e_second
                 time.sleep((2 ** (attempt - 1)) + random.random())
     raise RuntimeError(f"All attempts failed. Last error: {last_err}")
 
-
 # ----------------------------- 后处理与探针 -----------------------------
-def postprocess(record: dict) -> dict:
-    # 轻度 clamp，防止极端值；对常见物体，0.01m~100m 足够宽
-    def clamp_num(x, lo, hi, default):
-        try:
-            x = float(x)
-            return max(lo, min(hi, x))
-        except:
-            return default
+def _clamp_float(x, lo, hi, default):
+    try:
+        v = float(x)
+        return max(lo, min(hi, v))
+    except:
+        return default
 
+def _coerce_real_size(val):
+    """
+    期望 [x, y, z] 米；限制到 [0.001, 10] 之间；长度为 3。
+    """
+    if isinstance(val, (list, tuple)) and len(val) == 3:
+        return [
+            _clamp_float(val[0], 1e-3, 10.0, 0.1),
+            _clamp_float(val[1], 1e-3, 10.0, 0.1),
+            _clamp_float(val[2], 1e-3, 10.0, 0.1),
+        ]
+    # 尝试从字符串解析
+    if isinstance(val, str):
+        nums = re.findall(r"-?\d+(?:\.\d+)?", val)
+        if len(nums) >= 3:
+            return [
+                _clamp_float(nums[0], 1e-3, 10.0, 0.1),
+                _clamp_float(nums[1], 1e-3, 10.0, 0.1),
+                _clamp_float(nums[2], 1e-3, 10.0, 0.1),
+            ]
+    return [0.1, 0.1, 0.1]
+
+def _clamp_float(x, lo, hi, default):
+    try:
+        v = float(x)
+        return max(lo, min(hi, v))
+    except:
+        return default
+
+def _coerce_real_size(val):
+    # 期望 [x, y, z] 米；限制到 [0.001, 10] 之间；长度为 3。
+    if isinstance(val, (list, tuple)) and len(val) == 3:
+        return [
+            _clamp_float(val[0], 1e-3, 10.0, 0.1),
+            _clamp_float(val[1], 1e-3, 10.0, 0.1),
+            _clamp_float(val[2], 1e-3, 10.0, 0.1),
+        ]
+    if isinstance(val, str):
+        nums = re.findall(r"-?\d+(?:\.\d+)?", val)
+        if len(nums) >= 3:
+            return [
+                _clamp_float(nums[0], 1e-3, 10.0, 0.1),
+                _clamp_float(nums[1], 1e-3, 10.0, 0.1),
+                _clamp_float(nums[2], 1e-3, 10.0, 0.1),
+            ]
+    return [0.1, 0.1, 0.1]
+
+def _to_function_list(val, max_len=6):
+    """把 Functional_description 规整为按可能性排序的列表"""
+    if isinstance(val, list):
+        items = [str(x).strip() for x in val if str(x).strip()]
+    else:
+        s = str(val or "")
+        # 允许用逗号/分号/顿号/斜杠/换行/句号分割
+        items = [x.strip(" -•·") for x in re.split(r"[;,/|｜、\n]+|[。.!?]", s) if x.strip()]
+    # 去重（不区分大小写）并截断
+    seen, out = set(), []
+    for it in items:
+        it = re.sub(r"\s+", " ", it)
+        key = it.lower()
+        if key and key not in seen:
+            seen.add(key)
+            out.append(it)
+        if len(out) >= max_len:
+            break
+    return out
+
+
+def postprocess(record: dict) -> dict:
     if not isinstance(record, dict):
         return record
-    if "longest_m" in record:
-        record["longest_m"] = clamp_num(record["longest_m"], 0.01, 100.0, 1.0)
+
+    # 需要的字段（已去掉 Movement_description / Placement_description）
+    want_keys = {
+        "object_name", "category", "real_size", "density",
+        "static_friction", "dynamic_friction", "restitution",
+        "Basic_description", "Functional_description"
+    }
+    for k in want_keys:
+        record.setdefault(k, "" if "description" in k.lower() else None)
+
+    # 数值规整
+    record["real_size"] = _coerce_real_size(record.get("real_size"))
+    record["density"] = _clamp_float(record.get("density"), 0.05, 25.0, 1.0)
+    record["static_friction"]  = _clamp_float(record.get("static_friction"), 0.0, 2.0, 0.5)
+    record["dynamic_friction"] = _clamp_float(record.get("dynamic_friction"), 0.0, 2.0, 0.4)
+    record["restitution"]      = _clamp_float(record.get("restitution"), 0.0, 1.0, 0.5)
+
+    # 文本规整
+    if isinstance(record.get("object_name"), str):
+        record["object_name"] = record["object_name"].strip().lower().replace(" ", "_")
+        record["object_name"] = re.sub(r"__+", "_", record["object_name"]).strip("_") or "object"
+    if isinstance(record.get("category"), str):
+        record["category"] = record["category"].strip().lower()
+
+    # 描述：Basic 保留一句；Functional 转为 list
+    v = str(record.get("Basic_description", "") or "").strip()
+    first_sentence = re.split(r"[。.!?]\s*", v)
+    record["Basic_description"] = (first_sentence[0] if first_sentence and first_sentence[0] else v)[:300]
+
+    funcs = _to_function_list(record.get("Functional_description"))
+    record["Functional_description"] = funcs  # 允许空列表
+
     return record
 
 
 def probe_model(model: str):
-    """
-    极简自检：要求输出 {"ok": true}
-    - gpt-5：Responses API，且不传 temperature/response_format
-    - 其它模型：chat.completions + JSON 模式
-    """
-    # 构造与正式流程一致的 system/user 结构（无图片）
     sys_msg = {"role": "system", "content": [{"type": "input_text", "text": "Return valid JSON only."}]}
     user_msg = {"role": "user",   "content": [{"type": "input_text", "text": 'Reply with {"ok": true} exactly.'}]}
     messages = [sys_msg, user_msg]
-
     try:
         text = request_text(
             model, messages,
             json_mode=not is_gpt5(model),
             timeout=60,
-            max_tokens=32,   # >=16 for gpt-5
+            max_tokens=32,
         )
         try:
             obj = json.loads(text)
@@ -379,7 +391,6 @@ def probe_model(model: str):
             return False, msg
         return False, msg
 
-
 # ----------------------------- 批处理主流程 -----------------------------
 def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None, workers: int = MAX_WORKERS, dry_run: bool=False):
     src = json.loads(input_path.read_text(encoding="utf-8"))
@@ -387,7 +398,6 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
     if limit is not None and limit > 0:
         items = items[:limit]
 
-    # 模型可用性自检
     ok, err = probe_model(model)
     if not ok:
         print(f"[Model probe] model={model} failed: {err}")
@@ -397,27 +407,26 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
     results: Dict[str, Any] = {}
     errors: Dict[str, str] = {}
 
-    # dry-run 打印前 3 条，方便快速验证
     if dry_run:
         print("[Dry-run] Running the first 3 objects synchronously...")
         for obj_id, obj in items[:3]:
-            dim   = obj.get("dimension", "")
-            img   = obj.get("image", "")
+            name = obj.get("robotwin_name", "")
+            img  = obj.get("image", "")
             try:
-                data = call_gpt(dim, img, model=model)
+                data = call_gpt(name, img, model=model)
                 data = postprocess(data)
                 print(obj_id, "=>", json.dumps(data, ensure_ascii=False))
             except Exception as e:
                 print(obj_id, "ERROR:", repr(e))
         return
 
-    bar = tqdm(total=len(items), desc="GPT annotating longest_m", unit="obj") if tqdm else None
+    bar = tqdm(total=len(items), desc="GPT annotating", unit="obj") if tqdm else None
 
     def work(kv: Tuple[str, Dict[str, Any]]):
         obj_id, obj = kv
-        dim = obj.get("dimension", "")
-        img = obj.get("image", "")
-        data = call_gpt(dim, img, model=model)
+        name = obj.get("robotwin_name", "")
+        img  = obj.get("image", "")
+        data = call_gpt(name, img, model=model)
         data = postprocess(data)
         return obj_id, data
 
@@ -440,7 +449,6 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
     if bar:
         bar.close()
 
-    # 保存
     output_path.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved {len(results)} items to {output_path}")
     if errors:
@@ -448,17 +456,15 @@ def run_batch(input_path: Path, output_path: Path, model: str, limit: int = None
         err_p.write_text(json.dumps({"count": len(errors), "errors": errors}, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"Saved {len(errors)} errors to {err_p}")
 
-
 # ----------------------------- 入口 -----------------------------
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("-i", "--input",  type=str, default="filtered_robotwin_dim_img.json", help="input JSON file")
-    ap.add_argument("-o", "--output", type=str, default="robotwin_longest_m_by_model.json", help="output JSON file")
-    ap.add_argument("-m", "--model",  type=str, default=DEFAULT_MODEL, help="model name, e.g., gpt-5 / gpt-5-mini / gpt-4o")
+    ap.add_argument("-i", "--input",  type=str, default="filtered_robotwin_img_with_name.json", help="input JSON file")
+    ap.add_argument("-o", "--output", type=str, default="robotwin_info_generated_by_llm.json", help="output JSON file")
+    ap.add_argument("-m", "--model",  type=str, default=DEFAULT_MODEL, help="model name, e.g., gpt-5-mini / gpt-4o / gpt-4.1")
     ap.add_argument("-w", "--workers", type=int, default=MAX_WORKERS, help="max concurrent workers")
     ap.add_argument("-n", "--limit",  type=int, default=None, help="only process first N objects")
     ap.add_argument("--dry-run", action="store_true", help="run first 3 items synchronously and print")
     args = ap.parse_args()
 
     run_batch(Path(args.input), Path(args.output), model=args.model, limit=args.limit, workers=args.workers, dry_run=args.dry_run)
-

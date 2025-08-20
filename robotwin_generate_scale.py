@@ -30,7 +30,6 @@ Grounding:
 - Base on the physical 3D object in the real world to estimate the typical scale.
 - Estimate typical real longest side (m) from the recognized object.
 - Use longest-side alignment: scale = typical_longest_m / model_longest_in_input_units.
-- If the image looks like a toy or miniature, prefer to infer the scale as if it were the corresponding real-world object, not the toy itself.
 - Aim for conservative estimates to avoid over-scaling; use common real-world sizes for everyday objects (e.g., chair ~0.5-1m height, table ~0.7-1m height, car ~4-5m length).
 - If uncertain, make an estimate based on the closest common object category.
 - Never output null, NaN, or non-numeric values.

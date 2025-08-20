@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<robot name="folding_knife">
+
+  <link name="Blade">
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1.000000"/>
+      <inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
+    </inertial>
+    <visual>
+      <origin xyz="0.000000 0.000000 0.000000" rpy="0 0 0"/>
+      <geometry><mesh filename="./obj/0_tex.obj"/></geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.000000 0.000000 0.000000" rpy="0 0 0"/>
+      <geometry><mesh filename="./obj/0_tex.obj"/></geometry>
+    </collision>
+  </link>
+
+  <link name="Handle">
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1.000000"/>
+      <inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
+    </inertial>
+    <visual>
+      <origin xyz="0.000000 0.000000 0.000000" rpy="0 0 0"/>
+      <geometry><mesh filename="./obj/1_tex.obj"/></geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.000000 0.000000 0.000000" rpy="0 0 0"/>
+      <geometry><mesh filename="./obj/1_tex.obj"/></geometry>
+    </collision>
+  </link>
+
+  <joint name="fixed_Handle_Blade" type="fixed">
+    <parent link="Handle"/>
+    <child  link="Blade"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+</robot>

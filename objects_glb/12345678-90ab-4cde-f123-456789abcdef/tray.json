@@ -1,0 +1,14 @@
+{
+    "object_name": "tray",
+    "category": "Container",
+    "dimension": "8*8*25",
+    "scale": { "x": 0.1, "y": 0.1, "z": 0.1 },
+    "quat": [1, 1, 0, 0],
+    "label": 0,
+    "material": "Wood",
+    "density": "7.85 g/cm^3",
+    "friction": 0.5,
+    "Basic_description": "A wooden tray with a smooth surface.",
+    "Functional_description": "Used for holding liquids.",
+    "Movement_description": "It is a static object, fixed in place."
+}

@@ -1,0 +1,57 @@
+{
+    "object_name": "Folding Knife",
+    "category": "Tool",
+    "dimension": "20*3*2",
+    "scale": { "x": 0.1, "y": 0.1, "z": 0.1 },
+    "quat": [1, 0, 0, 0],
+    "parts": [
+        {
+            "label": 0,
+            "name": "Blade",
+            "material": "Stainless Steel",
+            "density": "7.8 g/cm^3",
+            "friction": 0.5,
+            "priority_rank": 3,
+            "Basic_description": "It's the blade of a folding knife made of stainless steel.",
+            "Functional_description": "It is the cutting component of the knife, used for slicing or piercing.",
+            "Movement_description": "It rotates about an axis relative to the handle to open or close the knife.",
+            "Young's Modulus (GPa)": 190.0,
+            "Poisson's Ratio": 0.3
+        },
+        {
+            "label": 1,
+            "name": "Handle",
+            "material": "Plastic",
+            "density": "1.2 g/cm^3",
+            "friction": 0.4,
+            "priority_rank": 1,
+            "Basic_description": "It's the handle of a folding knife made of plastic.",
+            "Functional_description": "It provides a grip for the user to hold and control the knife.",
+            "Movement_description": "It serves as the base for the rotating blade, allowing it to fold in and out.",
+            "Young's Modulus (GPa)": 2.5,
+            "Poisson's Ratio": 0.38
+        }
+    ],
+    "group_info": {
+        "0": [
+            1
+        ],
+        "1": [
+            [
+                0
+            ],
+            "0",
+            [
+                1,
+                0,
+                0,
+                0.003976760897785425,
+                0.37261343002319336,
+                -0.03424941003322601,
+                0.0,
+                1.0
+            ],
+            "C"
+        ]
+    }
+}

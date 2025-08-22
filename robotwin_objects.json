@@ -1,0 +1,6239 @@
+{
+  "00aff23a-2075-44d5-a4eb-da6d5998a409": {
+    "object_name": "boxed_playing_cards",
+    "object_id": "00aff23a-2075-44d5-a4eb-da6d5998a409",
+    "category": "cards",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "00bbcdaf-fd7e-42bb-b17a-48ab081971f0": {
+    "object_name": "ceramic_mug",
+    "object_id": "00bbcdaf-fd7e-42bb-b17a-48ab081971f0",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "00e0cb65-d493-4123-8352-042b3c890d20": {
+    "object_name": "fast_food_french_fries",
+    "object_id": "00e0cb65-d493-4123-8352-042b3c890d20",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "00f4a665-4877-4d95-ab14-5d4e6a0b1c3d": {
+    "object_name": "wrapped_hamburger",
+    "object_id": "00f4a665-4877-4d95-ab14-5d4e6a0b1c3d",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "01237be2-356a-4a66-8084-337fba056eb3": {
+    "object_name": "athletic_sneaker",
+    "object_id": "01237be2-356a-4a66-8084-337fba056eb3",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "022d5a69-0489-4e43-8125-81bab23495d7": {
+    "object_name": "glass_dropper_bottle",
+    "object_id": "022d5a69-0489-4e43-8125-81bab23495d7",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "03009e18-d171-4b19-a769-fcab6b77ef75": {
+    "object_name": "plastic_pump_bottle",
+    "object_id": "03009e18-d171-4b19-a769-fcab6b77ef75",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "036ed941-bde8-4426-bcc5-61cc44b56d23": {
+    "object_name": "yellow_flashlight",
+    "object_id": "036ed941-bde8-4426-bcc5-61cc44b56d23",
+    "category": "flashlight",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "03f1b9b7-ed45-4a7d-b4f3-92a25c0627ea": {
+    "object_name": "metal_stovetop_kettle",
+    "object_id": "03f1b9b7-ed45-4a7d-b4f3-92a25c0627ea",
+    "category": "kettle",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0600b16e-6fea-4cf8-be92-1c134834b104": {
+    "object_name": "plastic_wall_switch_plate",
+    "object_id": "0600b16e-6fea-4cf8-be92-1c134834b104",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "064fe910-a80f-4581-a8fd-4df447ff8e04": {
+    "object_name": "metal_whistling_kettle",
+    "object_id": "064fe910-a80f-4581-a8fd-4df447ff8e04",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "06f7cfea-37d4-4df5-af69-8a49568632cf": {
+    "object_name": "plastic_phone_stand",
+    "object_id": "06f7cfea-37d4-4df5-af69-8a49568632cf",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "08154c4d-8177-47dc-ade4-6f1a1a8de00f": {
+    "object_name": "hex_dumbbell",
+    "object_id": "08154c4d-8177-47dc-ade4-6f1a1a8de00f",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0890e138-68b2-4bb6-bbcf-eb4fd45301a8": {
+    "object_name": "msg_instant_noodle_cup",
+    "object_id": "0890e138-68b2-4bb6-bbcf-eb4fd45301a8",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "08d7a42a-309a-4ff0-9b7c-6eefae1c71f3": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "08d7a42a-309a-4ff0-9b7c-6eefae1c71f3",
+    "category": "bin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "09d54890-6886-43ec-9c0b-fadcc587cd52": {
+    "object_name": "digital_clock_speaker",
+    "object_id": "09d54890-6886-43ec-9c0b-fadcc587cd52",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0a625250-d9f1-4b11-b423-9cd8efba974d": {
+    "object_name": "plastic_hand_shovel",
+    "object_id": "0a625250-d9f1-4b11-b423-9cd8efba974d",
+    "category": "shovel",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0ae74b7a-1318-4ece-b44b-eb8e116d8d9c": {
+    "object_name": "wooden_bookcase",
+    "object_id": "0ae74b7a-1318-4ece-b44b-eb8e116d8d9c",
+    "category": "bookcase",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0b4b8a67-3b2c-4956-a666-d6e72eb25049": {
+    "object_name": "cordless_power_drill",
+    "object_id": "0b4b8a67-3b2c-4956-a666-d6e72eb25049",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0b5f4e0c-a0db-455c-8b5d-7314dd32ec52": {
+    "object_name": "blue_plastic_storage_box",
+    "object_id": "0b5f4e0c-a0db-455c-8b5d-7314dd32ec52",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0b715f9d-6335-40af-969a-148265f20aea": {
+    "object_name": "paper_notebook",
+    "object_id": "0b715f9d-6335-40af-969a-148265f20aea",
+    "category": "notebook",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0c28b085-43bd-4481-a46a-2173f3daa102": {
+    "object_name": "phillips_screwdriver",
+    "object_id": "0c28b085-43bd-4481-a46a-2173f3daa102",
+    "category": "screwdriver",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0ce24e43-0746-4535-8fb1-5f53e7711f5e": {
+    "object_name": "wooden_sand_timer",
+    "object_id": "0ce24e43-0746-4535-8fb1-5f53e7711f5e",
+    "category": "timer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0d500fea-8569-4750-a1f3-d7d6d3e7fcb6": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "0d500fea-8569-4750-a1f3-d7d6d3e7fcb6",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0e59aaf0-6ef4-49c1-9a23-e0150096e0b1": {
+    "object_name": "vinyl_coated_dumbbell",
+    "object_id": "0e59aaf0-6ef4-49c1-9a23-e0150096e0b1",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0ef2521c-4184-415a-bb4c-c1ec72c02e4e": {
+    "object_name": "toilet_paper_roll",
+    "object_id": "0ef2521c-4184-415a-bb4c-c1ec72c02e4e",
+    "category": "roll",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "0fa5b250-500c-4af1-93ed-09fc4a947d29": {
+    "object_name": "athletic_sneaker",
+    "object_id": "0fa5b250-500c-4af1-93ed-09fc4a947d29",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10034027-d568-48cf-a8b3-ffdded10b4c1": {
+    "object_name": "wooden_cutting_board",
+    "object_id": "10034027-d568-48cf-a8b3-ffdded10b4c1",
+    "category": "board",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1036903a-a13e-43f5-a0ca-5cb876f81e8f": {
+    "object_name": "ceramic_bowl",
+    "object_id": "1036903a-a13e-43f5-a0ca-5cb876f81e8f",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10933a30-4679-487e-90d4-5747eb3e8bc5": {
+    "object_name": "plastic_rubiks_cube",
+    "object_id": "10933a30-4679-487e-90d4-5747eb3e8bc5",
+    "category": "puzzle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10a93ff5-a3c6-40a4-9f2e-d961d7a10869": {
+    "object_name": "bar_soap",
+    "object_id": "10a93ff5-a3c6-40a4-9f2e-d961d7a10869",
+    "category": "soap",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10baf04f-9dd8-455b-956a-60e9453ea37b": {
+    "object_name": "plastic_msg_container",
+    "object_id": "10baf04f-9dd8-455b-956a-60e9453ea37b",
+    "category": "container",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10c2f6f6-b143-4a4a-9ec8-1efb53d16377": {
+    "object_name": "hardcover_notebook",
+    "object_id": "10c2f6f6-b143-4a4a-9ec8-1efb53d16377",
+    "category": "notebook",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10d10bfd-3e28-4b04-84a8-878cce51acb6": {
+    "object_name": "metal_kitchen_pot_with_lid",
+    "object_id": "10d10bfd-3e28-4b04-84a8-878cce51acb6",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "10ea2e73-6b17-430e-b10d-c43a75189a72": {
+    "object_name": "computer_keyboard",
+    "object_id": "10ea2e73-6b17-430e-b10d-c43a75189a72",
+    "category": "keyboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "112201f8-fdfd-4f1d-a06a-cb7348186a40": {
+    "object_name": "coffee_carton_box",
+    "object_id": "112201f8-fdfd-4f1d-a06a-cb7348186a40",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "11963a85-78c1-44a4-9ec9-7df1f587662c": {
+    "object_name": "plastic_sports_drink_bottle",
+    "object_id": "11963a85-78c1-44a4-9ec9-7df1f587662c",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "11f8efd2-9160-4c32-b52e-df2ed0a677f4": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "11f8efd2-9160-4c32-b52e-df2ed0a677f4",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "12f4327e-f607-4958-8ee8-696fc6e869e3": {
+    "object_name": "adjustable_phone_stand",
+    "object_id": "12f4327e-f607-4958-8ee8-696fc6e869e3",
+    "category": "phonestand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1363ec6e-875a-4d87-98c3-00e97e049307": {
+    "object_name": "white_sneaker",
+    "object_id": "1363ec6e-875a-4d87-98c3-00e97e049307",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1381294f-cf70-4d74-8074-7000662093f3": {
+    "object_name": "compact_computer_keyboard",
+    "object_id": "1381294f-cf70-4d74-8074-7000662093f3",
+    "category": "keyboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "13bc5b65-0f1f-40f3-ad21-8f15314c6950": {
+    "object_name": "plastic_hand_brush",
+    "object_id": "13bc5b65-0f1f-40f3-ad21-8f15314c6950",
+    "category": "brush",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "146368bb-86e9-4535-b4bf-da259b975bb4": {
+    "object_name": "plastic_juice_bottle",
+    "object_id": "146368bb-86e9-4535-b4bf-da259b975bb4",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "14b635e4-4b2e-4e5c-9d4a-e05265e7868e": {
+    "object_name": "cardboard_coffee_box",
+    "object_id": "14b635e4-4b2e-4e5c-9d4a-e05265e7868e",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "14d90e11-79ef-493a-88ec-a4dbe52eb705": {
+    "object_name": "bronze_gong",
+    "object_id": "14d90e11-79ef-493a-88ec-a4dbe52eb705",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "14f6140c-bda3-4ad0-9968-69a4df7446eb": {
+    "object_name": "orange_fruit",
+    "object_id": "14f6140c-bda3-4ad0-9968-69a4df7446eb",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "151621c1-24ea-4b67-9df9-13c47e41ec05": {
+    "object_name": "ceramic_teakettle",
+    "object_id": "151621c1-24ea-4b67-9df9-13c47e41ec05",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1541929d-1f53-4743-ad60-d6a938e875c3": {
+    "object_name": "handheld_barcode_scanner",
+    "object_id": "1541929d-1f53-4743-ad60-d6a938e875c3",
+    "category": "scanner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "155a218a-c9e5-44e6-ac83-a0728d0c1107": {
+    "object_name": "aa_cylindrical_battery",
+    "object_id": "155a218a-c9e5-44e6-ac83-a0728d0c1107",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "15838fc5-9bd5-4138-a00e-e2f73ba6cd53": {
+    "object_name": "bronze_gong_on_wooden_stand",
+    "object_id": "15838fc5-9bd5-4138-a00e-e2f73ba6cd53",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1671a6ad-0931-4f05-8b76-bc8c2addebe0": {
+    "object_name": "glass_perfume_bottle",
+    "object_id": "1671a6ad-0931-4f05-8b76-bc8c2addebe0",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "16e9a99d-e07e-4b2b-b0a1-a6222c21f319": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "16e9a99d-e07e-4b2b-b0a1-a6222c21f319",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "176f686e-bd72-4180-a9f5-10340b408337": {
+    "object_name": "plastic_display_stand",
+    "object_id": "176f686e-bd72-4180-a9f5-10340b408337",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "18010367-714b-4f4e-8843-e1a0537f897c": {
+    "object_name": "plastic_handle_brush",
+    "object_id": "18010367-714b-4f4e-8843-e1a0537f897c",
+    "category": "brush",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1868f1c5-c849-4522-95c5-c0250785e530": {
+    "object_name": "carved_stone_seal",
+    "object_id": "1868f1c5-c849-4522-95c5-c0250785e530",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "18cf78cc-e3d0-494b-a00b-7e4d0a80048b": {
+    "object_name": "mesh_portable_speaker",
+    "object_id": "18cf78cc-e3d0-494b-a00b-7e4d0a80048b",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "196811db-cd1f-4f99-a06f-fb7688289718": {
+    "object_name": "portable_plastic_speaker",
+    "object_id": "196811db-cd1f-4f99-a06f-fb7688289718",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1a24755f-0eed-4540-964d-0481f8c3b217": {
+    "object_name": "smartphone",
+    "object_id": "1a24755f-0eed-4540-964d-0481f8c3b217",
+    "category": "phone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1af25463-feca-40dc-934a-a356e7386d97": {
+    "object_name": "handheld_microphone",
+    "object_id": "1af25463-feca-40dc-934a-a356e7386d97",
+    "category": "microphone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1b549f92-8acd-47f0-8741-26881d89df49": {
+    "object_name": "brown_bar_soap",
+    "object_id": "1b549f92-8acd-47f0-8741-26881d89df49",
+    "category": "soap",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1c8b77b3-98e9-45b9-a413-04b527202966": {
+    "object_name": "plastic_payment_sign",
+    "object_id": "1c8b77b3-98e9-45b9-a413-04b527202966",
+    "category": "sign",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1cfa5169-ee62-4caa-9e96-72510ae60ec2": {
+    "object_name": "rectangular_tea_box",
+    "object_id": "1cfa5169-ee62-4caa-9e96-72510ae60ec2",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1d45796a-7a0b-45e7-8929-8161c4061417": {
+    "object_name": "rectangular_plastic_box",
+    "object_id": "1d45796a-7a0b-45e7-8929-8161c4061417",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1dbc08f5-d5a0-4463-bc2d-19f99f467b56": {
+    "object_name": "woven_wicker_basket",
+    "object_id": "1dbc08f5-d5a0-4463-bc2d-19f99f467b56",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1dbc90b1-1481-4ece-b9dd-49dac2f52ee7": {
+    "object_name": "plastic_cylinder_block",
+    "object_id": "1dbc90b1-1481-4ece-b9dd-49dac2f52ee7",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1e15d0e7-b036-49b2-b2cf-92e6eccf3f7a": {
+    "object_name": "wooden_mallet",
+    "object_id": "1e15d0e7-b036-49b2-b2cf-92e6eccf3f7a",
+    "category": "mallet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1e1a99ab-4fe7-46b3-ade1-41e40e038d74": {
+    "object_name": "plastic_milk_tea_cup_with_straw",
+    "object_id": "1e1a99ab-4fe7-46b3-ade1-41e40e038d74",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1eb2910b-99a4-471c-9956-c85860de5bf1": {
+    "object_name": "modern_bookshelf",
+    "object_id": "1eb2910b-99a4-471c-9956-c85860de5bf1",
+    "category": "bookcase",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "1f9f6e90-2581-439d-8e29-98889deab301": {
+    "object_name": "wooden_knife_rest",
+    "object_id": "1f9f6e90-2581-439d-8e29-98889deab301",
+    "category": "rest",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "206466a7-bc79-46c0-ba3b-0a505476de50": {
+    "object_name": "rectangular_display_stand",
+    "object_id": "206466a7-bc79-46c0-ba3b-0a505476de50",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "20daeed6-2a54-46c1-af59-f044bdfcb7ff": {
+    "object_name": "compact_desktop_speaker",
+    "object_id": "20daeed6-2a54-46c1-af59-f044bdfcb7ff",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "212ce446-e01a-4ab7-ae3b-a5dcd1f683e6": {
+    "object_name": "white_athletic_sneaker",
+    "object_id": "212ce446-e01a-4ab7-ae3b-a5dcd1f683e6",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2131c7c3-e6dd-4b63-8998-cc5ce062b2b9": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "2131c7c3-e6dd-4b63-8998-cc5ce062b2b9",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "216dc87d-7ee1-446f-af04-932a9d610af7": {
+    "object_name": "plastic_desktop_stapler",
+    "object_id": "216dc87d-7ee1-446f-af04-932a9d610af7",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "21c1f3fb-3643-4e17-9f2c-e278bf32d359": {
+    "object_name": "plastic_pill_bottle",
+    "object_id": "21c1f3fb-3643-4e17-9f2c-e278bf32d359",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "21e0805c-cbfa-45e9-960c-08319638e987": {
+    "object_name": "potato_chip_tube",
+    "object_id": "21e0805c-cbfa-45e9-960c-08319638e987",
+    "category": "container",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "22655f24-6e1e-4010-b2ec-c78ec21f96f7": {
+    "object_name": "calligraphy_brush_pen",
+    "object_id": "22655f24-6e1e-4010-b2ec-c78ec21f96f7",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "229a36c3-1383-432c-be26-7db815204c89": {
+    "object_name": "metal_kitchen_pot",
+    "object_id": "229a36c3-1383-432c-be26-7db815204c89",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "23425baf-9c0b-4412-b74c-1e97dc02fe8d": {
+    "object_name": "plastic_coffee_bottle",
+    "object_id": "23425baf-9c0b-4412-b74c-1e97dc02fe8d",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2381b44a-f59f-4e34-8bb1-62ea860dac12": {
+    "object_name": "scientific_calculator",
+    "object_id": "2381b44a-f59f-4e34-8bb1-62ea860dac12",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "23bfe861-8083-492f-a9dd-5a0434b45375": {
+    "object_name": "russet_potato",
+    "object_id": "23bfe861-8083-492f-a9dd-5a0434b45375",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "23d24cf9-ee80-4219-8b09-df6ff49105de": {
+    "object_name": "plastic_shopping_basket",
+    "object_id": "23d24cf9-ee80-4219-8b09-df6ff49105de",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "24c55991-b88c-43c4-b690-273128912e09": {
+    "object_name": "cardboard_coffee_box",
+    "object_id": "24c55991-b88c-43c4-b690-273128912e09",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "24ded17d-28ce-42d9-8919-b52edcb16e2e": {
+    "object_name": "ceramic_bowl",
+    "object_id": "24ded17d-28ce-42d9-8919-b52edcb16e2e",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "25162cab-6dd0-4490-8696-24895f0a558c": {
+    "object_name": "plastic_remote_control",
+    "object_id": "25162cab-6dd0-4490-8696-24895f0a558c",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "25bbaa4b-4899-448e-8bec-782ef6516aa6": {
+    "object_name": "plastic_beverage_bottle",
+    "object_id": "25bbaa4b-4899-448e-8bec-782ef6516aa6",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "25ffe8c2-9d85-43b5-8d5f-6845a82d1386": {
+    "object_name": "plastic_brush_pen",
+    "object_id": "25ffe8c2-9d85-43b5-8d5f-6845a82d1386",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "26014cf4-6544-498e-b02f-d28518482b64": {
+    "object_name": "compact_plastic_speaker",
+    "object_id": "26014cf4-6544-498e-b02f-d28518482b64",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "264c5fa5-dbda-4ffe-bd90-26c5031469e0": {
+    "object_name": "instant_coffee_box",
+    "object_id": "264c5fa5-dbda-4ffe-bd90-26c5031469e0",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "265e77ae-5ca8-41cf-a754-292a536cbd02": {
+    "object_name": "plastic_medicine_bottle",
+    "object_id": "265e77ae-5ca8-41cf-a754-292a536cbd02",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "26fcc9be-ab6f-4307-ba7c-2cbb29e2b00b": {
+    "object_name": "rectangular_plastic_tray",
+    "object_id": "26fcc9be-ab6f-4307-ba7c-2cbb29e2b00b",
+    "category": "tray",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "27438658-a2bc-4214-bf90-316cdf06f084": {
+    "object_name": "cordless_power_drill",
+    "object_id": "27438658-a2bc-4214-bf90-316cdf06f084",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "283148cf-3467-4b5c-a7bf-75bf7de763c5": {
+    "object_name": "ceramic_cup_with_handle",
+    "object_id": "283148cf-3467-4b5c-a7bf-75bf7de763c5",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2877dfb4-bace-43eb-848a-7da3a523ec79": {
+    "object_name": "black_laptop_computer",
+    "object_id": "2877dfb4-bace-43eb-848a-7da3a523ec79",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "289df513-189f-40c0-926b-935c3fd08c04": {
+    "object_name": "ceramic_cup",
+    "object_id": "289df513-189f-40c0-926b-935c3fd08c04",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "291289b6-a2dd-4d98-b4e1-e5f4fee17e1e": {
+    "object_name": "plastic_juice_bottle",
+    "object_id": "291289b6-a2dd-4d98-b4e1-e5f4fee17e1e",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "299ff0ee-9bfa-4295-bc5c-3accf8c58b95": {
+    "object_name": "canned_chicken_soup",
+    "object_id": "299ff0ee-9bfa-4295-bc5c-3accf8c58b95",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2ac3c496-a37f-4713-af6d-a7989a958c0b": {
+    "object_name": "plastic_watering_can",
+    "object_id": "2ac3c496-a37f-4713-af6d-a7989a958c0b",
+    "category": "watering_can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2b439d93-45e9-45ba-b7d5-a72675f8e691": {
+    "object_name": "athletic_sneaker",
+    "object_id": "2b439d93-45e9-45ba-b7d5-a72675f8e691",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2be36f9c-ee68-4872-9b3f-a83265fdb165": {
+    "object_name": "leather_pet_collar",
+    "object_id": "2be36f9c-ee68-4872-9b3f-a83265fdb165",
+    "category": "collar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2c51014f-aac4-4961-8964-6dc292782631": {
+    "object_name": "metal_garden_trowel",
+    "object_id": "2c51014f-aac4-4961-8964-6dc292782631",
+    "category": "shovel",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2c62657d-d424-4d9d-97b8-43a4ef841b16": {
+    "object_name": "red_desktop_stapler",
+    "object_id": "2c62657d-d424-4d9d-97b8-43a4ef841b16",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2cb18a27-6321-4db7-94c2-b34118ca589c": {
+    "object_name": "watermelon_novelty_plant_pot",
+    "object_id": "2cb18a27-6321-4db7-94c2-b34118ca589c",
+    "category": "plantpot",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2dcf64d5-c90f-45d9-95ab-5bea66d32a25": {
+    "object_name": "green_plastic_bottle",
+    "object_id": "2dcf64d5-c90f-45d9-95ab-5bea66d32a25",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2e32e3c3-d974-4748-8811-ee941d6cc3bd": {
+    "object_name": "cordless_power_drill",
+    "object_id": "2e32e3c3-d974-4748-8811-ee941d6cc3bd",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2e7ba4d4-d3d9-42df-a6d3-56eefa27ae21": {
+    "object_name": "green_cucumber",
+    "object_id": "2e7ba4d4-d3d9-42df-a6d3-56eefa27ae21",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2ed1cd1e-7a63-48eb-ad5e-09a8f71849c2": {
+    "object_name": "plastic_air_freshener_dispenser",
+    "object_id": "2ed1cd1e-7a63-48eb-ad5e-09a8f71849c2",
+    "category": "dispenser",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2edd5e31-be93-48e5-96d2-70f10154bc32": {
+    "object_name": "decorative_ceramic_candlestick",
+    "object_id": "2edd5e31-be93-48e5-96d2-70f10154bc32",
+    "category": "candlestick",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "2f0604dc-b4ef-434f-9756-5b5046efa2b7": {
+    "object_name": "nylon_pet_collar",
+    "object_id": "2f0604dc-b4ef-434f-9756-5b5046efa2b7",
+    "category": "collar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "301d355d-265b-4bdf-a0a1-1f28db7346ea": {
+    "object_name": "stemmed_wine_glass",
+    "object_id": "301d355d-265b-4bdf-a0a1-1f28db7346ea",
+    "category": "glass",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "30449f30-9ae5-427b-b57e-a0a3c23173ed": {
+    "object_name": "digital_alarm_clock",
+    "object_id": "30449f30-9ae5-427b-b57e-a0a3c23173ed",
+    "category": "clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "305c640f-0eb8-4286-b8fd-1abb0fbd9c1c": {
+    "object_name": "whole_pineapple",
+    "object_id": "305c640f-0eb8-4286-b8fd-1abb0fbd9c1c",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "31935d05-226f-4c00-954d-39a0ab985ba9": {
+    "object_name": "rocker_switch",
+    "object_id": "31935d05-226f-4c00-954d-39a0ab985ba9",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "324df839-b73e-417b-8d4f-91dd2b58e8ef": {
+    "object_name": "carved_stone_seal",
+    "object_id": "324df839-b73e-417b-8d4f-91dd2b58e8ef",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "327195c2-6790-4911-ad5e-5e0db6b3c6af": {
+    "object_name": "rectangular_plastic_drink_bottle",
+    "object_id": "327195c2-6790-4911-ad5e-5e0db6b3c6af",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "32871b15-50c2-4356-b5be-83f00822aedb": {
+    "object_name": "plastic_remote_control",
+    "object_id": "32871b15-50c2-4356-b5be-83f00822aedb",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "32e29630-400a-4138-91c5-f954838e359f": {
+    "object_name": "thin_laptop_computer",
+    "object_id": "32e29630-400a-4138-91c5-f954838e359f",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3322d5ae-e950-42fd-bb2e-9f610b48729a": {
+    "object_name": "glass_jam_jar",
+    "object_id": "3322d5ae-e950-42fd-bb2e-9f610b48729a",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3473b6ff-afb2-4e04-9dd4-ad9262616601": {
+    "object_name": "loaf_of_bread",
+    "object_id": "3473b6ff-afb2-4e04-9dd4-ad9262616601",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "348d1cdc-6834-4b52-8629-1b03741c99de": {
+    "object_name": "wooden_board_panel",
+    "object_id": "348d1cdc-6834-4b52-8629-1b03741c99de",
+    "category": "board",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "34a061d7-fb39-4e48-873c-04977bd4f204": {
+    "object_name": "fast_food_french_fries",
+    "object_id": "34a061d7-fb39-4e48-873c-04977bd4f204",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "34effecf-ca63-461d-a301-adbe61e40670": {
+    "object_name": "countertop_microwave_oven",
+    "object_id": "34effecf-ca63-461d-a301-adbe61e40670",
+    "category": "microwave",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "34f4868e-8620-42bc-949e-6954ff11796f": {
+    "object_name": "stemmed_wine_glass",
+    "object_id": "34f4868e-8620-42bc-949e-6954ff11796f",
+    "category": "glass",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "352e3e29-356b-484f-9523-f628cb076de9": {
+    "object_name": "alkaline_aa_battery",
+    "object_id": "352e3e29-356b-484f-9523-f628cb076de9",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "358e789e-3cc7-479a-af54-46bd832243c4": {
+    "object_name": "stemmed_wine_glass",
+    "object_id": "358e789e-3cc7-479a-af54-46bd832243c4",
+    "category": "wineglass",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "362c493c-49b5-43b4-ab9f-7177121c2a50": {
+    "object_name": "small_wooden_bookcase",
+    "object_id": "362c493c-49b5-43b4-ab9f-7177121c2a50",
+    "category": "bookcase",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "364ce918-c21f-44cb-9c84-9257a8618a82": {
+    "object_name": "plastic_calculator",
+    "object_id": "364ce918-c21f-44cb-9c84-9257a8618a82",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "37064508-0196-4bc9-a2ed-d02a350cfc36": {
+    "object_name": "adjustable_phone_stand",
+    "object_id": "37064508-0196-4bc9-a2ed-d02a350cfc36",
+    "category": "phonestand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "37083b46-f539-4855-ade8-88ad79a379dd": {
+    "object_name": "rectangular_rocker_switch",
+    "object_id": "37083b46-f539-4855-ade8-88ad79a379dd",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3745c9b6-2bfb-4b61-94c9-13879a1c2488": {
+    "object_name": "olive_oil_bottle",
+    "object_id": "3745c9b6-2bfb-4b61-94c9-13879a1c2488",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "37d603e5-8ea7-40d6-a00f-fa88a1e0850b": {
+    "object_name": "plastic_alarm_clock",
+    "object_id": "37d603e5-8ea7-40d6-a00f-fa88a1e0850b",
+    "category": "clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "38b9ec18-429f-44e5-8df2-c19a6df4c434": {
+    "object_name": "plastic_wall_switch",
+    "object_id": "38b9ec18-429f-44e5-8df2-c19a6df4c434",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "38bd1dfc-772e-423b-85b0-4dfae46b1fa9": {
+    "object_name": "potted_flowering_plant",
+    "object_id": "38bd1dfc-772e-423b-85b0-4dfae46b1fa9",
+    "category": "plant",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "39a97ff4-0872-4c89-99c3-7e775ec4f5bb": {
+    "object_name": "metal_whistling_kettle",
+    "object_id": "39a97ff4-0872-4c89-99c3-7e775ec4f5bb",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "39b213e4-5f6b-4d87-a90a-7a58c626b9f6": {
+    "object_name": "bamboo_steamer_basket",
+    "object_id": "39b213e4-5f6b-4d87-a90a-7a58c626b9f6",
+    "category": "steamer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "39c86e88-c4c0-4704-9fb4-cca3755d2ed9": {
+    "object_name": "green_red_apple",
+    "object_id": "39c86e88-c4c0-4704-9fb4-cca3755d2ed9",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3a1d5570-1af7-48a4-ae26-7e494884adb9": {
+    "object_name": "wooden_rolling_pin",
+    "object_id": "3a1d5570-1af7-48a4-ae26-7e494884adb9",
+    "category": "roller",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3a1e099e-38e2-457f-8b27-02a9a18b2604": {
+    "object_name": "cardboard_coffee_box",
+    "object_id": "3a1e099e-38e2-457f-8b27-02a9a18b2604",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3a309199-b495-4d6f-a2b3-54ed7a6985a1": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "3a309199-b495-4d6f-a2b3-54ed7a6985a1",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3b3b9afc-bbbb-46bf-8637-d5b6a674c74a": {
+    "object_name": "rectangular_tissue_box",
+    "object_id": "3b3b9afc-bbbb-46bf-8637-d5b6a674c74a",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3b4ec10f-dfeb-4e8d-8fc9-273694c35286": {
+    "object_name": "ceramic_mug",
+    "object_id": "3b4ec10f-dfeb-4e8d-8fc9-273694c35286",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3be9adc6-9761-4097-9ba0-ba1bb102205e": {
+    "object_name": "glass_jam_jar",
+    "object_id": "3be9adc6-9761-4097-9ba0-ba1bb102205e",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3bf8fef1-221d-40b1-b29d-5913805702c3": {
+    "object_name": "aluminum_laptop",
+    "object_id": "3bf8fef1-221d-40b1-b29d-5913805702c3",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3cdf536f-a2b2-4072-b2dd-53c942e58710": {
+    "object_name": "aluminum_beer_can",
+    "object_id": "3cdf536f-a2b2-4072-b2dd-53c942e58710",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3d03c610-199e-4808-bfe6-8bb3e1cd46a2": {
+    "object_name": "plastic_trophy",
+    "object_id": "3d03c610-199e-4808-bfe6-8bb3e1cd46a2",
+    "category": "trophy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3d0407f7-d002-4d86-97eb-6c524ed0ebca": {
+    "object_name": "plastic_beverage_bottle",
+    "object_id": "3d0407f7-d002-4d86-97eb-6c524ed0ebca",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3d2c90fe-baf9-4fe5-b2a9-754a29415fe3": {
+    "object_name": "coffee_beans_box",
+    "object_id": "3d2c90fe-baf9-4fe5-b2a9-754a29415fe3",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3d4637fb-d696-4cd6-a4ae-54a3d31f7340": {
+    "object_name": "rectangular_wooden_block",
+    "object_id": "3d4637fb-d696-4cd6-a4ae-54a3d31f7340",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3dc0e0ed-37e5-4275-bc22-d5bbf282205a": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "3dc0e0ed-37e5-4275-bc22-d5bbf282205a",
+    "category": "bin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3e50f415-f3b4-461c-aa3f-94bd6e3c4d16": {
+    "object_name": "plastic_chips_tub",
+    "object_id": "3e50f415-f3b4-461c-aa3f-94bd6e3c4d16",
+    "category": "tub",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "3f66d83e-e56c-4a69-af87-a604dcf7341d": {
+    "object_name": "rectangular_tissue_box",
+    "object_id": "3f66d83e-e56c-4a69-af87-a604dcf7341d",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "402fd1a7-90dd-4e0a-9271-52cf551779ec": {
+    "object_name": "modern_smartphone",
+    "object_id": "402fd1a7-90dd-4e0a-9271-52cf551779ec",
+    "category": "phone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "40ccb914-9ffe-4632-bd25-3c92e54d34ca": {
+    "object_name": "handheld_microphone",
+    "object_id": "40ccb914-9ffe-4632-bd25-3c92e54d34ca",
+    "category": "microphone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "41c0270d-49cc-41ad-a2ab-6a8ae87c73d8": {
+    "object_name": "black_marker_pen",
+    "object_id": "41c0270d-49cc-41ad-a2ab-6a8ae87c73d8",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "41d7bf47-f9aa-4f43-b662-e665978491ed": {
+    "object_name": "plastic_water_bottle",
+    "object_id": "41d7bf47-f9aa-4f43-b662-e665978491ed",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "41f66a44-8dde-4d78-9148-ae1ab7a33e40": {
+    "object_name": "rectangular_plastic_storage_box",
+    "object_id": "41f66a44-8dde-4d78-9148-ae1ab7a33e40",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "424e6589-fbb0-422d-94fc-3d0568f92fe3": {
+    "object_name": "cordless_power_drill",
+    "object_id": "424e6589-fbb0-422d-94fc-3d0568f92fe3",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4373bcb2-0b26-4eb0-9c0f-8fb3e6d642a6": {
+    "object_name": "plastic_bubble_tea_cup",
+    "object_id": "4373bcb2-0b26-4eb0-9c0f-8fb3e6d642a6",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4442a29b-e440-419b-aa43-e8c5636c09dc": {
+    "object_name": "wooden_desktop_speaker",
+    "object_id": "4442a29b-e440-419b-aa43-e8c5636c09dc",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "44d45c87-7a45-44d9-b00c-d3a72608d80e": {
+    "object_name": "round_desktop_cleaner",
+    "object_id": "44d45c87-7a45-44d9-b00c-d3a72608d80e",
+    "category": "cleaner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "46fd9937-393f-487f-9101-84b9b2dc0f7d": {
+    "object_name": "glass_jam_jar",
+    "object_id": "46fd9937-393f-487f-9101-84b9b2dc0f7d",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "47f62dba-b4f1-47bf-8e45-3475446cdb94": {
+    "object_name": "digital_kitchen_scale",
+    "object_id": "47f62dba-b4f1-47bf-8e45-3475446cdb94",
+    "category": "scale",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "47fa5a0b-7799-4edf-a0d0-24224f31bc1c": {
+    "object_name": "plastic_plant_pot_with_succulent",
+    "object_id": "47fa5a0b-7799-4edf-a0d0-24224f31bc1c",
+    "category": "plantpot",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4934dcf1-8249-4af1-8bc8-9794dd860603": {
+    "object_name": "digital_alarm_clock",
+    "object_id": "4934dcf1-8249-4af1-8bc8-9794dd860603",
+    "category": "clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4959edf8-ee61-4784-8ccd-411fc4bb4cd7": {
+    "object_name": "metal_sauce_can",
+    "object_id": "4959edf8-ee61-4784-8ccd-411fc4bb4cd7",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4ab75117-d17d-4f4b-9679-96950e42dd8d": {
+    "object_name": "metal_kitchen_pot_with_lid",
+    "object_id": "4ab75117-d17d-4f4b-9679-96950e42dd8d",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4bf08ba2-e6c6-4944-a37c-57f55f4b0269": {
+    "object_name": "wooden_desktop_bookcase",
+    "object_id": "4bf08ba2-e6c6-4944-a37c-57f55f4b0269",
+    "category": "bookcase",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4c6366cb-db5a-48f5-9ab4-4eb0a09ad406": {
+    "object_name": "glass_vinegar_bottle",
+    "object_id": "4c6366cb-db5a-48f5-9ab4-4eb0a09ad406",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4c92bc86-a4f8-4c50-943e-8ffa08781b96": {
+    "object_name": "metal_kitchen_pot",
+    "object_id": "4c92bc86-a4f8-4c50-943e-8ffa08781b96",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4da02c00-6076-43d8-b2d5-a1863e514a2a": {
+    "object_name": "adjustable_phone_stand",
+    "object_id": "4da02c00-6076-43d8-b2d5-a1863e514a2a",
+    "category": "phonestand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4db38094-3303-4b8f-80d0-d51099710d66": {
+    "object_name": "blue_ceramic_bowl",
+    "object_id": "4db38094-3303-4b8f-80d0-d51099710d66",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4e0f8532-f526-46da-8959-51a92f340ba9": {
+    "object_name": "wooden_soap_dish",
+    "object_id": "4e0f8532-f526-46da-8959-51a92f340ba9",
+    "category": "tray",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4eaaeba3-e169-4c21-b35e-4819713d7e17": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "4eaaeba3-e169-4c21-b35e-4819713d7e17",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4ec1a7df-33b4-4379-928c-0d30024260a9": {
+    "object_name": "plastic_glue_bottle",
+    "object_id": "4ec1a7df-33b4-4379-928c-0d30024260a9",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4ef259aa-64bf-470d-91d4-777e185515cf": {
+    "object_name": "rectangular_tissue_box",
+    "object_id": "4ef259aa-64bf-470d-91d4-777e185515cf",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4f362785-778e-4105-ab12-9fa580065f32": {
+    "object_name": "wooden_pen_holder_block",
+    "object_id": "4f362785-778e-4105-ab12-9fa580065f32",
+    "category": "pencup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "4f5e4237-4139-44a3-9ccf-83ba9c239970": {
+    "object_name": "cardboard_french_fries_box",
+    "object_id": "4f5e4237-4139-44a3-9ccf-83ba9c239970",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "502747d8-a443-4335-946d-8800cc41042f": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "502747d8-a443-4335-946d-8800cc41042f",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "50fa7d87-7967-4c5e-aa7c-9232aba630bd": {
+    "object_name": "metal_tea_strainer",
+    "object_id": "50fa7d87-7967-4c5e-aa7c-9232aba630bd",
+    "category": "strainer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "51a535d1-7f85-44d4-970e-fa759f55b321": {
+    "object_name": "red_apple",
+    "object_id": "51a535d1-7f85-44d4-970e-fa759f55b321",
+    "category": "apple",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "51b69a7e-7958-4413-b268-7cb4a59babf3": {
+    "object_name": "wooden_tissue_box",
+    "object_id": "51b69a7e-7958-4413-b268-7cb4a59babf3",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5203f556-23d0-47eb-903c-688af7df35b3": {
+    "object_name": "metal_tea_infuser",
+    "object_id": "5203f556-23d0-47eb-903c-688af7df35b3",
+    "category": "infuser",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "52b1a695-7027-46a9-9482-66ee7268820b": {
+    "object_name": "toilet_paper_roll",
+    "object_id": "52b1a695-7027-46a9-9482-66ee7268820b",
+    "category": "roll",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "530629e8-53fc-48c0-92bb-acff01198f0c": {
+    "object_name": "alkaline_aa_battery",
+    "object_id": "530629e8-53fc-48c0-92bb-acff01198f0c",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "53356b06-2f35-4b0a-89bd-a0d1420a8bb7": {
+    "object_name": "hardcover_book",
+    "object_id": "53356b06-2f35-4b0a-89bd-a0d1420a8bb7",
+    "category": "book",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "53b47d94-205a-4162-a03f-aa07662e0efa": {
+    "object_name": "french_fries_in_paper_carton",
+    "object_id": "53b47d94-205a-4162-a03f-aa07662e0efa",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "53ece91a-9d1b-4e76-a6fc-47ff78e50d60": {
+    "object_name": "plastic_soda_bottle",
+    "object_id": "53ece91a-9d1b-4e76-a6fc-47ff78e50d60",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "56114f36-82e6-4d33-bab8-3949017df91c": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "56114f36-82e6-4d33-bab8-3949017df91c",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5679f864-1909-4a41-8e1d-d1362999d26f": {
+    "object_name": "vintage_alarm_clock",
+    "object_id": "5679f864-1909-4a41-8e1d-d1362999d26f",
+    "category": "alarm_clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "56e0a501-d379-44f5-9a91-2a4999236ca8": {
+    "object_name": "bronze_gong",
+    "object_id": "56e0a501-d379-44f5-9a91-2a4999236ca8",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "58c700c8-9c04-4666-a754-812f61cfc233": {
+    "object_name": "plastic_payment_sign",
+    "object_id": "58c700c8-9c04-4666-a754-812f61cfc233",
+    "category": "sign",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "59f53bf1-8598-4893-bfd9-e65f4c22a69a": {
+    "object_name": "portable_plastic_speaker",
+    "object_id": "59f53bf1-8598-4893-bfd9-e65f4c22a69a",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5aaf90c4-330e-48b6-ad96-13558e1346be": {
+    "object_name": "ceramic_coffee_cup",
+    "object_id": "5aaf90c4-330e-48b6-ad96-13558e1346be",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5b410724-a0c2-4650-871e-5ada96bc4e9d": {
+    "object_name": "rocker_switch",
+    "object_id": "5b410724-a0c2-4650-871e-5ada96bc4e9d",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5babea6b-4833-43d4-9b5b-6d86ef7fa026": {
+    "object_name": "french_baguette_loaf",
+    "object_id": "5babea6b-4833-43d4-9b5b-6d86ef7fa026",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5c65238d-10b0-40d4-91dc-b242f3cdbe33": {
+    "object_name": "cylindrical_wooden_block",
+    "object_id": "5c65238d-10b0-40d4-91dc-b242f3cdbe33",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5c6abb78-b62f-4cb3-8e3d-a73fc52e5335": {
+    "object_name": "yellow_marker_pen",
+    "object_id": "5c6abb78-b62f-4cb3-8e3d-a73fc52e5335",
+    "category": "marker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5c7377b2-c700-4939-be6e-74c30bba74e6": {
+    "object_name": "metal_candlestick",
+    "object_id": "5c7377b2-c700-4939-be6e-74c30bba74e6",
+    "category": "candlestick",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5cd624f0-e80d-4a59-9599-509776df7c74": {
+    "object_name": "handheld_barcode_scanner",
+    "object_id": "5cd624f0-e80d-4a59-9599-509776df7c74",
+    "category": "scanner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5d132a45-2620-4f1a-88f5-756b7e5c262b": {
+    "object_name": "metal_dining_fork",
+    "object_id": "5d132a45-2620-4f1a-88f5-756b7e5c262b",
+    "category": "fork",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5eed2915-f13e-4a40-afa2-de1c578cb71f": {
+    "object_name": "cast_iron_skillet",
+    "object_id": "5eed2915-f13e-4a40-afa2-de1c578cb71f",
+    "category": "skillet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5ef8dfdf-56ee-49cd-8c8b-438c02e0be0f": {
+    "object_name": "metal_menorah_candlestick",
+    "object_id": "5ef8dfdf-56ee-49cd-8c8b-438c02e0be0f",
+    "category": "candlestick",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5f5b7ff9-738b-4c90-a0c6-ca73f02467e0": {
+    "object_name": "plastic_dumbbell",
+    "object_id": "5f5b7ff9-738b-4c90-a0c6-ca73f02467e0",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5f639499-5145-4bb8-9108-3cdbd424f49f": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "5f639499-5145-4bb8-9108-3cdbd424f49f",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "5fdf9842-246b-4b7e-bcb9-644c980d3873": {
+    "object_name": "plastic_bottle",
+    "object_id": "5fdf9842-246b-4b7e-bcb9-644c980d3873",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "606ecb5c-fcbe-49c5-af6e-ef06fa8c9a76": {
+    "object_name": "hollow_plastic_cylinder_block",
+    "object_id": "606ecb5c-fcbe-49c5-af6e-ef06fa8c9a76",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "60858cf9-5862-4a0b-a9c2-2c703ce429d1": {
+    "object_name": "lcd_computer_monitor",
+    "object_id": "60858cf9-5862-4a0b-a9c2-2c703ce429d1",
+    "category": "screen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "61b2f1fe-8526-4b65-9d6c-4fc23afb175a": {
+    "object_name": "glass_soy_sauce_bottle",
+    "object_id": "61b2f1fe-8526-4b65-9d6c-4fc23afb175a",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "62b9f593-42ad-4fa2-b802-01bd342d0c7d": {
+    "object_name": "rectangular_light_switch",
+    "object_id": "62b9f593-42ad-4fa2-b802-01bd342d0c7d",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "638598b7-e011-4c1b-b884-c3aa5f709e06": {
+    "object_name": "robotic_vacuum_cleaner",
+    "object_id": "638598b7-e011-4c1b-b884-c3aa5f709e06",
+    "category": "cleaner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "63bebf54-6d65-4c69-90f9-c9c3a14cea81": {
+    "object_name": "blue_stackable_plastic_bin",
+    "object_id": "63bebf54-6d65-4c69-90f9-c9c3a14cea81",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "64a251f3-8202-4cee-b622-e67d574a9021": {
+    "object_name": "plastic_prescription_pill_bottle",
+    "object_id": "64a251f3-8202-4cee-b622-e67d574a9021",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "64af2dd2-ed7c-4dea-8137-5663fb8c5f2c": {
+    "object_name": "potato_chips_tube",
+    "object_id": "64af2dd2-ed7c-4dea-8137-5663fb8c5f2c",
+    "category": "tub",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "64cf4161-4fd9-4063-819f-75844dc64b9e": {
+    "object_name": "plastic_juice_bottle",
+    "object_id": "64cf4161-4fd9-4063-819f-75844dc64b9e",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "64e9cf6f-5f86-4b78-8f1a-107d2423f653": {
+    "object_name": "ceramic_leaf_rest",
+    "object_id": "64e9cf6f-5f86-4b78-8f1a-107d2423f653",
+    "category": "rest",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "658a840e-50d7-48fd-afae-8da35165fcef": {
+    "object_name": "red_athletic_shoe",
+    "object_id": "658a840e-50d7-48fd-afae-8da35165fcef",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "65a00983-6341-4343-988d-81bfb64678cb": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "65a00983-6341-4343-988d-81bfb64678cb",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6603c452-2199-41a7-9656-c34ed8f7029c": {
+    "object_name": "wall_light_switch",
+    "object_id": "6603c452-2199-41a7-9656-c34ed8f7029c",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "66a941d7-5a9a-4771-ab30-a94c97fd1989": {
+    "object_name": "plastic_laptop",
+    "object_id": "66a941d7-5a9a-4771-ab30-a94c97fd1989",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "670bc83e-3a33-47b4-898f-82a00cca377b": {
+    "object_name": "alkaline_d_cell_battery",
+    "object_id": "670bc83e-3a33-47b4-898f-82a00cca377b",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6795515e-03f3-4b4e-a29c-a5dffd7106da": {
+    "object_name": "plastic_toy_car",
+    "object_id": "6795515e-03f3-4b4e-a29c-a5dffd7106da",
+    "category": "toy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "67d1936e-e52f-4566-a7b7-4b4f6b3fced0": {
+    "object_name": "rectangular_plastic_tray",
+    "object_id": "67d1936e-e52f-4566-a7b7-4b4f6b3fced0",
+    "category": "tray",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "67e76ce5-bf9c-48c9-b806-5ffb400f86bd": {
+    "object_name": "service_counter_bell",
+    "object_id": "67e76ce5-bf9c-48c9-b806-5ffb400f86bd",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "680cb6b6-c89b-4de7-a13a-65ec92f709e1": {
+    "object_name": "plastic_water_bottle",
+    "object_id": "680cb6b6-c89b-4de7-a13a-65ec92f709e1",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6958ce70-e2e2-4944-968c-5f2875f2a83a": {
+    "object_name": "handheld_microphone",
+    "object_id": "6958ce70-e2e2-4944-968c-5f2875f2a83a",
+    "category": "microphone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "698dfdb7-1de9-4612-9da7-bed8ce5cdb17": {
+    "object_name": "plastic_desktop_stapler",
+    "object_id": "698dfdb7-1de9-4612-9da7-bed8ce5cdb17",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "69ed29ce-1e23-4406-8fc7-c37b6922c529": {
+    "object_name": "plastic_shampoo_bottle",
+    "object_id": "69ed29ce-1e23-4406-8fc7-c37b6922c529",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e": {
+    "object_name": "desktop_world_globe",
+    "object_id": "6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e",
+    "category": "globe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6b0f2618-0497-4a42-a5dc-a97247ffac28": {
+    "object_name": "modern_smartphone",
+    "object_id": "6b0f2618-0497-4a42-a5dc-a97247ffac28",
+    "category": "phone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6b5eca07-f589-4087-8d1f-8d229b1d99d1": {
+    "object_name": "plastic_coffee_bottle",
+    "object_id": "6b5eca07-f589-4087-8d1f-8d229b1d99d1",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6baaffd4-592f-44b1-89ef-570eb4a751e6": {
+    "object_name": "plastic_rubiks_cube",
+    "object_id": "6baaffd4-592f-44b1-89ef-570eb4a751e6",
+    "category": "puzzle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6bd2a2c4-7692-4831-a17c-4df3893501aa": {
+    "object_name": "wrapped_hamburger",
+    "object_id": "6bd2a2c4-7692-4831-a17c-4df3893501aa",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6c7c1200-bf68-42ab-8c6b-1c798015beee": {
+    "object_name": "elmers_school_glue_bottle",
+    "object_id": "6c7c1200-bf68-42ab-8c6b-1c798015beee",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6dc46b28-7335-48a3-beeb-eed13394d315": {
+    "object_name": "plastic_toy_car",
+    "object_id": "6dc46b28-7335-48a3-beeb-eed13394d315",
+    "category": "toycar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6ea25e85-6fa8-4387-8565-1de4065d628b": {
+    "object_name": "whiteboard_eraser",
+    "object_id": "6ea25e85-6fa8-4387-8565-1de4065d628b",
+    "category": "eraser",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6ea35f98-e6ec-4fb4-bc4a-130ac9fd7db6": {
+    "object_name": "bamboo_steamer_basket",
+    "object_id": "6ea35f98-e6ec-4fb4-bc4a-130ac9fd7db6",
+    "category": "steamer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6f85c453-d80c-4a93-833a-58280acfd1b6": {
+    "object_name": "wireless_computer_mouse",
+    "object_id": "6f85c453-d80c-4a93-833a-58280acfd1b6",
+    "category": "mouse",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6fc6d47f-3c92-4c32-aeb6-bd0d403b9099": {
+    "object_name": "glass_jam_jar",
+    "object_id": "6fc6d47f-3c92-4c32-aeb6-bd0d403b9099",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6fcfc758-44f8-4577-95ef-c8a64994f92e": {
+    "object_name": "vinyl_coated_dumbbell",
+    "object_id": "6fcfc758-44f8-4577-95ef-c8a64994f92e",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "706fd1a1-11dd-432b-896d-902606ff9315": {
+    "object_name": "black_marker_pen",
+    "object_id": "706fd1a1-11dd-432b-896d-902606ff9315",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "70802ab6-3c01-48f8-a446-b6ffb262cf9e": {
+    "object_name": "ceramic_mug",
+    "object_id": "70802ab6-3c01-48f8-a446-b6ffb262cf9e",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "70a8e2f9-9b8d-45f2-aae6-59dad6c94045": {
+    "object_name": "plastic_water_bottle",
+    "object_id": "70a8e2f9-9b8d-45f2-aae6-59dad6c94045",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "70d29151-b912-4ef5-9d6e-b9f8e85970ee": {
+    "object_name": "plastic_olive_oil_bottle",
+    "object_id": "70d29151-b912-4ef5-9d6e-b9f8e85970ee",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "71007a46-9826-457e-a6f7-b9269fa9d8e1": {
+    "object_name": "square_white_bread_slice",
+    "object_id": "71007a46-9826-457e-a6f7-b9269fa9d8e1",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7165de2f-ef71-48bb-ba49-222deb20a1ab": {
+    "object_name": "aluminum_laptop",
+    "object_id": "7165de2f-ef71-48bb-ba49-222deb20a1ab",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "719932a8-092a-4608-b944-f2c5d545d960": {
+    "object_name": "digital_kitchen_scale",
+    "object_id": "719932a8-092a-4608-b944-f2c5d545d960",
+    "category": "scale",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "72873ffe-eeb5-4ea3-a114-40111a7b2ac2": {
+    "object_name": "wireless_computer_mouse",
+    "object_id": "72873ffe-eeb5-4ea3-a114-40111a7b2ac2",
+    "category": "mouse",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "73140bc2-17c8-4f2b-b3bc-b7d19e788f5b": {
+    "object_name": "engraved_clay_seal",
+    "object_id": "73140bc2-17c8-4f2b-b3bc-b7d19e788f5b",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "73d7ad92-72f8-4f13-948c-f043724ec1d6": {
+    "object_name": "casual_sneaker",
+    "object_id": "73d7ad92-72f8-4f13-948c-f043724ec1d6",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "74346391-01bb-41ff-81b3-2e958bb91b07": {
+    "object_name": "handheld_call_bell",
+    "object_id": "74346391-01bb-41ff-81b3-2e958bb91b07",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "76a8e470-8071-44f3-bc29-084fdd0fb8e5": {
+    "object_name": "plastic_soda_bottle",
+    "object_id": "76a8e470-8071-44f3-bc29-084fdd0fb8e5",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "76b433a0-90ac-4f80-81f4-9dd1303e9d8c": {
+    "object_name": "chef_knife",
+    "object_id": "76b433a0-90ac-4f80-81f4-9dd1303e9d8c",
+    "category": "knife",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "77cceef0-cbb1-4848-bf1f-8935a44f2969": {
+    "object_name": "plastic_coffee_cup",
+    "object_id": "77cceef0-cbb1-4848-bf1f-8935a44f2969",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7847a89e-c0cb-4f6c-ba4d-bf2c687b31f1": {
+    "object_name": "french_baguette",
+    "object_id": "7847a89e-c0cb-4f6c-ba4d-bf2c687b31f1",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "78e7721c-0aa2-428f-a1bd-9855e61e66d7": {
+    "object_name": "wooden_cutting_board",
+    "object_id": "78e7721c-0aa2-428f-a1bd-9855e61e66d7",
+    "category": "board",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7959b3a5-7b6a-4a93-b493-eefd929afbb1": {
+    "object_name": "painted_cylindrical_block",
+    "object_id": "7959b3a5-7b6a-4a93-b493-eefd929afbb1",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7b084ecb-0834-46ce-9ba1-118912c7fa59": {
+    "object_name": "cardboard_tea_box",
+    "object_id": "7b084ecb-0834-46ce-9ba1-118912c7fa59",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7c09cc4e-5a47-4b36-9246-6a5c065b3ee6": {
+    "object_name": "metal_sauce_can",
+    "object_id": "7c09cc4e-5a47-4b36-9246-6a5c065b3ee6",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7cbb03b1-c320-437d-8b5d-6aa83e58e0fe": {
+    "object_name": "msg_seasoning_bottle",
+    "object_id": "7cbb03b1-c320-437d-8b5d-6aa83e58e0fe",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7d1e77e2-e8a8-43b5-9157-81b5ef43753b": {
+    "object_name": "red_desktop_stapler",
+    "object_id": "7d1e77e2-e8a8-43b5-9157-81b5ef43753b",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7d31ef75-83f0-44c1-bb73-31cabb82416f": {
+    "object_name": "plastic_toothpaste_tube",
+    "object_id": "7d31ef75-83f0-44c1-bb73-31cabb82416f",
+    "category": "tube",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7d4cbbbd-f5fc-4b95-a628-f86e15affda5": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "7d4cbbbd-f5fc-4b95-a628-f86e15affda5",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "7e588891-15cd-4a36-a17b-a246fbce6b1e": {
+    "object_name": "rectangular_bar_soap",
+    "object_id": "7e588891-15cd-4a36-a17b-a246fbce6b1e",
+    "category": "soap",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "80857190-d4af-4112-9465-4d5c141f118e": {
+    "object_name": "wooden_rolling_pin",
+    "object_id": "80857190-d4af-4112-9465-4d5c141f118e",
+    "category": "roller",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "81867975-0cf0-4e0f-8ba0-4a2323cf8ee9": {
+    "object_name": "plastic_soy_sauce_bottle",
+    "object_id": "81867975-0cf0-4e0f-8ba0-4a2323cf8ee9",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8190badd-bf67-43cd-9e2e-b579125b2c79": {
+    "object_name": "paperboard_milk_carton",
+    "object_id": "8190badd-bf67-43cd-9e2e-b579125b2c79",
+    "category": "carton",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "822b6b8c-fb5f-4d80-8eaf-c97c5457b982": {
+    "object_name": "glass_soy_sauce_bottle",
+    "object_id": "822b6b8c-fb5f-4d80-8eaf-c97c5457b982",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "82747666-28df-40d9-86dd-8e409478510a": {
+    "object_name": "rectangular_tissue_box",
+    "object_id": "82747666-28df-40d9-86dd-8e409478510a",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8404fd1f-dce0-4271-afb7-f4ba80515c17": {
+    "object_name": "plastic_bubble_tea_cup",
+    "object_id": "8404fd1f-dce0-4271-afb7-f4ba80515c17",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "84450536-e5a3-4a64-87f1-4c1b5b48b606": {
+    "object_name": "decorated_ceramic_mug",
+    "object_id": "84450536-e5a3-4a64-87f1-4c1b5b48b606",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "84a70c02-79cb-4adf-9929-e2b160f24c97": {
+    "object_name": "cast_iron_skillet",
+    "object_id": "84a70c02-79cb-4adf-9929-e2b160f24c97",
+    "category": "skillet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "84df6a36-5261-4185-b1f6-d5410aeddfcc": {
+    "object_name": "juice_can",
+    "object_id": "84df6a36-5261-4185-b1f6-d5410aeddfcc",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8575112e-7511-42db-9076-0644fe01bcc5": {
+    "object_name": "sliced_bread_loaf",
+    "object_id": "8575112e-7511-42db-9076-0644fe01bcc5",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "85949925-fb22-4307-aa92-f0c2e485dfa6": {
+    "object_name": "woven_breadbasket",
+    "object_id": "85949925-fb22-4307-aa92-f0c2e485dfa6",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "860a6e16-fd48-498e-b8c3-2b5268b6bb1f": {
+    "object_name": "flat_panel_monitor",
+    "object_id": "860a6e16-fd48-498e-b8c3-2b5268b6bb1f",
+    "category": "screen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "866f1a15-62bf-40dd-8803-dbc0e81945a6": {
+    "object_name": "glass_perfume_bottle",
+    "object_id": "866f1a15-62bf-40dd-8803-dbc0e81945a6",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8705e6eb-e8c7-4bc4-942f-1c9c685e93ab": {
+    "object_name": "sealed_lead_acid_battery",
+    "object_id": "8705e6eb-e8c7-4bc4-942f-1c9c685e93ab",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "87315c78-824b-4a58-b4a3-183bc323a931": {
+    "object_name": "cardboard_shoe_box",
+    "object_id": "87315c78-824b-4a58-b4a3-183bc323a931",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8734fd2c-7126-4300-84cc-4574556768c7": {
+    "object_name": "potted_plant",
+    "object_id": "8734fd2c-7126-4300-84cc-4574556768c7",
+    "category": "plant",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "886aea23-7ad0-4e70-9d79-3ccb47a14876": {
+    "object_name": "plastic_milk_tea_cup",
+    "object_id": "886aea23-7ad0-4e70-9d79-3ccb47a14876",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "888b3bb4-d320-4df6-9c87-09002c9ab036": {
+    "object_name": "ceramic_window_box_planter",
+    "object_id": "888b3bb4-d320-4df6-9c87-09002c9ab036",
+    "category": "plant-pot",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "895e505e-56a4-4841-b8e5-a5435764d951": {
+    "object_name": "handheld_call_bell",
+    "object_id": "895e505e-56a4-4841-b8e5-a5435764d951",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "89b68efa-1e44-47c4-b1c0-f5fb00e89025": {
+    "object_name": "cardboard_rectangular_box",
+    "object_id": "89b68efa-1e44-47c4-b1c0-f5fb00e89025",
+    "category": "box",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "89cd4f7a-d5f0-43cf-b2e7-dd6a54b140dc": {
+    "object_name": "plastic_storage_basket",
+    "object_id": "89cd4f7a-d5f0-43cf-b2e7-dd6a54b140dc",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8a4bb75d-0fe1-42bc-9552-34d13ab6b171": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "8a4bb75d-0fe1-42bc-9552-34d13ab6b171",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8a77d86d-4cf5-40dc-b1e9-a2dd4c61e559": {
+    "object_name": "plastic_pill_bottle",
+    "object_id": "8a77d86d-4cf5-40dc-b1e9-a2dd4c61e559",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8c8d5355-0fca-4490-8174-b5c53f2ef575": {
+    "object_name": "metal_service_bell",
+    "object_id": "8c8d5355-0fca-4490-8174-b5c53f2ef575",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8cd42d30-5172-47cf-9018-6468d3703052": {
+    "object_name": "plush_hamburger_toy",
+    "object_id": "8cd42d30-5172-47cf-9018-6468d3703052",
+    "category": "toy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8d83e29d-53eb-42a6-bb93-f79c4ac11125": {
+    "object_name": "plastic_clip_fan",
+    "object_id": "8d83e29d-53eb-42a6-bb93-f79c4ac11125",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8e2582e5-6b55-425f-957b-9b2c4544324c": {
+    "object_name": "metal_stovetop_kettle",
+    "object_id": "8e2582e5-6b55-425f-957b-9b2c4544324c",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8e5b27f8-b8b4-41a1-9457-58d1fa2be9ea": {
+    "object_name": "metal_tea_strainer",
+    "object_id": "8e5b27f8-b8b4-41a1-9457-58d1fa2be9ea",
+    "category": "strainer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8eda1b14-49d7-403e-8977-45d335569354": {
+    "object_name": "brown_leather_shoe",
+    "object_id": "8eda1b14-49d7-403e-8977-45d335569354",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8efd63c7-6408-4829-907a-47a3479daead": {
+    "object_name": "ceramic_cup",
+    "object_id": "8efd63c7-6408-4829-907a-47a3479daead",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8f1ef121-51b1-4428-aaad-58c618839b03": {
+    "object_name": "aluminum_soda_can",
+    "object_id": "8f1ef121-51b1-4428-aaad-58c618839b03",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "8f74ae21-6806-44cd-9e75-7f218b9896cc": {
+    "object_name": "plastic_hand_shovel",
+    "object_id": "8f74ae21-6806-44cd-9e75-7f218b9896cc",
+    "category": "shovel",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "915258ab-0936-4631-b45b-fe54ec538f0e": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "915258ab-0936-4631-b45b-fe54ec538f0e",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "91704eba-b6e1-4165-8417-00509ce7d98b": {
+    "object_name": "green_pear",
+    "object_id": "91704eba-b6e1-4165-8417-00509ce7d98b",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9181c2b6-39a8-4d26-b23c-2e3bb5a4dd04": {
+    "object_name": "paperboard_milk_carton",
+    "object_id": "9181c2b6-39a8-4d26-b23c-2e3bb5a4dd04",
+    "category": "carton",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "92c37c6d-b7a1-43c9-9514-420255257198": {
+    "object_name": "cylindrical_toy_block",
+    "object_id": "92c37c6d-b7a1-43c9-9514-420255257198",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "92f5d896-13db-4af0-80c5-eb3f0b6a01fc": {
+    "object_name": "adjustable_phone_stand",
+    "object_id": "92f5d896-13db-4af0-80c5-eb3f0b6a01fc",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "939e2468-9a24-464c-bf42-85df9fb51570": {
+    "object_name": "cardboard_tea_box",
+    "object_id": "939e2468-9a24-464c-bf42-85df9fb51570",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "93e3f79c-7398-4e41-a98b-977eb3355fb6": {
+    "object_name": "blue_plastic_storage_bin",
+    "object_id": "93e3f79c-7398-4e41-a98b-977eb3355fb6",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9472821d-6a35-40c4-be11-e7f2761796b7": {
+    "object_name": "oval_tissue_box",
+    "object_id": "9472821d-6a35-40c4-be11-e7f2761796b7",
+    "category": "tissue_box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "95537141-df25-4fa0-9eff-8d171722c4fd": {
+    "object_name": "acrylic_display_stand",
+    "object_id": "95537141-df25-4fa0-9eff-8d171722c4fd",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "955bf165-b447-4c1c-9ee0-e0ee88935867": {
+    "object_name": "plastic_toy_car",
+    "object_id": "955bf165-b447-4c1c-9ee0-e0ee88935867",
+    "category": "toy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9563ceb1-d7ef-4500-8e55-786dc6e5f9ac": {
+    "object_name": "plastic_remote_control",
+    "object_id": "9563ceb1-d7ef-4500-8e55-786dc6e5f9ac",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "95829804-5334-4e5e-8b92-6751f0e77e25": {
+    "object_name": "toshiba_laptop",
+    "object_id": "95829804-5334-4e5e-8b92-6751f0e77e25",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "963ee828-19ce-4b1e-959d-373888d30af5": {
+    "object_name": "cordless_power_drill",
+    "object_id": "963ee828-19ce-4b1e-959d-373888d30af5",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "973725a9-1523-4314-b9b1-a61e2ea9f704": {
+    "object_name": "athletic_sneaker",
+    "object_id": "973725a9-1523-4314-b9b1-a61e2ea9f704",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "97650d46-2d33-4dc8-915d-28f4297f648d": {
+    "object_name": "plastic_remote_control",
+    "object_id": "97650d46-2d33-4dc8-915d-28f4297f648d",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "97776e60-5084-449e-b161-37ec7bf910f9": {
+    "object_name": "brush_pen",
+    "object_id": "97776e60-5084-449e-b161-37ec7bf910f9",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "97a6b9f6-202f-488d-ab99-b24f4c4d7915": {
+    "object_name": "ceramic_mug",
+    "object_id": "97a6b9f6-202f-488d-ab99-b24f4c4d7915",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "985a8564-a977-493e-a928-543d4fa81b65": {
+    "object_name": "woven_bread_basket",
+    "object_id": "985a8564-a977-493e-a928-543d4fa81b65",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "98babef5-75d9-4244-b021-0f18cea9a1cc": {
+    "object_name": "woven_bread_basket",
+    "object_id": "98babef5-75d9-4244-b021-0f18cea9a1cc",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9a274802-8c2e-4b75-acc3-4d8d789d262a": {
+    "object_name": "plastic_liquid_bottle",
+    "object_id": "9a274802-8c2e-4b75-acc3-4d8d789d262a",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9a29dc58-71ae-4ef0-9024-3609050c9b8d": {
+    "object_name": "rectangular_plastic_tray",
+    "object_id": "9a29dc58-71ae-4ef0-9024-3609050c9b8d",
+    "category": "tray",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9a41ef6e-e1b0-49b0-88f3-08bc1bd2e5ba": {
+    "object_name": "plastic_pump_bottle",
+    "object_id": "9a41ef6e-e1b0-49b0-88f3-08bc1bd2e5ba",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9a5dcdc3-823a-4d5c-90e2-1e968b099cf6": {
+    "object_name": "basic_handheld_calculator",
+    "object_id": "9a5dcdc3-823a-4d5c-90e2-1e968b099cf6",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9a90481b-9b64-47ce-b352-40615cd65da2": {
+    "object_name": "nylon_pet_collar",
+    "object_id": "9a90481b-9b64-47ce-b352-40615cd65da2",
+    "category": "collar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9ae18707-dd56-4d46-b11a-2284df9c4df7": {
+    "object_name": "computer_keyboard",
+    "object_id": "9ae18707-dd56-4d46-b11a-2284df9c4df7",
+    "category": "keyboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9b4c819a-4798-4491-8ba2-0c4451029eea": {
+    "object_name": "plastic_watering_can",
+    "object_id": "9b4c819a-4798-4491-8ba2-0c4451029eea",
+    "category": "wateringcan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9bf6b4ef-2844-4663-9f4c-980f25065e1a": {
+    "object_name": "handheld_barcode_scanner",
+    "object_id": "9bf6b4ef-2844-4663-9f4c-980f25065e1a",
+    "category": "scanner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9c8cd5b3-2c1e-42ff-8497-2bad90ab50e6": {
+    "object_name": "rectangular_serving_tray",
+    "object_id": "9c8cd5b3-2c1e-42ff-8497-2bad90ab50e6",
+    "category": "tray",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9cb67709-0190-49db-8d1a-980ac42042fe": {
+    "object_name": "ceramic_cup",
+    "object_id": "9cb67709-0190-49db-8d1a-980ac42042fe",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9ccc5a88-6f11-4b1b-817b-84c0842b82b0": {
+    "object_name": "red_apple",
+    "object_id": "9ccc5a88-6f11-4b1b-817b-84c0842b82b0",
+    "category": "apple",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9dcb5103-8eca-4280-95ed-c3fddf712f95": {
+    "object_name": "metallic_cup_with_handle",
+    "object_id": "9dcb5103-8eca-4280-95ed-c3fddf712f95",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9e1715bc-07b7-4e7d-9c67-f7c8d6105ba5": {
+    "object_name": "handheld_barcode_scanner",
+    "object_id": "9e1715bc-07b7-4e7d-9c67-f7c8d6105ba5",
+    "category": "scanner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9e83aa5d-0a1d-43d3-ba43-62c5bd575922": {
+    "object_name": "black_marker_pen",
+    "object_id": "9e83aa5d-0a1d-43d3-ba43-62c5bd575922",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9ec93162-0033-458d-b055-921b40defe5d": {
+    "object_name": "ceramic_bowl_with_yellow_pattern",
+    "object_id": "9ec93162-0033-458d-b055-921b40defe5d",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9fad6922-f48d-4a1b-8aeb-1a1c510c612b": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "9fad6922-f48d-4a1b-8aeb-1a1c510c612b",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9fc31291-41fe-468a-be23-26fbb6a9877b": {
+    "object_name": "plastic_glue_bottle",
+    "object_id": "9fc31291-41fe-468a-be23-26fbb6a9877b",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "9fd296fc-3e6b-40ae-9f8b-ed3cfced0dcc": {
+    "object_name": "plastic_hand_shovel",
+    "object_id": "9fd296fc-3e6b-40ae-9f8b-ed3cfced0dcc",
+    "category": "shovel",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a005af9f-7f42-4dc0-b14c-786ba2427b80": {
+    "object_name": "handheld_barcode_scanner",
+    "object_id": "a005af9f-7f42-4dc0-b14c-786ba2427b80",
+    "category": "scanner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a0b4a7b1-38ff-4664-ba4b-8bfae05d5145": {
+    "object_name": "decorated_plastic_water_bottle",
+    "object_id": "a0b4a7b1-38ff-4664-ba4b-8bfae05d5145",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a0c6a447-78c0-48f3-8f44-7dce86ba80f0": {
+    "object_name": "white_bread_loaf",
+    "object_id": "a0c6a447-78c0-48f3-8f44-7dce86ba80f0",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a12b4c01-ddf3-42af-a2b7-abf6f2faeb82": {
+    "object_name": "rubber_stamp_seal",
+    "object_id": "a12b4c01-ddf3-42af-a2b7-abf6f2faeb82",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a24552ed-5649-4f48-a0da-96ef7f34184d": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "a24552ed-5649-4f48-a0da-96ef7f34184d",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a25c3b24-4e1a-45ed-926b-56e5529862ac": {
+    "object_name": "metal_dumbbell_rack",
+    "object_id": "a25c3b24-4e1a-45ed-926b-56e5529862ac",
+    "category": "rack",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a28c5dec-e109-4a6d-88c1-7b351ec3fb0c": {
+    "object_name": "toshiba_laptop",
+    "object_id": "a28c5dec-e109-4a6d-88c1-7b351ec3fb0c",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a28e20a8-c92e-4fc5-a09a-abcda683cbaf": {
+    "object_name": "plastic_cutting_board_with_handle",
+    "object_id": "a28e20a8-c92e-4fc5-a09a-abcda683cbaf",
+    "category": "board",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a2d178b1-4464-44b6-9906-e0713eef7e34": {
+    "object_name": "plastic_drinking_cup",
+    "object_id": "a2d178b1-4464-44b6-9906-e0713eef7e34",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a3164674-0a5a-4671-8df7-b1fdb1e753ec": {
+    "object_name": "metal_dumbbell_rack",
+    "object_id": "a3164674-0a5a-4671-8df7-b1fdb1e753ec",
+    "category": "rack",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a31a731f-1d98-4177-af89-41cca9f41d00": {
+    "object_name": "plastic_soda_bottle",
+    "object_id": "a31a731f-1d98-4177-af89-41cca9f41d00",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a34b9ec5-3798-4103-b19e-6e9d436203a5": {
+    "object_name": "plastic_remote_control",
+    "object_id": "a34b9ec5-3798-4103-b19e-6e9d436203a5",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a352d70c-fdeb-4b06-bafb-99e12cdcd5d6": {
+    "object_name": "olive_oil_bottle",
+    "object_id": "a352d70c-fdeb-4b06-bafb-99e12cdcd5d6",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a36ed149-7072-4d16-965f-9e440a084084": {
+    "object_name": "wireless_computer_mouse",
+    "object_id": "a36ed149-7072-4d16-965f-9e440a084084",
+    "category": "mouse",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a375c8ce-78a4-427a-8da7-8e7778e7e3a2": {
+    "object_name": "metal_stovetop_kettle",
+    "object_id": "a375c8ce-78a4-427a-8da7-8e7778e7e3a2",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a3f168ee-3f1c-4a3c-820d-a73bd39be057": {
+    "object_name": "plastic_shampoo_dispenser",
+    "object_id": "a3f168ee-3f1c-4a3c-820d-a73bd39be057",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a4081f15-09a1-45c0-9095-7cc34abcffec": {
+    "object_name": "plastic_juice_bottle",
+    "object_id": "a4081f15-09a1-45c0-9095-7cc34abcffec",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a513c2c5-6c5c-40a2-82f5-4257dde8f943": {
+    "object_name": "lcd_monitor_screen",
+    "object_id": "a513c2c5-6c5c-40a2-82f5-4257dde8f943",
+    "category": "screen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a5769ed9-76fb-4919-94a0-1dad0d75b594": {
+    "object_name": "plastic_vinegar_bottle",
+    "object_id": "a5769ed9-76fb-4919-94a0-1dad0d75b594",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a62c9c32-5489-4698-adc4-c7621bc1d52e": {
+    "object_name": "blue_plastic_storage_box",
+    "object_id": "a62c9c32-5489-4698-adc4-c7621bc1d52e",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a659599e-23b9-45e2-b589-3b8872c19b78": {
+    "object_name": "plastic_cylinder_block",
+    "object_id": "a659599e-23b9-45e2-b589-3b8872c19b78",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a68132dd-b99e-41aa-8dc3-f13e793f4aa6": {
+    "object_name": "hand_call_bell",
+    "object_id": "a68132dd-b99e-41aa-8dc3-f13e793f4aa6",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a6e9ab42-6702-487b-b5c8-419b5d5225ef": {
+    "object_name": "plastic_watering_can",
+    "object_id": "a6e9ab42-6702-487b-b5c8-419b5d5225ef",
+    "category": "watering_can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a7606945-acb7-4dfa-a7d2-28a7b22feb67": {
+    "object_name": "rectangular_plastic_storage_box",
+    "object_id": "a7606945-acb7-4dfa-a7d2-28a7b22feb67",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a7843de2-00cb-4eb4-a837-1fcf6d892f7c": {
+    "object_name": "adjustable_phone_stand",
+    "object_id": "a7843de2-00cb-4eb4-a837-1fcf6d892f7c",
+    "category": "phonestand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a82dc5d4-c97d-4dd4-b938-488fb61b8848": {
+    "object_name": "plastic_oil_spray_bottle",
+    "object_id": "a82dc5d4-c97d-4dd4-b938-488fb61b8848",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a8f8d28a-cb64-4839-9394-a9bcf1e35b52": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "a8f8d28a-cb64-4839-9394-a9bcf1e35b52",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a9dbab7b-e734-4565-b627-d0677ded7c42": {
+    "object_name": "portable_plastic_fan",
+    "object_id": "a9dbab7b-e734-4565-b627-d0677ded7c42",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "a9ee903c-59c9-4bd4-b073-2e10ea3af1b7": {
+    "object_name": "aluminum_laptop",
+    "object_id": "a9ee903c-59c9-4bd4-b073-2e10ea3af1b7",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aa01bcfc-2436-4d01-a8c2-e6cbeb126ff0": {
+    "object_name": "mounted_gong",
+    "object_id": "aa01bcfc-2436-4d01-a8c2-e6cbeb126ff0",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aa42c739-e868-4f6c-b71d-f75bf3ee0a28": {
+    "object_name": "deck_of_playing_cards",
+    "object_id": "aa42c739-e868-4f6c-b71d-f75bf3ee0a28",
+    "category": "cards",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aa59cd4b-fb57-4bcd-95b3-23a05de76ae5": {
+    "object_name": "scientific_calculator",
+    "object_id": "aa59cd4b-fb57-4bcd-95b3-23a05de76ae5",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aaad4924-3506-4f62-8c9c-9c195e354fad": {
+    "object_name": "metal_whistling_kettle",
+    "object_id": "aaad4924-3506-4f62-8c9c-9c195e354fad",
+    "category": "kettle",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aabb376a-ece7-4d53-ba25-6fb5cd66cef4": {
+    "object_name": "irregular_wooden_block",
+    "object_id": "aabb376a-ece7-4d53-ba25-6fb5cd66cef4",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aaf981e8-94a9-4cae-80bf-738dc169b190": {
+    "object_name": "wooden_portable_speaker",
+    "object_id": "aaf981e8-94a9-4cae-80bf-738dc169b190",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ab962f95-41db-40fd-a8de-12871dc8f6e7": {
+    "object_name": "cast_iron_skillet",
+    "object_id": "ab962f95-41db-40fd-a8de-12871dc8f6e7",
+    "category": "skillet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "abf80de6-c37e-4c81-bb4c-3ee9ea331c34": {
+    "object_name": "plastic_rubiks_cube",
+    "object_id": "abf80de6-c37e-4c81-bb4c-3ee9ea331c34",
+    "category": "puzzle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aca170f0-5d81-45c5-aab3-a4fc6cc7d1d7": {
+    "object_name": "tabletop_alarm_clock",
+    "object_id": "aca170f0-5d81-45c5-aab3-a4fc6cc7d1d7",
+    "category": "clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "acaa193f-5c10-4840-936a-7b0b9bb8f59a": {
+    "object_name": "ceramic_mug",
+    "object_id": "acaa193f-5c10-4840-936a-7b0b9bb8f59a",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "acd820b8-ff7d-4607-b4f4-7034af264fb1": {
+    "object_name": "bread_roll",
+    "object_id": "acd820b8-ff7d-4607-b4f4-7034af264fb1",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ad7c8a38-86f8-4993-9f9b-14cdd0f679ec": {
+    "object_name": "aluminum_coffee_can",
+    "object_id": "ad7c8a38-86f8-4993-9f9b-14cdd0f679ec",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "adffb7e6-ef19-475e-9acf-6994ae99dc9c": {
+    "object_name": "ceramic_tea_cup",
+    "object_id": "adffb7e6-ef19-475e-9acf-6994ae99dc9c",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ae4adda3-7659-4047-81e3-8df0ef36db30": {
+    "object_name": "golden_trophy_cup",
+    "object_id": "ae4adda3-7659-4047-81e3-8df0ef36db30",
+    "category": "trophy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aea1ec1d-a6a1-449d-bc6a-12fc742ed241": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "aea1ec1d-a6a1-449d-bc6a-12fc742ed241",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "aec26e96-fac4-4963-9389-98a02837605f": {
+    "object_name": "plastic_pill_bottle",
+    "object_id": "aec26e96-fac4-4963-9389-98a02837605f",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "af649d44-54cb-4327-a9d3-20f16c5aa920": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "af649d44-54cb-4327-a9d3-20f16c5aa920",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b01a4724-2023-4cfc-af06-eee9046e5108": {
+    "object_name": "glass_perfume_bottle",
+    "object_id": "b01a4724-2023-4cfc-af06-eee9046e5108",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b161caa6-2ce4-43ef-9822-b60a458cc611": {
+    "object_name": "lcd_monitor_screen",
+    "object_id": "b161caa6-2ce4-43ef-9822-b60a458cc611",
+    "category": "screen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b1da6739-f5dc-41f5-abc5-b2b3146f8a75": {
+    "object_name": "black_laptop_computer",
+    "object_id": "b1da6739-f5dc-41f5-abc5-b2b3146f8a75",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b1e2332f-29a0-41a4-a1a5-5acd63a48ed9": {
+    "object_name": "rectangular_plastic_box",
+    "object_id": "b1e2332f-29a0-41a4-a1a5-5acd63a48ed9",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b29ff15c-c05c-4f37-a7ec-6219f1105978": {
+    "object_name": "golden_trophy_cup",
+    "object_id": "b29ff15c-c05c-4f37-a7ec-6219f1105978",
+    "category": "trophy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b31afc99-5ad7-4756-a4a4-492a4bc8342b": {
+    "object_name": "plastic_watering_can",
+    "object_id": "b31afc99-5ad7-4756-a4a4-492a4bc8342b",
+    "category": "watering_can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b470fe6f-43e1-4414-91e7-3b3fdf9e9f8e": {
+    "object_name": "bronze_gong_on_stand",
+    "object_id": "b470fe6f-43e1-4414-91e7-3b3fdf9e9f8e",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b5017a03-f2f5-46e5-919c-24f09e6048a6": {
+    "object_name": "scientific_calculator",
+    "object_id": "b5017a03-f2f5-46e5-919c-24f09e6048a6",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b552e1f6-3e4f-494c-8b63-772ef0a88d79": {
+    "object_name": "wooden_tea_box",
+    "object_id": "b552e1f6-3e4f-494c-8b63-772ef0a88d79",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b6770f36-afd1-41ba-8bc6-d69423c8a832": {
+    "object_name": "plastic_water_bottle",
+    "object_id": "b6770f36-afd1-41ba-8bc6-d69423c8a832",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b7e6e104-3a08-4928-b803-bc6315807947": {
+    "object_name": "portable_clip_fan",
+    "object_id": "b7e6e104-3a08-4928-b803-bc6315807947",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b88b1803-1075-432f-9b3b-4ef19e7cb9e8": {
+    "object_name": "robot_vacuum_cleaner",
+    "object_id": "b88b1803-1075-432f-9b3b-4ef19e7cb9e8",
+    "category": "cleaner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b899162c-41d7-4c15-9fcf-45ce73862f38": {
+    "object_name": "plastic_beverage_bottle",
+    "object_id": "b899162c-41d7-4c15-9fcf-45ce73862f38",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b8bb8aab-5e75-4c9f-9d4c-d38a824a41ad": {
+    "object_name": "plastic_scrub_brush",
+    "object_id": "b8bb8aab-5e75-4c9f-9d4c-d38a824a41ad",
+    "category": "brush",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b8c91dfa-09ff-423d-84d3-ba5fc5f86323": {
+    "object_name": "lychee_fruit",
+    "object_id": "b8c91dfa-09ff-423d-84d3-ba5fc5f86323",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "b93bcee0-b3dd-4468-a990-12f0aa2420a8": {
+    "object_name": "toilet_paper_roll",
+    "object_id": "b93bcee0-b3dd-4468-a990-12f0aa2420a8",
+    "category": "roll",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ba419892-f7eb-4a3f-8c60-a9de05456709": {
+    "object_name": "alkaline_aa_battery",
+    "object_id": "ba419892-f7eb-4a3f-8c60-a9de05456709",
+    "category": "battery",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bab52fe6-c663-4931-ba05-2797c95d9141": {
+    "object_name": "rectangular_wall_switch",
+    "object_id": "bab52fe6-c663-4931-ba05-2797c95d9141",
+    "category": "switch",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bab81def-9f13-499d-9591-8b5b919f8d61": {
+    "object_name": "metal_kitchen_pot_with_lid",
+    "object_id": "bab81def-9f13-499d-9591-8b5b919f8d61",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bb02c27b-a9ab-4a28-ae4d-7689675f4231": {
+    "object_name": "black_marker_pen",
+    "object_id": "bb02c27b-a9ab-4a28-ae4d-7689675f4231",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bb16d0ec-c350-40ba-be61-3aeaabbe76b2": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "bb16d0ec-c350-40ba-be61-3aeaabbe76b2",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bb33262a-7938-48ff-a4b8-6e45ee609ecd": {
+    "object_name": "cast_iron_skillet",
+    "object_id": "bb33262a-7938-48ff-a4b8-6e45ee609ecd",
+    "category": "skillet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bb42145c-9c63-4a36-93e8-612e26d41e17": {
+    "object_name": "glass_perfume_bottle",
+    "object_id": "bb42145c-9c63-4a36-93e8-612e26d41e17",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bbb7f81e-809f-4f86-85d1-5e6b2ed8f010": {
+    "object_name": "wooden_sand_timer",
+    "object_id": "bbb7f81e-809f-4f86-85d1-5e6b2ed8f010",
+    "category": "timer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bbc7af39-c9a5-411c-bffb-11740f46c3e8": {
+    "object_name": "wooden_mallet",
+    "object_id": "bbc7af39-c9a5-411c-bffb-11740f46c3e8",
+    "category": "mallet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bc108c0d-d286-432f-b33d-184acc6608d0": {
+    "object_name": "metal_dumbbell_rack",
+    "object_id": "bc108c0d-d286-432f-b33d-184acc6608d0",
+    "category": "rack",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bc3772c7-a57c-4ce3-a2b8-4f1711b257af": {
+    "object_name": "hex_rubber_dumbbell",
+    "object_id": "bc3772c7-a57c-4ce3-a2b8-4f1711b257af",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bc5d2a2b-2e09-44ab-802f-4add25984f81": {
+    "object_name": "clay_stamp_seal",
+    "object_id": "bc5d2a2b-2e09-44ab-802f-4add25984f81",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bcf8a3cb-484e-444a-bf93-e78c2dd196aa": {
+    "object_name": "bamboo_steamer_basket",
+    "object_id": "bcf8a3cb-484e-444a-bf93-e78c2dd196aa",
+    "category": "steamer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bcfaf93d-5388-4f91-a81c-25c58c08f70d": {
+    "object_name": "plastic_soda_bottle",
+    "object_id": "bcfaf93d-5388-4f91-a81c-25c58c08f70d",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bd0c5b4c-f173-4c07-8fee-d30586f0ac29": {
+    "object_name": "aluminum_soda_can",
+    "object_id": "bd0c5b4c-f173-4c07-8fee-d30586f0ac29",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bea82e2a-170b-4be8-80ab-4134038e9ed2": {
+    "object_name": "fluted_plastic_block",
+    "object_id": "bea82e2a-170b-4be8-80ab-4134038e9ed2",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bfaecde8-3211-402c-ab96-549006078ded": {
+    "object_name": "ceramic_teacup_with_handle",
+    "object_id": "bfaecde8-3211-402c-ab96-549006078ded",
+    "category": "teacup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "bfb6999e-8d78-47c1-8a1b-8d9a9a922ea1": {
+    "object_name": "fast_food_french_fries",
+    "object_id": "bfb6999e-8d78-47c1-8a1b-8d9a9a922ea1",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c00cd1d5-b6ce-4d7f-a1dc-49f200b386e5": {
+    "object_name": "ceramic_bowl",
+    "object_id": "c00cd1d5-b6ce-4d7f-a1dc-49f200b386e5",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c090cb68-7cf8-4972-b132-240017b33d2c": {
+    "object_name": "porcelain_tea_cup",
+    "object_id": "c090cb68-7cf8-4972-b132-240017b33d2c",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c0caf4b8-b6a9-44bb-a56a-35c87073c003": {
+    "object_name": "digital_kitchen_scale",
+    "object_id": "c0caf4b8-b6a9-44bb-a56a-35c87073c003",
+    "category": "scale",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c1dc09fc-e5b8-4b2c-a1ee-adb7fe68e6be": {
+    "object_name": "glass_soy_sauce_bottle",
+    "object_id": "c1dc09fc-e5b8-4b2c-a1ee-adb7fe68e6be",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c233e28d-badc-4dea-9918-4db7ca99c418": {
+    "object_name": "angled_wall_rack",
+    "object_id": "c233e28d-badc-4dea-9918-4db7ca99c418",
+    "category": "rack",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c2cd9821-74d6-4095-b34f-eb2b81dd975d": {
+    "object_name": "table_tennis_ball",
+    "object_id": "c2cd9821-74d6-4095-b34f-eb2b81dd975d",
+    "category": "ball",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c35fb3e6-2042-4f34-84b4-f2390b4427ea": {
+    "object_name": "metal_candelabra",
+    "object_id": "c35fb3e6-2042-4f34-84b4-f2390b4427ea",
+    "category": "candlestick",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c391985b-ac52-497b-b89d-00971e76c7e5": {
+    "object_name": "eggplant",
+    "object_id": "c391985b-ac52-497b-b89d-00971e76c7e5",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c39455d5-61cd-429b-bd27-3db830020d48": {
+    "object_name": "ceramic_bowl",
+    "object_id": "c39455d5-61cd-429b-bd27-3db830020d48",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c3abd5d4-fa7a-4fb3-acf8-a87da1c450ad": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "c3abd5d4-fa7a-4fb3-acf8-a87da1c450ad",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c42859b0-9e06-4c3c-97c5-8d1cfa31d32e": {
+    "object_name": "paper_notebook",
+    "object_id": "c42859b0-9e06-4c3c-97c5-8d1cfa31d32e",
+    "category": "notebook",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c43c002d-946a-41ce-ab9b-2348be533eb2": {
+    "object_name": "portable_plastic_fan",
+    "object_id": "c43c002d-946a-41ce-ab9b-2348be533eb2",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c4818850-fb9b-4197-885f-cb96500ce9e7": {
+    "object_name": "potato_chips_tube",
+    "object_id": "c4818850-fb9b-4197-885f-cb96500ce9e7",
+    "category": "container",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c5469a45-8e48-4538-8f7a-818c8a4814f5": {
+    "object_name": "modern_laptop_computer",
+    "object_id": "c5469a45-8e48-4538-8f7a-818c8a4814f5",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c755aa15-67eb-404c-b576-770c83c6bf46": {
+    "object_name": "brown_ceramic_mug",
+    "object_id": "c755aa15-67eb-404c-b576-770c83c6bf46",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c7bfc0e8-cb8d-4906-bdf0-0215a06b52b5": {
+    "object_name": "starbucks_ceramic_mug",
+    "object_id": "c7bfc0e8-cb8d-4906-bdf0-0215a06b52b5",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c7ec4c10-8642-44a5-9d51-d59511ded902": {
+    "object_name": "rubber_coated_dumbbell",
+    "object_id": "c7ec4c10-8642-44a5-9d51-d59511ded902",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c8958c3b-2c90-452d-bdea-fc1c797a79ce": {
+    "object_name": "dual_tip_brush_pen",
+    "object_id": "c8958c3b-2c90-452d-bdea-fc1c797a79ce",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c8a48ed4-ef9e-4e17-bccb-30a9e04261d2": {
+    "object_name": "wrapped_hamburger",
+    "object_id": "c8a48ed4-ef9e-4e17-bccb-30a9e04261d2",
+    "category": "food",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c8be82f8-b321-4690-8593-88e04c3d62ad": {
+    "object_name": "mini_wooden_chalkboard",
+    "object_id": "c8be82f8-b321-4690-8593-88e04c3d62ad",
+    "category": "chalkboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c934a87b-817d-4472-a0aa-228f1f4ecf98": {
+    "object_name": "plastic_stamp_seal",
+    "object_id": "c934a87b-817d-4472-a0aa-228f1f4ecf98",
+    "category": "seal",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c9dd303c-91fc-4bc6-8fd4-737d3ee8a018": {
+    "object_name": "plastic_glue_bottle",
+    "object_id": "c9dd303c-91fc-4bc6-8fd4-737d3ee8a018",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ca08ef54-b1d8-4bc6-83c4-cb68bba6bbb7": {
+    "object_name": "portable_bluetooth_speaker",
+    "object_id": "ca08ef54-b1d8-4bc6-83c4-cb68bba6bbb7",
+    "category": "speaker",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ca75d88c-3efa-4690-b38b-08260de50d04": {
+    "object_name": "metal_whistling_kettle",
+    "object_id": "ca75d88c-3efa-4690-b38b-08260de50d04",
+    "category": "kettle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ca8ee5aa-0fdf-4ea8-bd2f-728e399959a8": {
+    "object_name": "glass_soy_sauce_bottle",
+    "object_id": "ca8ee5aa-0fdf-4ea8-bd2f-728e399959a8",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "caecdaf3-fca1-49ca-b034-f5168cd5821a": {
+    "object_name": "plastic_remote_control",
+    "object_id": "caecdaf3-fca1-49ca-b034-f5168cd5821a",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cb202b31-a27d-49fe-91df-3830b1751803": {
+    "object_name": "plastic_desk_fan",
+    "object_id": "cb202b31-a27d-49fe-91df-3830b1751803",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cb5212e5-9e84-4daf-bf03-1f9c308734bd": {
+    "object_name": "wooden_cylinder_block",
+    "object_id": "cb5212e5-9e84-4daf-bf03-1f9c308734bd",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cb562d1b-b308-471a-9f78-1932fbb2fc07": {
+    "object_name": "plastic_watering_can",
+    "object_id": "cb562d1b-b308-471a-9f78-1932fbb2fc07",
+    "category": "watering_can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cb6ef469-6ef1-4a29-87c9-83659a5f2705": {
+    "object_name": "resin_tooth_model",
+    "object_id": "cb6ef469-6ef1-4a29-87c9-83659a5f2705",
+    "category": "model",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cbace341-2b85-4a3a-95e8-f141af51e0ca": {
+    "object_name": "olive_oil_bottle",
+    "object_id": "cbace341-2b85-4a3a-95e8-f141af51e0ca",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cc1e6630-4ef4-4e21-8bdc-8da2ff7a1380": {
+    "object_name": "wooden_cutting_board",
+    "object_id": "cc1e6630-4ef4-4e21-8bdc-8da2ff7a1380",
+    "category": "board",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cc2089af-7057-480a-8576-1580355cfb68": {
+    "object_name": "plastic_cup_with_liquid",
+    "object_id": "cc2089af-7057-480a-8576-1580355cfb68",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ccae8ade-5a7c-4728-9272-dc94fc66bb7c": {
+    "object_name": "ripe_peach",
+    "object_id": "ccae8ade-5a7c-4728-9272-dc94fc66bb7c",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cce961d0-3edb-4e44-aaf1-b17dc0eefac2": {
+    "object_name": "claw_hammer",
+    "object_id": "cce961d0-3edb-4e44-aaf1-b17dc0eefac2",
+    "category": "hammer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cd600c16-44f3-47e5-adcf-3e5e55b6d9c4": {
+    "object_name": "tall_wine_glass",
+    "object_id": "cd600c16-44f3-47e5-adcf-3e5e55b6d9c4",
+    "category": "glass",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cd6034a9-9a02-49e1-9736-1f1c3d4d5cfb": {
+    "object_name": "aluminum_soda_can",
+    "object_id": "cd6034a9-9a02-49e1-9736-1f1c3d4d5cfb",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cdbfc486-7b75-45ba-ae7d-fa7d62f1199b": {
+    "object_name": "metallic_cup",
+    "object_id": "cdbfc486-7b75-45ba-ae7d-fa7d62f1199b",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cdc4345a-0cf1-4819-80a3-cd4f45f162bc": {
+    "object_name": "ceramic_plate",
+    "object_id": "cdc4345a-0cf1-4819-80a3-cd4f45f162bc",
+    "category": "plate",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cde9ff95-a4f5-46f2-9c58-08193efafde8": {
+    "object_name": "modern_smartphone",
+    "object_id": "cde9ff95-a4f5-46f2-9c58-08193efafde8",
+    "category": "phone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cf79afe6-61f6-47ff-ab00-17d788dba34b": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "cf79afe6-61f6-47ff-ab00-17d788dba34b",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cfa44384-7d16-466f-b647-c8929191ab80": {
+    "object_name": "digital_kitchen_scale",
+    "object_id": "cfa44384-7d16-466f-b647-c8929191ab80",
+    "category": "scale",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cfefa6ed-5ff9-48d8-8fe5-ff357918ca0e": {
+    "object_name": "desktop_stapler",
+    "object_id": "cfefa6ed-5ff9-48d8-8fe5-ff357918ca0e",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d0ce8a6c-5007-4574-add2-7f96eaed4db2": {
+    "object_name": "plastic_toy_car",
+    "object_id": "d0ce8a6c-5007-4574-add2-7f96eaed4db2",
+    "category": "toy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d11e57cf-54d1-479e-b6c7-ce5f2b74eb52": {
+    "object_name": "wooden_rolling_pin",
+    "object_id": "d11e57cf-54d1-479e-b6c7-ce5f2b74eb52",
+    "category": "roller",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d1a1a32c-104c-41ee-b542-af68703f6eb7": {
+    "object_name": "rectangular_plastic_dustbin",
+    "object_id": "d1a1a32c-104c-41ee-b542-af68703f6eb7",
+    "category": "dustbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d23c4089-42c9-4621-8bdf-d08f13e70be1": {
+    "object_name": "handheld_juicer",
+    "object_id": "d23c4089-42c9-4621-8bdf-d08f13e70be1",
+    "category": "juicer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d255ae5d-69d4-4391-90c0-ac1406d777b5": {
+    "object_name": "glass_wineglass",
+    "object_id": "d255ae5d-69d4-4391-90c0-ac1406d777b5",
+    "category": "wineglass",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d2b81fbf-6a94-4751-be8d-eee2dec91220": {
+    "object_name": "pair_of_wooden_blocks",
+    "object_id": "d2b81fbf-6a94-4751-be8d-eee2dec91220",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d3682ed9-84af-435c-9a1e-2615a3baf831": {
+    "object_name": "ergonomic_wrist_rest",
+    "object_id": "d3682ed9-84af-435c-9a1e-2615a3baf831",
+    "category": "rest",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d4e09171-41f8-4e4b-9ccd-7ca57654773e": {
+    "object_name": "plastic_watering_can",
+    "object_id": "d4e09171-41f8-4e4b-9ccd-7ca57654773e",
+    "category": "waterer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d5471cf4-9b47-4c39-a391-7e874369bf2a": {
+    "object_name": "laptop_computer",
+    "object_id": "d5471cf4-9b47-4c39-a391-7e874369bf2a",
+    "category": "laptop",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d5661b08-d211-4916-bb14-57513f3cb00f": {
+    "object_name": "rectangular_tea_box",
+    "object_id": "d5661b08-d211-4916-bb14-57513f3cb00f",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d59e8adb-6f09-4d32-ba6d-681717c4b313": {
+    "object_name": "brass_call_bell",
+    "object_id": "d59e8adb-6f09-4d32-ba6d-681717c4b313",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d64dbf1c-1834-4b0f-9041-f338b38d9767": {
+    "object_name": "toilet_paper_roll",
+    "object_id": "d64dbf1c-1834-4b0f-9041-f338b38d9767",
+    "category": "roll",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d697e0fa-a5d5-46f5-8ad4-782c5e7573fe": {
+    "object_name": "metal_sauce_can",
+    "object_id": "d697e0fa-a5d5-46f5-8ad4-782c5e7573fe",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d780ce6a-b242-4605-b9b5-85baac9322d0": {
+    "object_name": "braided_bread_roll",
+    "object_id": "d780ce6a-b242-4605-b9b5-85baac9322d0",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d7f6e15d-edb9-490b-8d22-a87546e7a6bf": {
+    "object_name": "plastic_watering_can",
+    "object_id": "d7f6e15d-edb9-490b-8d22-a87546e7a6bf",
+    "category": "watering_can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d8bda831-e6af-4b92-8e86-4530352f2399": {
+    "object_name": "wooden_coaster",
+    "object_id": "d8bda831-e6af-4b92-8e86-4530352f2399",
+    "category": "coaster",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d8f7277a-0301-4884-bcb1-40e6f15b01fc": {
+    "object_name": "yellow_onion",
+    "object_id": "d8f7277a-0301-4884-bcb1-40e6f15b01fc",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "d8fd7cf0-400e-407f-9799-68592de85db3": {
+    "object_name": "wooden_cabinet",
+    "object_id": "d8fd7cf0-400e-407f-9799-68592de85db3",
+    "category": "cabinet",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "da07d463-a45c-438d-9f95-cdc6f381da87": {
+    "object_name": "blue_bar_soap",
+    "object_id": "da07d463-a45c-438d-9f95-cdc6f381da87",
+    "category": "soap",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "da8f6630-7f1f-46b8-9285-2a9b106d34c1": {
+    "object_name": "cordless_power_drill",
+    "object_id": "da8f6630-7f1f-46b8-9285-2a9b106d34c1",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "da8fcbdf-49b8-44c9-afbe-a7e5dd39c72a": {
+    "object_name": "brass_call_bell",
+    "object_id": "da8fcbdf-49b8-44c9-afbe-a7e5dd39c72a",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dbac2613-2280-47da-a810-55d149eb48da": {
+    "object_name": "cordless_power_drill",
+    "object_id": "dbac2613-2280-47da-a810-55d149eb48da",
+    "category": "drill",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dbba391c-f77a-40de-81d1-eeae7a6c9544": {
+    "object_name": "portable_clip_fan",
+    "object_id": "dbba391c-f77a-40de-81d1-eeae7a6c9544",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dbd50f81-9aa0-4c90-9a44-59fd85d3872c": {
+    "object_name": "plastic_pet_collar",
+    "object_id": "dbd50f81-9aa0-4c90-9a44-59fd85d3872c",
+    "category": "collar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dd0c5807-e8d4-4866-a4ae-718fa666d090": {
+    "object_name": "wooden_mallet",
+    "object_id": "dd0c5807-e8d4-4866-a4ae-718fa666d090",
+    "category": "mallet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dd10bdd9-7d1b-4224-9967-c02e2197f576": {
+    "object_name": "rectangular_tissue_box",
+    "object_id": "dd10bdd9-7d1b-4224-9967-c02e2197f576",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dd566187-0df8-482f-a3d7-541b6eb6cd1b": {
+    "object_name": "orange_carrot",
+    "object_id": "dd566187-0df8-482f-a3d7-541b6eb6cd1b",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dd9a5591-3bdf-40f6-8624-6c5ae31d1200": {
+    "object_name": "plastic_drink_bottle",
+    "object_id": "dd9a5591-3bdf-40f6-8624-6c5ae31d1200",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dda7e515-dae3-4d63-966e-9f5226ab768e": {
+    "object_name": "metal_dumbbell_rack",
+    "object_id": "dda7e515-dae3-4d63-966e-9f5226ab768e",
+    "category": "rack",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ddd509fd-b7cc-4135-91a6-981b7c50ab75": {
+    "object_name": "cardboard_coffee_box",
+    "object_id": "ddd509fd-b7cc-4135-91a6-981b7c50ab75",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "de4e6c10-729a-4d7a-8033-1bac871f8e48": {
+    "object_name": "desktop_globe",
+    "object_id": "de4e6c10-729a-4d7a-8033-1bac871f8e48",
+    "category": "globe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "df142a62-589b-4304-839f-b31508886554": {
+    "object_name": "plastic_toy_car",
+    "object_id": "df142a62-589b-4304-839f-b31508886554",
+    "category": "toy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "df190a8c-16c2-4f91-bb24-0b784c41215d": {
+    "object_name": "canvas_sneaker",
+    "object_id": "df190a8c-16c2-4f91-bb24-0b784c41215d",
+    "category": "shoe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "df2008af-a787-4fe4-bc14-cb6b98779d17": {
+    "object_name": "rectangular_smartphone",
+    "object_id": "df2008af-a787-4fe4-bc14-cb6b98779d17",
+    "category": "phone",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "dfd83e85-ff38-4837-befa-5006ad9c04a2": {
+    "object_name": "plastic_pill_bottle",
+    "object_id": "dfd83e85-ff38-4837-befa-5006ad9c04a2",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e0dddf95-df4b-4949-88d1-6e72e9de6923": {
+    "object_name": "plastic_drinking_cup",
+    "object_id": "e0dddf95-df4b-4949-88d1-6e72e9de6923",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e100a9ae-74cd-47b7-9551-c683e0b97e12": {
+    "object_name": "woven_bread_basket",
+    "object_id": "e100a9ae-74cd-47b7-9551-c683e0b97e12",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e17590aa-e0fe-4332-838a-cd9e527bf7b0": {
+    "object_name": "glass_jam_jar",
+    "object_id": "e17590aa-e0fe-4332-838a-cd9e527bf7b0",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e1a2438d-af89-422f-aed5-0bdc73d17a9e": {
+    "object_name": "orange_table_tennis_ball",
+    "object_id": "e1a2438d-af89-422f-aed5-0bdc73d17a9e",
+    "category": "ball",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e1be82b1-6bfb-4109-a2d5-792177703d6c": {
+    "object_name": "plastic_msg_container",
+    "object_id": "e1be82b1-6bfb-4109-a2d5-792177703d6c",
+    "category": "container",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e2862e42-2e1d-4ef4-b924-92ccce94a365": {
+    "object_name": "plastic_mug",
+    "object_id": "e2862e42-2e1d-4ef4-b924-92ccce94a365",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e31dadc6-9d91-477a-b08d-30f6c1fd9804": {
+    "object_name": "wooden_mallet",
+    "object_id": "e31dadc6-9d91-477a-b08d-30f6c1fd9804",
+    "category": "mallet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e3f65160-6017-44f3-8962-6d217f01fd82": {
+    "object_name": "handheld_calculator",
+    "object_id": "e3f65160-6017-44f3-8962-6d217f01fd82",
+    "category": "calculator",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e3fd79e3-fe8b-4444-8f2c-0f94e29f4788": {
+    "object_name": "golden_trophy_cup",
+    "object_id": "e3fd79e3-fe8b-4444-8f2c-0f94e29f4788",
+    "category": "trophy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e4753080-7b92-433d-8e9e-ceb80fe1c4a1": {
+    "object_name": "plastic_phone_stand",
+    "object_id": "e4753080-7b92-433d-8e9e-ceb80fe1c4a1",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e4b71acc-7255-401c-b511-a5c7f77c5d2d": {
+    "object_name": "hex_dumbbell",
+    "object_id": "e4b71acc-7255-401c-b511-a5c7f77c5d2d",
+    "category": "dumbbell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e4ea0103-177b-4136-8edd-f828a9748d00": {
+    "object_name": "rectangular_wooden_box",
+    "object_id": "e4ea0103-177b-4136-8edd-f828a9748d00",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e51311eb-db3e-4b2d-9326-bb0205f5439c": {
+    "object_name": "plastic_payment_sign",
+    "object_id": "e51311eb-db3e-4b2d-9326-bb0205f5439c",
+    "category": "sign",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e5657980-0387-4a0d-9a12-619eed91217d": {
+    "object_name": "metal_kitchen_pot_with_lid",
+    "object_id": "e5657980-0387-4a0d-9a12-619eed91217d",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e58046a2-86b9-4103-af37-0c7cc5a88643": {
+    "object_name": "portable_clip_fan",
+    "object_id": "e58046a2-86b9-4103-af37-0c7cc5a88643",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e58f2fde-ed7e-461e-978c-850915f4c65d": {
+    "object_name": "plastic_desktop_stapler",
+    "object_id": "e58f2fde-ed7e-461e-978c-850915f4c65d",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e692e6bd-2e95-40d7-8979-c64c3825b7bd": {
+    "object_name": "rgb_mechanical_keyboard",
+    "object_id": "e692e6bd-2e95-40d7-8979-c64c3825b7bd",
+    "category": "keyboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e7f3b550-5040-4567-ae61-a2c2c92ce2c7": {
+    "object_name": "hand_call_bell",
+    "object_id": "e7f3b550-5040-4567-ae61-a2c2c92ce2c7",
+    "category": "bell",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e81e0b55-7e42-4e5c-9e76-d83ddfaccab7": {
+    "object_name": "red_tomato",
+    "object_id": "e81e0b55-7e42-4e5c-9e76-d83ddfaccab7",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e84b038e-0cde-4bb6-b640-b9a3737b1207": {
+    "object_name": "printed_ceramic_mug",
+    "object_id": "e84b038e-0cde-4bb6-b640-b9a3737b1207",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e899b38d-c725-432d-a805-09673409d0d1": {
+    "object_name": "ceramic_mug",
+    "object_id": "e899b38d-c725-432d-a805-09673409d0d1",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e8a0216b-4769-41d5-93ed-3a0a2157a936": {
+    "object_name": "fast_food_burger_box",
+    "object_id": "e8a0216b-4769-41d5-93ed-3a0a2157a936",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e9624bd7-3b56-4c7f-87bd-bf48387f91a0": {
+    "object_name": "rectangular_plastic_plant_pot",
+    "object_id": "e9624bd7-3b56-4c7f-87bd-bf48387f91a0",
+    "category": "plantpot",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "eb14d4ff-b21d-4637-8423-67bc326ff67f": {
+    "object_name": "yellow_lemon",
+    "object_id": "eb14d4ff-b21d-4637-8423-67bc326ff67f",
+    "category": "fruit",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "eb75d6c1-5f93-410f-bfc8-09d90c71757a": {
+    "object_name": "olive_oil_bottle",
+    "object_id": "eb75d6c1-5f93-410f-bfc8-09d90c71757a",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ec1e9043-d1bb-4435-b0a9-c85b8260f7a0": {
+    "object_name": "ornate_metal_candelabrum",
+    "object_id": "ec1e9043-d1bb-4435-b0a9-c85b8260f7a0",
+    "category": "candlestick",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ecc36605-f00b-488a-b7d8-dfc0f407b5e2": {
+    "object_name": "rectangular_plastic_storage_bin",
+    "object_id": "ecc36605-f00b-488a-b7d8-dfc0f407b5e2",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ed304498-00db-4a04-adf6-65b04b7c583e": {
+    "object_name": "blue_plastic_toy_car",
+    "object_id": "ed304498-00db-4a04-adf6-65b04b7c583e",
+    "category": "toycar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ed96a666-4682-4336-b6b7-276361fa8c29": {
+    "object_name": "digital_kitchen_scale",
+    "object_id": "ed96a666-4682-4336-b6b7-276361fa8c29",
+    "category": "scale",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "edc5644c-49b0-47f1-8558-8c43105c5949": {
+    "object_name": "plastic_display_stand",
+    "object_id": "edc5644c-49b0-47f1-8558-8c43105c5949",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ee3c8661-073f-4fa9-a9e2-1f1b8509932e": {
+    "object_name": "plastic_sand_timer",
+    "object_id": "ee3c8661-073f-4fa9-a9e2-1f1b8509932e",
+    "category": "timer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "eeca9dd1-d09b-4e7b-8b84-17abbcd16bc4": {
+    "object_name": "wooden_mallet",
+    "object_id": "eeca9dd1-d09b-4e7b-8b84-17abbcd16bc4",
+    "category": "mallet",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ef0a89e6-3a1c-4726-9691-d1f65df96f39": {
+    "object_name": "decorative_animal_face_cup",
+    "object_id": "ef0a89e6-3a1c-4726-9691-d1f65df96f39",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ef6de1e3-b357-454b-aaa5-9a80949b9a8a": {
+    "object_name": "plastic_trophy_cup",
+    "object_id": "ef6de1e3-b357-454b-aaa5-9a80949b9a8a",
+    "category": "trophy",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f0536850-eafd-49dc-9dc3-063f993421ac": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "f0536850-eafd-49dc-9dc3-063f993421ac",
+    "category": "pencup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f087e762-26e6-4622-a583-68929a2e5cc4": {
+    "object_name": "plastic_marker_pen",
+    "object_id": "f087e762-26e6-4622-a583-68929a2e5cc4",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f17dee28-f994-41d6-af9e-a2887bb09806": {
+    "object_name": "plastic_vinegar_bottle",
+    "object_id": "f17dee28-f994-41d6-af9e-a2887bb09806",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f1805bd5-750b-4e3b-84c4-fe096351f56a": {
+    "object_name": "latching_plastic_storage_box",
+    "object_id": "f1805bd5-750b-4e3b-84c4-fe096351f56a",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f189ec6b-31b3-4749-9a11-12ba108258b5": {
+    "object_name": "decorated_ceramic_cup",
+    "object_id": "f189ec6b-31b3-4749-9a11-12ba108258b5",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f1cd5758-fff7-47c2-8d5e-c321671dd4ba": {
+    "object_name": "corn_on_the_cob",
+    "object_id": "f1cd5758-fff7-47c2-8d5e-c321671dd4ba",
+    "category": "vegetable",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f1fa87ca-4f8c-402f-a598-36cbdce41f5c": {
+    "object_name": "glue_stick",
+    "object_id": "f1fa87ca-4f8c-402f-a598-36cbdce41f5c",
+    "category": "glue",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f2b00344-5f2c-49d1-9b99-c8fae4a781dc": {
+    "object_name": "plastic_payment_sign",
+    "object_id": "f2b00344-5f2c-49d1-9b99-c8fae4a781dc",
+    "category": "sign",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f3bcb801-8c17-40e7-a922-dd5802c3af7f": {
+    "object_name": "plastic_desktop_stapler",
+    "object_id": "f3bcb801-8c17-40e7-a922-dd5802c3af7f",
+    "category": "stapler",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f43bae46-f6fc-4841-9aa4-01297a7ebfaf": {
+    "object_name": "calligraphy_brush_pen",
+    "object_id": "f43bae46-f6fc-4841-9aa4-01297a7ebfaf",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f4ace86a-b64d-4471-9d0f-2cc38447f00f": {
+    "object_name": "metal_tea_strainer",
+    "object_id": "f4ace86a-b64d-4471-9d0f-2cc38447f00f",
+    "category": "strainer",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f4c78267-9fba-4674-80dc-62b78e2c4d7f": {
+    "object_name": "deck_of_playing_cards",
+    "object_id": "f4c78267-9fba-4674-80dc-62b78e2c4d7f",
+    "category": "cards",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f4f214a1-5117-4bd8-914b-c217abae5df3": {
+    "object_name": "wooden_gong",
+    "object_id": "f4f214a1-5117-4bd8-914b-c217abae5df3",
+    "category": "gong",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f50cd09e-c56a-4617-8792-d4548909ceb9": {
+    "object_name": "aluminum_soda_can",
+    "object_id": "f50cd09e-c56a-4617-8792-d4548909ceb9",
+    "category": "can",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f52c4d04-17a4-45dc-9351-162b5359b21c": {
+    "object_name": "paperboard_milk_carton",
+    "object_id": "f52c4d04-17a4-45dc-9351-162b5359b21c",
+    "category": "carton",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f57427eb-50ea-4d5c-aef9-205032842371": {
+    "object_name": "plastic_display_stand",
+    "object_id": "f57427eb-50ea-4d5c-aef9-205032842371",
+    "category": "stand",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f5744215-1576-4f9c-b8ce-26361523e4ce": {
+    "object_name": "plastic_tabletop_trash_bin",
+    "object_id": "f5744215-1576-4f9c-b8ce-26361523e4ce",
+    "category": "trashbin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f5905fb4-f917-4d1e-b140-5c5e6bf0436e": {
+    "object_name": "bubble_tea_cup",
+    "object_id": "f5905fb4-f917-4d1e-b140-5c5e6bf0436e",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f64c272c-d78c-4f01-bb76-12a140f59f5d": {
+    "object_name": "metal_kitchen_pot_with_lid",
+    "object_id": "f64c272c-d78c-4f01-bb76-12a140f59f5d",
+    "category": "pot",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f7264e47-8452-4ae7-a0c4-dd4e509d1b32": {
+    "object_name": "decorative_metal_kettle",
+    "object_id": "f7264e47-8452-4ae7-a0c4-dd4e509d1b32",
+    "category": "kettle",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f7df6e6a-6db9-41ae-9dfc-5813ec6f6bf0": {
+    "object_name": "woven_bread_basket",
+    "object_id": "f7df6e6a-6db9-41ae-9dfc-5813ec6f6bf0",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f839150a-7969-4c10-a074-7593a4291e92": {
+    "object_name": "ceramic_bowl",
+    "object_id": "f839150a-7969-4c10-a074-7593a4291e92",
+    "category": "bowl",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f85770c2-abbf-4c93-9dd6-a152c1b9d27e": {
+    "object_name": "woven_table_trash_bin",
+    "object_id": "f85770c2-abbf-4c93-9dd6-a152c1b9d27e",
+    "category": "bin",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f97f8c2d-1a8c-4e87-b1b6-3d0a673d3d1a": {
+    "object_name": "plastic_dustpan_and_brush",
+    "object_id": "f97f8c2d-1a8c-4e87-b1b6-3d0a673d3d1a",
+    "category": "brush",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f98dba85-7b17-4c1e-b748-467c406b0297": {
+    "object_name": "countertop_microwave_oven",
+    "object_id": "f98dba85-7b17-4c1e-b748-467c406b0297",
+    "category": "microwave",
+    "object_type": "Articulation",
+    "file_type": "urdf",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f9d3016e-ac2a-4afd-935c-4da18d30ebf3": {
+    "object_name": "decorative_tea_box",
+    "object_id": "f9d3016e-ac2a-4afd-935c-4da18d30ebf3",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "f9ed1031-8152-4576-b8c3-04100b85dba6": {
+    "object_name": "cardboard_milk_carton",
+    "object_id": "f9ed1031-8152-4576-b8c3-04100b85dba6",
+    "category": "carton",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fa48ccbc-ccfc-4ed3-83e6-a1d45260988e": {
+    "object_name": "sauce_jar",
+    "object_id": "fa48ccbc-ccfc-4ed3-83e6-a1d45260988e",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "faa35475-ba5e-4a14-95a6-3197808d6c49": {
+    "object_name": "loaf_of_bread",
+    "object_id": "faa35475-ba5e-4a14-95a6-3197808d6c49",
+    "category": "bread",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fb237651-e353-4431-acd3-d22ab2f48d9a": {
+    "object_name": "bubble_tea_cup",
+    "object_id": "fb237651-e353-4431-acd3-d22ab2f48d9a",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fbde4bdb-544c-4795-a5b3-56256abd9801": {
+    "object_name": "plastic_pen_cup",
+    "object_id": "fbde4bdb-544c-4795-a5b3-56256abd9801",
+    "category": "cup",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fc2e8eae-4b4a-473d-aabe-ed57c957c31a": {
+    "object_name": "plastic_brush_pen",
+    "object_id": "fc2e8eae-4b4a-473d-aabe-ed57c957c31a",
+    "category": "pen",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fc4e47ed-d4c2-4c25-aea2-424d5b7fd0ea": {
+    "object_name": "plastic_watering_can",
+    "object_id": "fc4e47ed-d4c2-4c25-aea2-424d5b7fd0ea",
+    "category": "wateringcan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fc7caeed-3e72-4156-9fbc-86d9557fbf39": {
+    "object_name": "fluted_concrete_block",
+    "object_id": "fc7caeed-3e72-4156-9fbc-86d9557fbf39",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fc9ee43c-f933-4ce5-aa29-5ba4ab527510": {
+    "object_name": "blue_plastic_storage_box",
+    "object_id": "fc9ee43c-f933-4ce5-aa29-5ba4ab527510",
+    "category": "box",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fd1100f9-6871-40aa-90dd-0a89b31c5535": {
+    "object_name": "plastic_shopping_basket",
+    "object_id": "fd1100f9-6871-40aa-90dd-0a89b31c5535",
+    "category": "basket",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fdac0cc5-3326-4e1e-b21c-7dc641c0b310": {
+    "object_name": "plastic_remote_control",
+    "object_id": "fdac0cc5-3326-4e1e-b21c-7dc641c0b310",
+    "category": "remote",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fdd253d2-befc-421d-b3a0-751b97569537": {
+    "object_name": "plastic_sauce_jar",
+    "object_id": "fdd253d2-befc-421d-b3a0-751b97569537",
+    "category": "jar",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fdfa1a4c-7270-416d-b483-2847c7f37259": {
+    "object_name": "ceramic_mug",
+    "object_id": "fdfa1a4c-7270-416d-b483-2847c7f37259",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "fe256e82-206b-4031-a3f8-4c74349f07df": {
+    "object_name": "plastic_glue_bottle",
+    "object_id": "fe256e82-206b-4031-a3f8-4c74349f07df",
+    "category": "bottle",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ff18047a-6f25-42ab-9988-d592dc1db04d": {
+    "object_name": "ceramic_mug",
+    "object_id": "ff18047a-6f25-42ab-9988-d592dc1db04d",
+    "category": "mug",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ff4062d3-7dd5-48db-a232-a2bf12da549d": {
+    "object_name": "rectangular_alarm_clock",
+    "object_id": "ff4062d3-7dd5-48db-a232-a2bf12da549d",
+    "category": "clock",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "ff7e5a1f-13f2-4841-a163-d3f2404ec9f5": {
+    "object_name": "hardcover_book",
+    "object_id": "ff7e5a1f-13f2-4841-a163-d3f2404ec9f5",
+    "category": "book",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  }
+}

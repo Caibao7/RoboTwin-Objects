@@ -1,0 +1,90 @@
+{  
+    "036ed941-bde8-4426-bcc5-61cc44b56d23": {
+    "object_name": "yellow_flashlight",
+    "object_id": "036ed941-bde8-4426-bcc5-61cc44b56d23",
+    "category": "flashlight",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+        "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+    },
+  "1dbc90b1-1481-4ece-b9dd-49dac2f52ee7": {
+    "object_name": "plastic_cylinder_block",
+    "object_id": "1dbc90b1-1481-4ece-b9dd-49dac2f52ee7",
+    "category": "block",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "44d45c87-7a45-44d9-b00c-d3a72608d80e": {
+    "object_name": "round_desktop_cleaner",
+    "object_id": "44d45c87-7a45-44d9-b00c-d3a72608d80e",
+    "category": "cleaner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "638598b7-e011-4c1b-b884-c3aa5f709e06": {
+    "object_name": "robotic_vacuum_cleaner",
+    "object_id": "638598b7-e011-4c1b-b884-c3aa5f709e06",
+    "category": "cleaner",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e": {
+    "object_name": "desktop_world_globe",
+    "object_id": "6a6c0ecf-fdf9-455c-8dbe-1e03c580bd5e",
+    "category": "globe",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "c8be82f8-b321-4690-8593-88e04c3d62ad": {
+    "object_name": "mini_wooden_chalkboard",
+    "object_id": "c8be82f8-b321-4690-8593-88e04c3d62ad",
+    "category": "chalkboard",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "cb202b31-a27d-49fe-91df-3830b1751803": {
+    "object_name": "plastic_desk_fan",
+    "object_id": "cb202b31-a27d-49fe-91df-3830b1751803",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "StructuralEntities"
+    ],
+    "dataset": "robotwin"
+  },
+  "e58046a2-86b9-4103-af37-0c7cc5a88643": {
+    "object_name": "portable_clip_fan",
+    "object_id": "e58046a2-86b9-4103-af37-0c7cc5a88643",
+    "category": "fan",
+    "object_type": "Actor",
+    "file_type": "glb",
+    "tags": [
+      "DynamicEntities"
+    ],
+    "dataset": "robotwin"
+  }
+}

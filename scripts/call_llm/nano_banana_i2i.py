@@ -10,10 +10,11 @@ from google import genai  # pip install google-genai
 PROMPT_TEMPLATE = (
     "Use the provided reference image. "
     "Focus on generating a high-fidelity 3D model of the {object_name} of the image in the style of a “3D-printed architecture model.” "
-    "Preserve the object's shape, proportions, and detailed surface textures (such as grain, patterns, and material imperfections), lightly stylized for a game. "
-    "Ensure that the render shows clear and realistic textures, not smooth placeholders. "
-    "Use physically-based lighting and shadows to highlight material depth. "
-    "Show a 45° top-down (isometric) view to emphasize dimension. "
+    "Preserve the object's shape, proportions, and fundamental structural framework, ensuring the core geometry remains intact. "
+    "Directly reuse the object's original textures and materials from the input image, do not invent or create new textures. Maintain the object's existing surface appearance; for occluded or missing regions, extend by tiling or mirroring from visible areas only."
+    "Lightly stylized for a game. Ensure that the render shows clear and realistic textures, not smooth placeholders. "
+    "Use physically-based lighting and shadows to highlight material depth." 
+    "Show a 45° top-down (isometric) view to emphasize dimension." 
     "Define materials precisely—reflective glass, metallic surfaces, concrete, wood—so the model reads as textured, high-quality, game-engine-ready render. "
     "Pure white background."
 )
